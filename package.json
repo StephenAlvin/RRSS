@@ -1,0 +1,15 @@
+{
+  "name": "rrss-wiki",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fan-made wiki for Pokémon Rising Ruby / Sinking Sapphire (Material for MkDocs). The scripts below wrap the Python tooling so it feels like a Node project.",
+  "scripts": {
+    "setup": "python3 -m venv venv && venv/bin/pip install --upgrade pip && venv/bin/pip install -r requirements.txt",
+    "dev": "SITE_URL=http://127.0.0.1:8000/ DISABLE_MKDOCS_2_WARNING=true venv/bin/mkdocs serve --dirty",
+    "dev:full": "SITE_URL=http://127.0.0.1:8000/ DISABLE_MKDOCS_2_WARNING=true venv/bin/mkdocs serve",
+    "build": "DISABLE_MKDOCS_2_WARNING=true venv/bin/mkdocs build --strict",
+    "generate": "venv/bin/python -I tools/build.py --skip-fetch --skip-sprites",
+    "data": "venv/bin/python -I tools/build.py",
+    "clean": "rm -rf site"
+  }
+}
