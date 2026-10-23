@@ -81,6 +81,8 @@ npm run clean     # delete site/
 
 `.github/workflows/deploy.yml` builds the site on every push to `main` and publishes it to the `gh-pages` branch with `mkdocs gh-deploy`. After the first run, set **Settings → Pages → Source** to the `gh-pages` branch and the site will be served at `https://<user>.github.io/RRSS/` (update `site_url` in `mkdocs.yml` if the repository name differs).
 
+The site is also on Netlify. `netlify.toml` holds its build settings (they override the ones in the Netlify UI): every push to `main` runs `mkdocs build --strict` and publishes `site/`. Netlify installs `requirements.txt` itself, and the build sets `site_url` to the Netlify address so the 404 page and sitemap point there.
+
 ## Credits
 
 - Rising Ruby / Sinking Sapphire and its documentation: **Drayano** ([release thread](https://projectpokemon.org/home/forums/topic/38629-pok%C3%A9mon-rising-ruby-and-sinking-sapphire/)).

@@ -1,0 +1,9 @@
+# Netlify build settings (these override the ones in the Netlify UI).
+# Netlify installs requirements.txt by itself. $URL is the site's Netlify address, so the 404 page,
+# sitemap and canonical links point at Netlify instead of the GitHub Pages default in mkdocs.yml.
+[build]
+  command = "SITE_URL=$URL mkdocs build --strict"
+  publish = "site"
+
+[build.environment]
+  DISABLE_MKDOCS_2_WARNING = "true"
