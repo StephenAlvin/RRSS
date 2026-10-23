@@ -10,28 +10,28 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/23.png){ .icon loading=lazy } [Ekans](../pokemon/023.md) | <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/37.png){ .icon loading=lazy } [Vulpix](../pokemon/037.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/127.png){ .icon loading=lazy } [Pinsir](../pokemon/127.md) | <span class="type type-bug">Bug</span> | 10% |
-| ![](../img/icons/214.png){ .icon loading=lazy } [Heracross](../pokemon/214.md) | <span class="type type-bug">Bug</span> <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/239.png){ .icon loading=lazy } [Elekid](../pokemon/239.md) | <span class="type type-electric">Electric</span> | 10% |
-| ![](../img/icons/240.png){ .icon loading=lazy } [Magby](../pokemon/240.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/538.png){ .icon loading=lazy } [Throh](../pokemon/538.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/539.png){ .icon loading=lazy } [Sawk](../pokemon/539.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/619.png){ .icon loading=lazy } [Mienfoo](../pokemon/619.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/624.png){ .icon loading=lazy } [Pawniard](../pokemon/624.md) | <span class="type type-dark">Dark</span> <span class="type type-steel">Steel</span> | 10% |
+| <span class="mon">![](../img/icons/23.png){ .icon loading=lazy } [Ekans](../pokemon/023.md)</span> | <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/37.png){ .icon loading=lazy } [Vulpix](../pokemon/037.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/127.png){ .icon loading=lazy } [Pinsir](../pokemon/127.md)</span> | <span class="type type-bug">Bug</span> | 10% |
+| <span class="mon">![](../img/icons/214.png){ .icon loading=lazy } [Heracross](../pokemon/214.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/239.png){ .icon loading=lazy } [Elekid](../pokemon/239.md)</span> | <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/240.png){ .icon loading=lazy } [Magby](../pokemon/240.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/538.png){ .icon loading=lazy } [Throh](../pokemon/538.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/539.png){ .icon loading=lazy } [Sawk](../pokemon/539.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/619.png){ .icon loading=lazy } [Mienfoo](../pokemon/619.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/624.png){ .icon loading=lazy } [Pawniard](../pokemon/624.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-steel">Steel</span> | 10% |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/38.png){ .icon loading=lazy } [Ninetales](../pokemon/038.md) | <span class="type type-fire">Fire</span> | — |
+| <span class="mon">![](../img/icons/38.png){ .icon loading=lazy } [Ninetales](../pokemon/038.md)</span> | <span class="type type-fire">Fire</span> | — |
 
 ## Horde — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/236.png){ .icon loading=lazy } [Tyrogue](../pokemon/236.md) | <span class="type type-fighting">Fighting</span> | — |
+| <span class="mon">![](../img/icons/236.png){ .icon loading=lazy } [Tyrogue](../pokemon/236.md)</span> | <span class="type type-fighting">Fighting</span> | — |
 
 
 ---

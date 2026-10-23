@@ -6,7 +6,7 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 856 | **Secret Base Expert Aarune** | ![](../img/icons/330.png){ .icon loading=lazy } [Flygon](../pokemon/330.md) Lv. 48 |
+| 856 | **Secret Base Expert Aarune** | <span class="mon">![](../img/icons/330.png){ .icon loading=lazy } [Flygon](../pokemon/330.md) Lv. 48</span> |
 
 
 ---

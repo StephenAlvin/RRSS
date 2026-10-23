@@ -10,48 +10,48 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/24.png){ .icon loading=lazy } [Arbok](../pokemon/024.md) | <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/44.png){ .icon loading=lazy } [Gloom](../pokemon/044.md) | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/70.png){ .icon loading=lazy } [Weepinbell](../pokemon/070.md) | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/195.png){ .icon loading=lazy } [Quagsire](../pokemon/195.md) | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/357.png){ .icon loading=lazy } [Tropius](../pokemon/357.md) | <span class="type type-grass">Grass</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/452.png){ .icon loading=lazy } [Drapion](../pokemon/452.md) | <span class="type type-poison">Poison</span> <span class="type type-dark">Dark</span> | 10% |
-| ![](../img/icons/455.png){ .icon loading=lazy } [Carnivine](../pokemon/455.md) | <span class="type type-grass">Grass</span> | 10% |
-| ![](../img/icons/590.png){ .icon loading=lazy } [Foongus](../pokemon/590.md) | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/591.png){ .icon loading=lazy } [Amoonguss](../pokemon/591.md) | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/705.png){ .icon loading=lazy } [Sliggoo](../pokemon/705.md) | <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/24.png){ .icon loading=lazy } [Arbok](../pokemon/024.md)</span> | <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/44.png){ .icon loading=lazy } [Gloom](../pokemon/044.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/70.png){ .icon loading=lazy } [Weepinbell](../pokemon/070.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/195.png){ .icon loading=lazy } [Quagsire](../pokemon/195.md)</span> | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/357.png){ .icon loading=lazy } [Tropius](../pokemon/357.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/452.png){ .icon loading=lazy } [Drapion](../pokemon/452.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-dark">Dark</span> | 10% |
+| <span class="mon">![](../img/icons/455.png){ .icon loading=lazy } [Carnivine](../pokemon/455.md)</span> | <span class="type type-grass">Grass</span> | 10% |
+| <span class="mon">![](../img/icons/590.png){ .icon loading=lazy } [Foongus](../pokemon/590.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/591.png){ .icon loading=lazy } [Amoonguss](../pokemon/591.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/705.png){ .icon loading=lazy } [Sliggoo](../pokemon/705.md)</span> | <span class="type type-dragon">Dragon</span> | 10% |
 
 ## Horde — Lv. 30
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/253.png){ .icon loading=lazy } [Grovyle](../pokemon/253.md) | <span class="type type-grass">Grass</span> | — |
+| <span class="mon">![](../img/icons/253.png){ .icon loading=lazy } [Grovyle](../pokemon/253.md)</span> | <span class="type type-grass">Grass</span> | — |
 
 ## Surfing — Lv. 30 - 40
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/704.png){ .icon loading=lazy } [Goomy](../pokemon/704.md) | <span class="type type-dragon">Dragon</span> | — |
-| ![](../img/icons/618.png){ .icon loading=lazy } [Stunfisk](../pokemon/618.md) | <span class="type type-ground">Ground</span> <span class="type type-electric">Electric</span> | — |
+| <span class="mon">![](../img/icons/704.png){ .icon loading=lazy } [Goomy](../pokemon/704.md)</span> | <span class="type type-dragon">Dragon</span> | — |
+| <span class="mon">![](../img/icons/618.png){ .icon loading=lazy } [Stunfisk](../pokemon/618.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-electric">Electric</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/349.png){ .icon loading=lazy } [Feebas](../pokemon/349.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/349.png){ .icon loading=lazy } [Feebas](../pokemon/349.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/349.png){ .icon loading=lazy } [Feebas](../pokemon/349.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/349.png){ .icon loading=lazy } [Feebas](../pokemon/349.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/349.png){ .icon loading=lazy } [Feebas](../pokemon/349.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) | <span class="type type-water">Water</span> | <span class="rare">rare</span> |
+| <span class="mon">![](../img/icons/349.png){ .icon loading=lazy } [Feebas](../pokemon/349.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md)</span> | <span class="type type-water">Water</span> | <span class="rare">rare</span> |
 
 
 ---

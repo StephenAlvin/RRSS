@@ -6,9 +6,9 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 745 | **Scuba Diver Javier** | ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 60 |
-| 757 | **Free Diver Kailyn** | ![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md) Lv. 60 |
-| 758 | **Free Diver Aileen** | ![](../img/icons/365.png){ .icon loading=lazy } [Walrein](../pokemon/365.md) Lv. 60 |
+| 745 | **Scuba Diver Javier** | <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 60</span> |
+| 757 | **Free Diver Kailyn** | <span class="mon">![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md) Lv. 60</span> |
+| 758 | **Free Diver Aileen** | <span class="mon">![](../img/icons/365.png){ .icon loading=lazy } [Walrein](../pokemon/365.md) Lv. 60</span> |
 
 
 ---

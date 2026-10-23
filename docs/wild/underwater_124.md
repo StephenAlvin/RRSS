@@ -10,16 +10,16 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/117.png){ .icon loading=lazy } [Seadra](../pokemon/117.md) | <span class="type type-water">Water</span> | 10% |
-| ![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md) | <span class="type type-water">Water</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/171.png){ .icon loading=lazy } [Lanturn](../pokemon/171.md) | <span class="type type-water">Water</span> <span class="type type-electric">Electric</span> | 10% |
-| ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | 10% |
-| ![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) | <span class="type type-water">Water</span> | 10% |
-| ![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) | <span class="type type-water">Water</span> | 10% |
-| ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | 10% |
-| ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) | <span class="type type-water">Water</span> <span class="type type-ghost">Ghost</span> | 10% |
-| ![](../img/icons/691.png){ .icon loading=lazy } [Dragalge](../pokemon/691.md) | <span class="type type-poison">Poison</span> <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/117.png){ .icon loading=lazy } [Seadra](../pokemon/117.md)</span> | <span class="type type-water">Water</span> | 10% |
+| <span class="mon">![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md)</span> | <span class="type type-water">Water</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/171.png){ .icon loading=lazy } [Lanturn](../pokemon/171.md)</span> | <span class="type type-water">Water</span> <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | 10% |
+| <span class="mon">![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md)</span> | <span class="type type-water">Water</span> | 10% |
+| <span class="mon">![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md)</span> | <span class="type type-water">Water</span> | 10% |
+| <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | 10% |
+| <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md)</span> | <span class="type type-water">Water</span> <span class="type type-ghost">Ghost</span> | 10% |
+| <span class="mon">![](../img/icons/691.png){ .icon loading=lazy } [Dragalge](../pokemon/691.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-dragon">Dragon</span> | 10% |
 
 
 ---

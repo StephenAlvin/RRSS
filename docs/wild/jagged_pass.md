@@ -10,28 +10,28 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/57.png){ .icon loading=lazy } [Primeape](../pokemon/057.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/190.png){ .icon loading=lazy } [Aipom](../pokemon/190.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/198.png){ .icon loading=lazy } [Murkrow](../pokemon/198.md) | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/204.png){ .icon loading=lazy } [Pineco](../pokemon/204.md) | <span class="type type-bug">Bug</span> | 10% |
-| ![](../img/icons/207.png){ .icon loading=lazy } [Gligar](../pokemon/207.md) | <span class="type type-ground">Ground</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/307.png){ .icon loading=lazy } [Meditite](../pokemon/307.md) | <span class="type type-fighting">Fighting</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/325.png){ .icon loading=lazy } [Spoink](../pokemon/325.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/431.png){ .icon loading=lazy } [Glameow](../pokemon/431.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/434.png){ .icon loading=lazy } [Stunky](../pokemon/434.md) | <span class="type type-poison">Poison</span> <span class="type type-dark">Dark</span> | 10% |
-| ![](../img/icons/453.png){ .icon loading=lazy } [Croagunk](../pokemon/453.md) | <span class="type type-poison">Poison</span> <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/57.png){ .icon loading=lazy } [Primeape](../pokemon/057.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/190.png){ .icon loading=lazy } [Aipom](../pokemon/190.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/198.png){ .icon loading=lazy } [Murkrow](../pokemon/198.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/204.png){ .icon loading=lazy } [Pineco](../pokemon/204.md)</span> | <span class="type type-bug">Bug</span> | 10% |
+| <span class="mon">![](../img/icons/207.png){ .icon loading=lazy } [Gligar](../pokemon/207.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/307.png){ .icon loading=lazy } [Meditite](../pokemon/307.md)</span> | <span class="type type-fighting">Fighting</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/325.png){ .icon loading=lazy } [Spoink](../pokemon/325.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/431.png){ .icon loading=lazy } [Glameow](../pokemon/431.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/434.png){ .icon loading=lazy } [Stunky](../pokemon/434.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-dark">Dark</span> | 10% |
+| <span class="mon">![](../img/icons/453.png){ .icon loading=lazy } [Croagunk](../pokemon/453.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-fighting">Fighting</span> | 10% |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/326.png){ .icon loading=lazy } [Grumpig](../pokemon/326.md) | <span class="type type-psychic">Psychic</span> | — |
+| <span class="mon">![](../img/icons/326.png){ .icon loading=lazy } [Grumpig](../pokemon/326.md)</span> | <span class="type type-psychic">Psychic</span> | — |
 
 ## Horde — Lv. 17
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/56.png){ .icon loading=lazy } [Mankey](../pokemon/056.md) | <span class="type type-fighting">Fighting</span> | — |
+| <span class="mon">![](../img/icons/56.png){ .icon loading=lazy } [Mankey](../pokemon/056.md)</span> | <span class="type type-fighting">Fighting</span> | — |
 
 
 ---

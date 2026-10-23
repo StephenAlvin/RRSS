@@ -10,30 +10,30 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/48.png){ .icon loading=lazy } [Venonat](../pokemon/048.md) | <span class="type type-bug">Bug</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/172.png){ .icon loading=lazy } [Pichu](../pokemon/172.md) | <span class="type type-electric">Electric</span> | 10% |
-| ![](../img/icons/285.png){ .icon loading=lazy } [Shroomish](../pokemon/285.md) | <span class="type type-grass">Grass</span> | 10% |
-| ![](../img/icons/287.png){ .icon loading=lazy } [Slakoth](../pokemon/287.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/511.png){ .icon loading=lazy } [Pansage](../pokemon/511.md) | <span class="type type-grass">Grass</span> | 10% |
-| ![](../img/icons/513.png){ .icon loading=lazy } [Pansear](../pokemon/513.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/515.png){ .icon loading=lazy } [Panpour](../pokemon/515.md) | <span class="type type-water">Water</span> | 10% |
-| ![](../img/icons/546.png){ .icon loading=lazy } [Cottonee](../pokemon/546.md) | <span class="type type-grass">Grass</span> <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/548.png){ .icon loading=lazy } [Petilil](../pokemon/548.md) | <span class="type type-grass">Grass</span> | 10% |
-| ![](../img/icons/708.png){ .icon loading=lazy } [Phantump](../pokemon/708.md) | <span class="type type-ghost">Ghost</span> <span class="type type-grass">Grass</span> | <span class="rare">5%</span> |
-| ![](../img/icons/710.png){ .icon loading=lazy } [Pumpkaboo](../pokemon/710.md) | <span class="type type-ghost">Ghost</span> <span class="type type-grass">Grass</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/48.png){ .icon loading=lazy } [Venonat](../pokemon/048.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/172.png){ .icon loading=lazy } [Pichu](../pokemon/172.md)</span> | <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/285.png){ .icon loading=lazy } [Shroomish](../pokemon/285.md)</span> | <span class="type type-grass">Grass</span> | 10% |
+| <span class="mon">![](../img/icons/287.png){ .icon loading=lazy } [Slakoth](../pokemon/287.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/511.png){ .icon loading=lazy } [Pansage](../pokemon/511.md)</span> | <span class="type type-grass">Grass</span> | 10% |
+| <span class="mon">![](../img/icons/513.png){ .icon loading=lazy } [Pansear](../pokemon/513.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/515.png){ .icon loading=lazy } [Panpour](../pokemon/515.md)</span> | <span class="type type-water">Water</span> | 10% |
+| <span class="mon">![](../img/icons/546.png){ .icon loading=lazy } [Cottonee](../pokemon/546.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/548.png){ .icon loading=lazy } [Petilil](../pokemon/548.md)</span> | <span class="type type-grass">Grass</span> | 10% |
+| <span class="mon">![](../img/icons/708.png){ .icon loading=lazy } [Phantump](../pokemon/708.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-grass">Grass</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/710.png){ .icon loading=lazy } [Pumpkaboo](../pokemon/710.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-grass">Grass</span> | <span class="rare">5%</span> |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/286.png){ .icon loading=lazy } [Breloom](../pokemon/286.md) | <span class="type type-grass">Grass</span> <span class="type type-fighting">Fighting</span> | — |
+| <span class="mon">![](../img/icons/286.png){ .icon loading=lazy } [Breloom](../pokemon/286.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-fighting">Fighting</span> | — |
 
 ## Horde — Lv. 9
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/1.png){ .icon loading=lazy } [Bulbasaur](../pokemon/001.md) | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | — |
-| ![](../img/icons/495.png){ .icon loading=lazy } [Snivy](../pokemon/495.md) | <span class="type type-grass">Grass</span> | — |
+| <span class="mon">![](../img/icons/1.png){ .icon loading=lazy } [Bulbasaur](../pokemon/001.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/495.png){ .icon loading=lazy } [Snivy](../pokemon/495.md)</span> | <span class="type type-grass">Grass</span> | — |
 
 
 ---

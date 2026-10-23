@@ -6,23 +6,23 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/124.png){ .icon loading=lazy } [Jynx](../pokemon/124.md) | <span class="type type-ice">Ice</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/215.png){ .icon loading=lazy } [Sneasel](../pokemon/215.md) | <span class="type type-dark">Dark</span> <span class="type type-ice">Ice</span> | 10% |
-| ![](../img/icons/221.png){ .icon loading=lazy } [Piloswine](../pokemon/221.md) | <span class="type type-ice">Ice</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/225.png){ .icon loading=lazy } [Delibird](../pokemon/225.md) | <span class="type type-ice">Ice</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/362.png){ .icon loading=lazy } [Glalie](../pokemon/362.md) | <span class="type type-ice">Ice</span> | <span class="rare">5%</span> |
-| ![](../img/icons/478.png){ .icon loading=lazy } [Froslass](../pokemon/478.md) | <span class="type type-ice">Ice</span> <span class="type type-ghost">Ghost</span> | <span class="rare">5%</span> |
-| ![](../img/icons/460.png){ .icon loading=lazy } [Abomasnow](../pokemon/460.md) | <span class="type type-grass">Grass</span> <span class="type type-ice">Ice</span> | 10% |
-| ![](../img/icons/583.png){ .icon loading=lazy } [Vanillish](../pokemon/583.md) | <span class="type type-ice">Ice</span> | 10% |
-| ![](../img/icons/615.png){ .icon loading=lazy } [Cryogonal](../pokemon/615.md) | <span class="type type-ice">Ice</span> | 10% |
-| ![](../img/icons/614.png){ .icon loading=lazy } [Beartic](../pokemon/614.md) | <span class="type type-ice">Ice</span> <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/713.png){ .icon loading=lazy } [Avalugg](../pokemon/713.md) | <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/124.png){ .icon loading=lazy } [Jynx](../pokemon/124.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/215.png){ .icon loading=lazy } [Sneasel](../pokemon/215.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/221.png){ .icon loading=lazy } [Piloswine](../pokemon/221.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/225.png){ .icon loading=lazy } [Delibird](../pokemon/225.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/362.png){ .icon loading=lazy } [Glalie](../pokemon/362.md)</span> | <span class="type type-ice">Ice</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/478.png){ .icon loading=lazy } [Froslass](../pokemon/478.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-ghost">Ghost</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/460.png){ .icon loading=lazy } [Abomasnow](../pokemon/460.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/583.png){ .icon loading=lazy } [Vanillish](../pokemon/583.md)</span> | <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/615.png){ .icon loading=lazy } [Cryogonal](../pokemon/615.md)</span> | <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/614.png){ .icon loading=lazy } [Beartic](../pokemon/614.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/713.png){ .icon loading=lazy } [Avalugg](../pokemon/713.md)</span> | <span class="type type-ice">Ice</span> | 10% |
 
 ## Horde — Lv. 32
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/361.png){ .icon loading=lazy } [Snorunt](../pokemon/361.md) | <span class="type type-ice">Ice</span> | — |
+| <span class="mon">![](../img/icons/361.png){ .icon loading=lazy } [Snorunt](../pokemon/361.md)</span> | <span class="type type-ice">Ice</span> | — |
 
 
 ---

@@ -8,18 +8,18 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 943 | **Sootopolitan Wallace** | ![](../img/icons/186.png){ .icon loading=lazy } [Politoed](../pokemon/186.md) Lv. 77, ![](../img/icons/272.png){ .icon loading=lazy } [Ludicolo](../pokemon/272.md) Lv. 77, ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 77, ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) Lv. 77, ![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) Lv. 79, ![](../img/icons/260.png){ .icon loading=lazy } [Swampert](../pokemon/260.md) Lv. 79 |
+| 943 | **Sootopolitan Wallace** | <span class="mon">![](../img/icons/186.png){ .icon loading=lazy } [Politoed](../pokemon/186.md) Lv. 77</span>, <span class="mon">![](../img/icons/272.png){ .icon loading=lazy } [Ludicolo](../pokemon/272.md) Lv. 77</span>, <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 77</span>, <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) Lv. 77</span>, <span class="mon">![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) Lv. 79</span>, <span class="mon">![](../img/icons/260.png){ .icon loading=lazy } [Swampert](../pokemon/260.md) Lv. 79</span> |
 
 ## Special Battle - Wallace
 
 | Pokémon | Lv. | Item | Ability | Moves |
 | --- | --- | --- | --- | --- |
-| ![](../img/icons/186.png){ .icon loading=lazy } [Politoed](../pokemon/186.md) | 77 | ![](../img/items/damp-rock.png){ .item loading=lazy } Damp Rock | <abbr title="Summons rain that lasts indefinitely upon entering battle.">Drizzle</abbr> | Hydro Pump, Blizzard, Focus Blast, Hypnosis |
-| ![](../img/icons/272.png){ .icon loading=lazy } [Ludicolo](../pokemon/272.md) | 77 | ![](../img/items/life-orb.png){ .item loading=lazy } Life Orb | <abbr title="Doubles Speed during rain.">Swift Swim</abbr> | Hydro Pump, Ice Beam, Energy Ball, Rain Dance |
-| ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) | 77 | ![](../img/items/mystic-water.png){ .item loading=lazy } Mystic Water | <abbr title="Doubles Speed during rain.">Swift Swim</abbr> | Hydro Pump, Ice Beam, Dragon Pulse, Rain Dance |
-| ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) | 77 | ![](../img/items/wacan-berry.png){ .item loading=lazy } Wacan Berry | <abbr title="Lowers opponents' Attack one stage upon entering battle.">Intimidate</abbr> | Dragon Dance, Waterfall, Earthquake, Bounce |
-| ![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) | 79 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Has a 30% chance of infatuating attacking Pokémon on contact.">Cute Charm</abbr> | Hydro Pump, Ice Beam, Recover, Hypnosis |
-| ![](../img/icons/260.png){ .icon loading=lazy } [Swampert](../pokemon/260.md) | 79 | ![](../img/items/swampertite.png){ .item loading=lazy } Swampertite | <abbr title="Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less.">Torrent</abbr> | Waterfall, Earthquake, Stone Edge, Ice Punch |
+| <span class="mon">![](../img/icons/186.png){ .icon loading=lazy } [Politoed](../pokemon/186.md)</span> | 77 | ![](../img/items/damp-rock.png){ .item loading=lazy } Damp Rock | <abbr title="Summons rain that lasts indefinitely upon entering battle.">Drizzle</abbr> | Hydro Pump, Blizzard, Focus Blast, Hypnosis |
+| <span class="mon">![](../img/icons/272.png){ .icon loading=lazy } [Ludicolo](../pokemon/272.md)</span> | 77 | ![](../img/items/life-orb.png){ .item loading=lazy } Life Orb | <abbr title="Doubles Speed during rain.">Swift Swim</abbr> | Hydro Pump, Ice Beam, Energy Ball, Rain Dance |
+| <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md)</span> | 77 | ![](../img/items/mystic-water.png){ .item loading=lazy } Mystic Water | <abbr title="Doubles Speed during rain.">Swift Swim</abbr> | Hydro Pump, Ice Beam, Dragon Pulse, Rain Dance |
+| <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md)</span> | 77 | ![](../img/items/wacan-berry.png){ .item loading=lazy } Wacan Berry | <abbr title="Lowers opponents' Attack one stage upon entering battle.">Intimidate</abbr> | Dragon Dance, Waterfall, Earthquake, Bounce |
+| <span class="mon">![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md)</span> | 79 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Has a 30% chance of infatuating attacking Pokémon on contact.">Cute Charm</abbr> | Hydro Pump, Ice Beam, Recover, Hypnosis |
+| <span class="mon">![](../img/icons/260.png){ .icon loading=lazy } [Swampert](../pokemon/260.md)</span> | 79 | ![](../img/items/swampertite.png){ .item loading=lazy } Swampertite | <abbr title="Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less.">Torrent</abbr> | Waterfall, Earthquake, Stone Edge, Ice Punch |
 
 
 ---

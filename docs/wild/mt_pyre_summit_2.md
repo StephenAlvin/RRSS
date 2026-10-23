@@ -10,28 +10,28 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/22.png){ .icon loading=lazy } [Fearow](../pokemon/022.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/37.png){ .icon loading=lazy } [Vulpix](../pokemon/037.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/164.png){ .icon loading=lazy } [Noctowl](../pokemon/164.md) | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/178.png){ .icon loading=lazy } [Xatu](../pokemon/178.md) | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/198.png){ .icon loading=lazy } [Murkrow](../pokemon/198.md) | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/200.png){ .icon loading=lazy } [Misdreavus](../pokemon/200.md) | <span class="type type-ghost">Ghost</span> <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/308.png){ .icon loading=lazy } [Medicham](../pokemon/308.md) | <span class="type type-fighting">Fighting</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/358.png){ .icon loading=lazy } [Chimecho](../pokemon/358.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/437.png){ .icon loading=lazy } [Bronzong](../pokemon/437.md) | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/22.png){ .icon loading=lazy } [Fearow](../pokemon/022.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/37.png){ .icon loading=lazy } [Vulpix](../pokemon/037.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/164.png){ .icon loading=lazy } [Noctowl](../pokemon/164.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/178.png){ .icon loading=lazy } [Xatu](../pokemon/178.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/198.png){ .icon loading=lazy } [Murkrow](../pokemon/198.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/200.png){ .icon loading=lazy } [Misdreavus](../pokemon/200.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/308.png){ .icon loading=lazy } [Medicham](../pokemon/308.md)</span> | <span class="type type-fighting">Fighting</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/358.png){ .icon loading=lazy } [Chimecho](../pokemon/358.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/437.png){ .icon loading=lazy } [Bronzong](../pokemon/437.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | 10% |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/38.png){ .icon loading=lazy } [Ninetales](../pokemon/038.md) | <span class="type type-fire">Fire</span> | — |
+| <span class="mon">![](../img/icons/38.png){ .icon loading=lazy } [Ninetales](../pokemon/038.md)</span> | <span class="type type-fire">Fire</span> | — |
 
 ## Horde — Lv. 30
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/436.png){ .icon loading=lazy } [Bronzor](../pokemon/436.md) | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | — |
+| <span class="mon">![](../img/icons/436.png){ .icon loading=lazy } [Bronzor](../pokemon/436.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | — |
 
 
 ---

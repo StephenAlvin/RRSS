@@ -10,19 +10,19 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 737 | **Scuba Diver Kylan** | ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 60 |
-| 751 | **Free Diver Rischel** | ![](../img/icons/119.png){ .icon loading=lazy } [Seaking](../pokemon/119.md) Lv. 60 |
-| 738 | **Scuba Diver Dmitry** | ![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md) Lv. 60 |
-| 750 | **Free Diver Arzu** | ![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) Lv. 59, ![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 59 |
+| 737 | **Scuba Diver Kylan** | <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 60</span> |
+| 751 | **Free Diver Rischel** | <span class="mon">![](../img/icons/119.png){ .icon loading=lazy } [Seaking](../pokemon/119.md) Lv. 60</span> |
+| 738 | **Scuba Diver Dmitry** | <span class="mon">![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md) Lv. 60</span> |
+| 750 | **Free Diver Arzu** | <span class="mon">![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) Lv. 59</span>, <span class="mon">![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 59</span> |
 
 ## Rematches
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 746 | **Scuba Diver Kylan** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 64, ![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 64, ![](../img/icons/693.png){ .icon loading=lazy } [Clawitzer](../pokemon/693.md) Lv. 64, ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 64 |
-| 747 | **Scuba Diver Kylan** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 75, ![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 75, ![](../img/icons/693.png){ .icon loading=lazy } [Clawitzer](../pokemon/693.md) Lv. 75, ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 75 |
-| 759 | **Free Diver Arzu** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | ![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) Lv. 64, ![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 64, ![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) Lv. 64, ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) Lv. 64 |
-| 760 | **Free Diver Arzu** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | ![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) Lv. 75, ![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 75, ![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) Lv. 75, ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) Lv. 75 |
+| 746 | **Scuba Diver Kylan** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 64</span>, <span class="mon">![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 64</span>, <span class="mon">![](../img/icons/693.png){ .icon loading=lazy } [Clawitzer](../pokemon/693.md) Lv. 64</span>, <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 64</span> |
+| 747 | **Scuba Diver Kylan** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 75</span>, <span class="mon">![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 75</span>, <span class="mon">![](../img/icons/693.png){ .icon loading=lazy } [Clawitzer](../pokemon/693.md) Lv. 75</span>, <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 75</span> |
+| 759 | **Free Diver Arzu** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | <span class="mon">![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) Lv. 64</span>, <span class="mon">![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 64</span>, <span class="mon">![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) Lv. 64</span>, <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) Lv. 64</span> |
+| 760 | **Free Diver Arzu** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | <span class="mon">![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) Lv. 75</span>, <span class="mon">![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 75</span>, <span class="mon">![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) Lv. 75</span>, <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) Lv. 75</span> |
 
 
 ---

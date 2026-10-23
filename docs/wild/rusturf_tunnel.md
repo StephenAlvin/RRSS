@@ -10,30 +10,30 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/46.png){ .icon loading=lazy } [Paras](../pokemon/046.md) | <span class="type type-bug">Bug</span> <span class="type type-grass">Grass</span> | 10% |
-| ![](../img/icons/66.png){ .icon loading=lazy } [Machop](../pokemon/066.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/92.png){ .icon loading=lazy } [Gastly](../pokemon/092.md) | <span class="type type-ghost">Ghost</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/167.png){ .icon loading=lazy } [Spinarak](../pokemon/167.md) | <span class="type type-bug">Bug</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/216.png){ .icon loading=lazy } [Teddiursa](../pokemon/216.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/290.png){ .icon loading=lazy } [Nincada](../pokemon/290.md) | <span class="type type-bug">Bug</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/293.png){ .icon loading=lazy } [Whismur](../pokemon/293.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/529.png){ .icon loading=lazy } [Drilbur](../pokemon/529.md) | <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/532.png){ .icon loading=lazy } [Timburr](../pokemon/532.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/595.png){ .icon loading=lazy } [Joltik](../pokemon/595.md) | <span class="type type-bug">Bug</span> <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/46.png){ .icon loading=lazy } [Paras](../pokemon/046.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-grass">Grass</span> | 10% |
+| <span class="mon">![](../img/icons/66.png){ .icon loading=lazy } [Machop](../pokemon/066.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/92.png){ .icon loading=lazy } [Gastly](../pokemon/092.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/167.png){ .icon loading=lazy } [Spinarak](../pokemon/167.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/216.png){ .icon loading=lazy } [Teddiursa](../pokemon/216.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/290.png){ .icon loading=lazy } [Nincada](../pokemon/290.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/293.png){ .icon loading=lazy } [Whismur](../pokemon/293.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/529.png){ .icon loading=lazy } [Drilbur](../pokemon/529.md)</span> | <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/532.png){ .icon loading=lazy } [Timburr](../pokemon/532.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/595.png){ .icon loading=lazy } [Joltik](../pokemon/595.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-electric">Electric</span> | 10% |
 
 ## Rock Smash — Lv. 20
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/74.png){ .icon loading=lazy } [Geodude](../pokemon/074.md) | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | — |
-| ![](../img/icons/557.png){ .icon loading=lazy } [Dwebble](../pokemon/557.md) | <span class="type type-bug">Bug</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/74.png){ .icon loading=lazy } [Geodude](../pokemon/074.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/557.png){ .icon loading=lazy } [Dwebble](../pokemon/557.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-rock">Rock</span> | — |
 
 ## Horde — Lv. 10
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/155.png){ .icon loading=lazy } [Cyndaquil](../pokemon/155.md) | <span class="type type-fire">Fire</span> | — |
-| ![](../img/icons/390.png){ .icon loading=lazy } [Chimchar](../pokemon/390.md) | <span class="type type-fire">Fire</span> | — |
+| <span class="mon">![](../img/icons/155.png){ .icon loading=lazy } [Cyndaquil](../pokemon/155.md)</span> | <span class="type type-fire">Fire</span> | — |
+| <span class="mon">![](../img/icons/390.png){ .icon loading=lazy } [Chimchar](../pokemon/390.md)</span> | <span class="type type-fire">Fire</span> | — |
 
 
 ---

@@ -10,12 +10,12 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 028 | **Swimmer Beverly** | ![](../img/icons/8.png){ .icon loading=lazy } [Wartortle](../pokemon/008.md) Lv. 36, ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) Lv. 36, ![](../img/icons/55.png){ .icon loading=lazy } [Golduck](../pokemon/055.md) Lv. 36 |
-| 716 | **Triathlete Vin** | ![](../img/icons/363.png){ .icon loading=lazy } [Spheal](../pokemon/363.md) Lv. 36, ![](../img/icons/86.png){ .icon loading=lazy } [Seel](../pokemon/086.md) Lv. 36, ![](../img/icons/364.png){ .icon loading=lazy } [Sealeo](../pokemon/364.md) Lv. 36 |
-| 029 | **Swimmer Dawn** | ![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md) Lv. 36, ![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md) Lv. 36, ![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md) Lv. 36 |
-| 595 | **Ruin Maniac Foster** | ![](../img/icons/409.png){ .icon loading=lazy } [Rampardos](../pokemon/409.md) Lv. 37, ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 37 |
-| 026 | **Swimmer Luis** | ![](../img/icons/418.png){ .icon loading=lazy } [Buizel](../pokemon/418.md) Lv. 37, ![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 37 |
-| 027 | **Swimmer Austin** | ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) Lv. 36, ![](../img/icons/147.png){ .icon loading=lazy } [Dratini](../pokemon/147.md) Lv. 36, ![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md) Lv. 36 |
+| 028 | **Swimmer Beverly** | <span class="mon">![](../img/icons/8.png){ .icon loading=lazy } [Wartortle](../pokemon/008.md) Lv. 36</span>, <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) Lv. 36</span>, <span class="mon">![](../img/icons/55.png){ .icon loading=lazy } [Golduck](../pokemon/055.md) Lv. 36</span> |
+| 716 | **Triathlete Vin** | <span class="mon">![](../img/icons/363.png){ .icon loading=lazy } [Spheal](../pokemon/363.md) Lv. 36</span>, <span class="mon">![](../img/icons/86.png){ .icon loading=lazy } [Seel](../pokemon/086.md) Lv. 36</span>, <span class="mon">![](../img/icons/364.png){ .icon loading=lazy } [Sealeo](../pokemon/364.md) Lv. 36</span> |
+| 029 | **Swimmer Dawn** | <span class="mon">![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md) Lv. 36</span>, <span class="mon">![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md) Lv. 36</span>, <span class="mon">![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md) Lv. 36</span> |
+| 595 | **Ruin Maniac Foster** | <span class="mon">![](../img/icons/409.png){ .icon loading=lazy } [Rampardos](../pokemon/409.md) Lv. 37</span>, <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 37</span> |
+| 026 | **Swimmer Luis** | <span class="mon">![](../img/icons/418.png){ .icon loading=lazy } [Buizel](../pokemon/418.md) Lv. 37</span>, <span class="mon">![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 37</span> |
+| 027 | **Swimmer Austin** | <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) Lv. 36</span>, <span class="mon">![](../img/icons/147.png){ .icon loading=lazy } [Dratini](../pokemon/147.md) Lv. 36</span>, <span class="mon">![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md) Lv. 36</span> |
 
 
 ---

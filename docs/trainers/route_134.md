@@ -10,12 +10,12 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 504 | **Bird Keeper Alex** | ![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md) Lv. 57, ![](../img/icons/521.png){ .icon loading=lazy } [Unfezant](../pokemon/521.md) Lv. 57, ![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md) Lv. 57 |
-| 141 | **Swimmer Jack** | ![](../img/icons/319.png){ .icon loading=lazy } [Sharpedo](../pokemon/319.md) Lv. 59 |
-| 156 | **Swimmer Laurel** | ![](../img/icons/134.png){ .icon loading=lazy } [Vaporeon](../pokemon/134.md) Lv. 59 |
-| 505 | **Dragon Tamer Aaron** | ![](../img/icons/372.png){ .icon loading=lazy } [Shelgon](../pokemon/372.md) Lv. 59, ![](../img/icons/634.png){ .icon loading=lazy } [Zweilous](../pokemon/634.md) Lv. 59, ![](../img/icons/148.png){ .icon loading=lazy } [Dragonair](../pokemon/148.md) Lv. 59 |
-| 228 | **Ace Trainer Elaine** | ![](../img/icons/196.png){ .icon loading=lazy } [Espeon](../pokemon/196.md) Lv. 58, ![](../img/icons/468.png){ .icon loading=lazy } [Togekiss](../pokemon/468.md) Lv. 58, ![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) Lv. 58, ![](../img/icons/497.png){ .icon loading=lazy } [Serperior](../pokemon/497.md) Lv. 58 |
-| 057 | **Black Belt Hitoshi** | ![](../img/icons/106.png){ .icon loading=lazy } [Hitmonlee](../pokemon/106.md) Lv. 58, ![](../img/icons/539.png){ .icon loading=lazy } [Sawk](../pokemon/539.md) Lv. 58, ![](../img/icons/286.png){ .icon loading=lazy } [Breloom](../pokemon/286.md) Lv. 58 |
+| 504 | **Bird Keeper Alex** | <span class="mon">![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md) Lv. 57</span>, <span class="mon">![](../img/icons/521.png){ .icon loading=lazy } [Unfezant](../pokemon/521.md) Lv. 57</span>, <span class="mon">![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md) Lv. 57</span> |
+| 141 | **Swimmer Jack** | <span class="mon">![](../img/icons/319.png){ .icon loading=lazy } [Sharpedo](../pokemon/319.md) Lv. 59</span> |
+| 156 | **Swimmer Laurel** | <span class="mon">![](../img/icons/134.png){ .icon loading=lazy } [Vaporeon](../pokemon/134.md) Lv. 59</span> |
+| 505 | **Dragon Tamer Aaron** | <span class="mon">![](../img/icons/372.png){ .icon loading=lazy } [Shelgon](../pokemon/372.md) Lv. 59</span>, <span class="mon">![](../img/icons/634.png){ .icon loading=lazy } [Zweilous](../pokemon/634.md) Lv. 59</span>, <span class="mon">![](../img/icons/148.png){ .icon loading=lazy } [Dragonair](../pokemon/148.md) Lv. 59</span> |
+| 228 | **Ace Trainer Elaine** | <span class="mon">![](../img/icons/196.png){ .icon loading=lazy } [Espeon](../pokemon/196.md) Lv. 58</span>, <span class="mon">![](../img/icons/468.png){ .icon loading=lazy } [Togekiss](../pokemon/468.md) Lv. 58</span>, <span class="mon">![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) Lv. 58</span>, <span class="mon">![](../img/icons/497.png){ .icon loading=lazy } [Serperior](../pokemon/497.md) Lv. 58</span> |
+| 057 | **Black Belt Hitoshi** | <span class="mon">![](../img/icons/106.png){ .icon loading=lazy } [Hitmonlee](../pokemon/106.md) Lv. 58</span>, <span class="mon">![](../img/icons/539.png){ .icon loading=lazy } [Sawk](../pokemon/539.md) Lv. 58</span>, <span class="mon">![](../img/icons/286.png){ .icon loading=lazy } [Breloom](../pokemon/286.md) Lv. 58</span> |
 
 
 ---

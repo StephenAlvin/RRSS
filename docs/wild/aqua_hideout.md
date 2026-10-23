@@ -10,26 +10,26 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/72.png){ .icon loading=lazy } [Tentacool](../pokemon/072.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
-| ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/72.png){ .icon loading=lazy } [Tentacool](../pokemon/072.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | <span class="type type-water">Water</span> | — |
 
 
 ---

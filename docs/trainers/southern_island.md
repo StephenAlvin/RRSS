@@ -6,26 +6,26 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 900 | **Team Magma Grunt** | ![](../img/icons/33.png){ .icon loading=lazy } [Nidorino](../pokemon/033.md) Lv. 39, ![](../img/icons/219.png){ .icon loading=lazy } [Magcargo](../pokemon/219.md) Lv. 39, ![](../img/icons/335.png){ .icon loading=lazy } [Zangoose](../pokemon/335.md) Lv. 39 |
-| 694 | **Magma Admin Courtney** | ![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md) Lv. 42, ![](../img/icons/668.png){ .icon loading=lazy } [Pyroar](../pokemon/668.md) Lv. 42, ![](../img/icons/6.png){ .icon loading=lazy } [Charizard](../pokemon/006.md) Lv. 44 |
-| 904 | **Team Aqua Grunt** | ![](../img/icons/30.png){ .icon loading=lazy } [Nidorina](../pokemon/030.md) Lv. 39, ![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 39, ![](../img/icons/336.png){ .icon loading=lazy } [Seviper](../pokemon/336.md) Lv. 39 |
-| 683 | **Aqua Admin Matt** | ![](../img/icons/55.png){ .icon loading=lazy } [Golduck](../pokemon/055.md) Lv. 42, ![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md) Lv. 42, ![](../img/icons/9.png){ .icon loading=lazy } [Blastoise](../pokemon/009.md) Lv. 44 |
+| 900 | **Team Magma Grunt** | <span class="mon">![](../img/icons/33.png){ .icon loading=lazy } [Nidorino](../pokemon/033.md) Lv. 39</span>, <span class="mon">![](../img/icons/219.png){ .icon loading=lazy } [Magcargo](../pokemon/219.md) Lv. 39</span>, <span class="mon">![](../img/icons/335.png){ .icon loading=lazy } [Zangoose](../pokemon/335.md) Lv. 39</span> |
+| 694 | **Magma Admin Courtney** | <span class="mon">![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md) Lv. 42</span>, <span class="mon">![](../img/icons/668.png){ .icon loading=lazy } [Pyroar](../pokemon/668.md) Lv. 42</span>, <span class="mon">![](../img/icons/6.png){ .icon loading=lazy } [Charizard](../pokemon/006.md) Lv. 44</span> |
+| 904 | **Team Aqua Grunt** | <span class="mon">![](../img/icons/30.png){ .icon loading=lazy } [Nidorina](../pokemon/030.md) Lv. 39</span>, <span class="mon">![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 39</span>, <span class="mon">![](../img/icons/336.png){ .icon loading=lazy } [Seviper](../pokemon/336.md) Lv. 39</span> |
+| 683 | **Aqua Admin Matt** | <span class="mon">![](../img/icons/55.png){ .icon loading=lazy } [Golduck](../pokemon/055.md) Lv. 42</span>, <span class="mon">![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md) Lv. 42</span>, <span class="mon">![](../img/icons/9.png){ .icon loading=lazy } [Blastoise](../pokemon/009.md) Lv. 44</span> |
 
 ## Special Battle - Courtney
 
 | Pokémon | Lv. | Item | Ability | Moves |
 | --- | --- | --- | --- | --- |
-| ![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md) | 42 | ![](../img/items/muscle-band.png){ .item loading=lazy } Muscle Band | <abbr title="Has a 30% chance of burning attacking Pokémon on contact.">Flame Body</abbr> | Heat Wave, Megahorn, Drill Run, Wild Charge |
-| ![](../img/icons/668.png){ .icon loading=lazy } [Pyroar](../pokemon/668.md) | 42 | ![](../img/items/wise-glasses.png){ .item loading=lazy } Wise Glasses | <abbr title="Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.">Rivalry</abbr> | Flamethrower, Hyper Voice, Dark Pulse, Yawn |
-| ![](../img/icons/6.png){ .icon loading=lazy } [Charizard](../pokemon/006.md) | 44 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Strengthens Fire moves to inflict 1.5× damage at 1/3 max HP or less.">Blaze</abbr> | Flamethrower, Air Slash, Dragon Pulse, Focus Blast |
+| <span class="mon">![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md)</span> | 42 | ![](../img/items/muscle-band.png){ .item loading=lazy } Muscle Band | <abbr title="Has a 30% chance of burning attacking Pokémon on contact.">Flame Body</abbr> | Heat Wave, Megahorn, Drill Run, Wild Charge |
+| <span class="mon">![](../img/icons/668.png){ .icon loading=lazy } [Pyroar](../pokemon/668.md)</span> | 42 | ![](../img/items/wise-glasses.png){ .item loading=lazy } Wise Glasses | <abbr title="Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.">Rivalry</abbr> | Flamethrower, Hyper Voice, Dark Pulse, Yawn |
+| <span class="mon">![](../img/icons/6.png){ .icon loading=lazy } [Charizard](../pokemon/006.md)</span> | 44 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Strengthens Fire moves to inflict 1.5× damage at 1/3 max HP or less.">Blaze</abbr> | Flamethrower, Air Slash, Dragon Pulse, Focus Blast |
 
 ## Special Battle - Matt
 
 | Pokémon | Lv. | Item | Ability | Moves |
 | --- | --- | --- | --- | --- |
-| ![](../img/icons/55.png){ .icon loading=lazy } [Golduck](../pokemon/055.md) | 42 | ![](../img/items/wise-glasses.png){ .item loading=lazy } Wise Glasses | <abbr title="Prevents Self-Destruct, Explosion, and Aftermath from working while the Pokémon is in battle.">Damp</abbr> | Scald, Hypnosis, Psychic, Icy Wind |
-| ![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md) | 42 | ![](../img/items/muscle-band.png){ .item loading=lazy } Muscle Band | <abbr title="Strengthens moves that make contact to 1.33× their power.">Tough Claws</abbr> | Razor Shell, Stone Edge, Low Kick, X-Scissor |
-| ![](../img/icons/9.png){ .icon loading=lazy } [Blastoise](../pokemon/009.md) | 44 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less.">Torrent</abbr> | Scald, Flash Cannon, Aura Sphere, Dragon Pulse |
+| <span class="mon">![](../img/icons/55.png){ .icon loading=lazy } [Golduck](../pokemon/055.md)</span> | 42 | ![](../img/items/wise-glasses.png){ .item loading=lazy } Wise Glasses | <abbr title="Prevents Self-Destruct, Explosion, and Aftermath from working while the Pokémon is in battle.">Damp</abbr> | Scald, Hypnosis, Psychic, Icy Wind |
+| <span class="mon">![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md)</span> | 42 | ![](../img/items/muscle-band.png){ .item loading=lazy } Muscle Band | <abbr title="Strengthens moves that make contact to 1.33× their power.">Tough Claws</abbr> | Razor Shell, Stone Edge, Low Kick, X-Scissor |
+| <span class="mon">![](../img/icons/9.png){ .icon loading=lazy } [Blastoise](../pokemon/009.md)</span> | 44 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less.">Torrent</abbr> | Scald, Flash Cannon, Aura Sphere, Dragon Pulse |
 
 
 ---

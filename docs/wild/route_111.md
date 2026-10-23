@@ -10,35 +10,35 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/74.png){ .icon loading=lazy } [Geodude](../pokemon/074.md) | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | — |
-| ![](../img/icons/688.png){ .icon loading=lazy } [Binacle](../pokemon/688.md) | <span class="type type-rock">Rock</span> <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/74.png){ .icon loading=lazy } [Geodude](../pokemon/074.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/688.png){ .icon loading=lazy } [Binacle](../pokemon/688.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-water">Water</span> | — |
 
 ## Surfing — Lv. 25 - 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Old Rod — Lv. 20
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md) | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md)</span> | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md) | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md)</span> | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md) | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md)</span> | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md)</span> | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
 
 
 ---

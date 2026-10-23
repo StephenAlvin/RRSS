@@ -6,34 +6,34 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/278.png){ .icon loading=lazy } [Wingull](../pokemon/278.md) | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/72.png){ .icon loading=lazy } [Tentacool](../pokemon/072.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
-| ![](../img/icons/592.png){ .icon loading=lazy } [Frillish](../pokemon/592.md) | <span class="type type-water">Water</span> <span class="type type-ghost">Ghost</span> | — |
-| ![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md) | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/278.png){ .icon loading=lazy } [Wingull](../pokemon/278.md)</span> | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/72.png){ .icon loading=lazy } [Tentacool](../pokemon/072.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/592.png){ .icon loading=lazy } [Frillish](../pokemon/592.md)</span> | <span class="type type-water">Water</span> <span class="type type-ghost">Ghost</span> | — |
+| <span class="mon">![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md)</span> | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/366.png){ .icon loading=lazy } [Clamperl](../pokemon/366.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/366.png){ .icon loading=lazy } [Clamperl](../pokemon/366.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/366.png){ .icon loading=lazy } [Clamperl](../pokemon/366.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/366.png){ .icon loading=lazy } [Clamperl](../pokemon/366.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/91.png){ .icon loading=lazy } [Cloyster](../pokemon/091.md) | <span class="type type-water">Water</span> <span class="type type-ice">Ice</span> | — |
-| ![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/91.png){ .icon loading=lazy } [Cloyster](../pokemon/091.md)</span> | <span class="type type-water">Water</span> <span class="type type-ice">Ice</span> | — |
+| <span class="mon">![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 
 ---

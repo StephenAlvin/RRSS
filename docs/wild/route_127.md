@@ -10,35 +10,35 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Surfing — Lv. 40 - 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/72.png){ .icon loading=lazy } [Tentacool](../pokemon/072.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
-| ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/72.png){ .icon loading=lazy } [Tentacool](../pokemon/072.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/690.png){ .icon loading=lazy } [Skrelp](../pokemon/690.md) | <span class="type type-poison">Poison</span> <span class="type type-water">Water</span> | — |
-| ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/690.png){ .icon loading=lazy } [Skrelp](../pokemon/690.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/690.png){ .icon loading=lazy } [Skrelp](../pokemon/690.md) | <span class="type type-poison">Poison</span> <span class="type type-water">Water</span> | — |
-| ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/690.png){ .icon loading=lazy } [Skrelp](../pokemon/690.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/691.png){ .icon loading=lazy } [Dragalge](../pokemon/691.md) | <span class="type type-poison">Poison</span> <span class="type type-dragon">Dragon</span> | — |
-| ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/691.png){ .icon loading=lazy } [Dragalge](../pokemon/691.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-dragon">Dragon</span> | — |
+| <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 
 ---

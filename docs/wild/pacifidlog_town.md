@@ -6,25 +6,25 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 
 ---

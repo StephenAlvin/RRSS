@@ -301,19 +301,21 @@ class Renderer:
     def icon(self, sid, prefix):
         return f'![]({prefix}img/icons/{sid}.png){{ .icon loading=lazy }}'
 
-    def mon_link(self, sid, prefix, with_icon=True, text=None, bold=False):
+    def mon_link(self, sid, prefix, with_icon=True, text=None, bold=False, suffix=""):
         name = text or self.w.species[sid]["name"]
         link = f"[{name}]({prefix}pokemon/{sid:03d}.md)"
         if bold:
             link = f"**{link}**"
-        return (self.icon(sid, prefix) + " " + link) if with_icon else link
+        if not with_icon:
+            return link + suffix
+        # One unit (.mon is nowrap), so a line never breaks between the icon and the name;
+        # cells that list several Pokémon still wrap between them.
+        return f'<span class="mon">{self.icon(sid, prefix)} {link}{suffix}</span>'
 
     def mon_ref(self, name, prefix, with_icon=True, level=None):
         sid = self.w.species_id(name)
-        text = self.mon_link(sid, prefix, with_icon) if sid else esc(name)
-        if level is not None:
-            text += f" Lv. {level}"
-        return text
+        lv = f" Lv. {level}" if level is not None else ""
+        return self.mon_link(sid, prefix, with_icon, suffix=lv) if sid else esc(name) + lv
 
     def item_ref(self, name, prefix):
         iid = self.w.item_id(name)

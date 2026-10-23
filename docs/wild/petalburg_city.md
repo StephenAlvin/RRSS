@@ -6,26 +6,26 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/183.png){ .icon loading=lazy } [Marill](../pokemon/183.md) | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
-| ![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md) | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/183.png){ .icon loading=lazy } [Marill](../pokemon/183.md)</span> | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md)</span> | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/118.png){ .icon loading=lazy } [Goldeen](../pokemon/118.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/118.png){ .icon loading=lazy } [Goldeen](../pokemon/118.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/118.png){ .icon loading=lazy } [Goldeen](../pokemon/118.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/118.png){ .icon loading=lazy } [Goldeen](../pokemon/118.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/119.png){ .icon loading=lazy } [Seaking](../pokemon/119.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/119.png){ .icon loading=lazy } [Seaking](../pokemon/119.md)</span> | <span class="type type-water">Water</span> | — |
 
 
 ---

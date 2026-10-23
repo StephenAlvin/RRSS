@@ -10,19 +10,19 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 194 | **Sailor Ernest** | ![](../img/icons/423.png){ .icon loading=lazy } [Gastrodon](../pokemon/423.md) Lv. 54, ![](../img/icons/68.png){ .icon loading=lazy } [Machamp](../pokemon/068.md) Lv. 54, ![](../img/icons/20.png){ .icon loading=lazy } [Raticate](../pokemon/020.md) Lv. 54 |
-| 631 | **Teammates Kim & Iris** | ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 56, ![](../img/icons/6.png){ .icon loading=lazy } [Charizard](../pokemon/006.md) Lv. 57 |
-| 133 | **Swimmer Stan** | ![](../img/icons/565.png){ .icon loading=lazy } [Carracosta](../pokemon/565.md) Lv. 55, ![](../img/icons/693.png){ .icon loading=lazy } [Clawitzer](../pokemon/693.md) Lv. 55 |
-| 145 | **Swimmer Tanya** | ![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 55, ![](../img/icons/226.png){ .icon loading=lazy } [Mantine](../pokemon/226.md) Lv. 55 |
-| 146 | **Swimmer Sharon** | ![](../img/icons/131.png){ .icon loading=lazy } [Lapras](../pokemon/131.md) Lv. 56 |
-| 132 | **Swimmer Cody** | ![](../img/icons/160.png){ .icon loading=lazy } [Feraligatr](../pokemon/160.md) Lv. 55, ![](../img/icons/272.png){ .icon loading=lazy } [Ludicolo](../pokemon/272.md) Lv. 55 |
+| 194 | **Sailor Ernest** | <span class="mon">![](../img/icons/423.png){ .icon loading=lazy } [Gastrodon](../pokemon/423.md) Lv. 54</span>, <span class="mon">![](../img/icons/68.png){ .icon loading=lazy } [Machamp](../pokemon/068.md) Lv. 54</span>, <span class="mon">![](../img/icons/20.png){ .icon loading=lazy } [Raticate](../pokemon/020.md) Lv. 54</span> |
+| 631 | **Teammates Kim & Iris** | <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 56</span>, <span class="mon">![](../img/icons/6.png){ .icon loading=lazy } [Charizard](../pokemon/006.md) Lv. 57</span> |
+| 133 | **Swimmer Stan** | <span class="mon">![](../img/icons/565.png){ .icon loading=lazy } [Carracosta](../pokemon/565.md) Lv. 55</span>, <span class="mon">![](../img/icons/693.png){ .icon loading=lazy } [Clawitzer](../pokemon/693.md) Lv. 55</span> |
+| 145 | **Swimmer Tanya** | <span class="mon">![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 55</span>, <span class="mon">![](../img/icons/226.png){ .icon loading=lazy } [Mantine](../pokemon/226.md) Lv. 55</span> |
+| 146 | **Swimmer Sharon** | <span class="mon">![](../img/icons/131.png){ .icon loading=lazy } [Lapras](../pokemon/131.md) Lv. 56</span> |
+| 132 | **Swimmer Cody** | <span class="mon">![](../img/icons/160.png){ .icon loading=lazy } [Feraligatr](../pokemon/160.md) Lv. 55</span>, <span class="mon">![](../img/icons/272.png){ .icon loading=lazy } [Ludicolo](../pokemon/272.md) Lv. 55</span> |
 
 ## Rematches
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 453 | **Sailor Ernest** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | ![](../img/icons/423.png){ .icon loading=lazy } [Gastrodon](../pokemon/423.md) Lv. 64, ![](../img/icons/68.png){ .icon loading=lazy } [Machamp](../pokemon/068.md) Lv. 64, ![](../img/icons/20.png){ .icon loading=lazy } [Raticate](../pokemon/020.md) Lv. 64, ![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 64 |
-| 454 | **Sailor Ernest** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | ![](../img/icons/423.png){ .icon loading=lazy } [Gastrodon](../pokemon/423.md) Lv. 75, ![](../img/icons/68.png){ .icon loading=lazy } [Machamp](../pokemon/068.md) Lv. 75, ![](../img/icons/20.png){ .icon loading=lazy } [Raticate](../pokemon/020.md) Lv. 75, ![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 75 |
+| 453 | **Sailor Ernest** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | <span class="mon">![](../img/icons/423.png){ .icon loading=lazy } [Gastrodon](../pokemon/423.md) Lv. 64</span>, <span class="mon">![](../img/icons/68.png){ .icon loading=lazy } [Machamp](../pokemon/068.md) Lv. 64</span>, <span class="mon">![](../img/icons/20.png){ .icon loading=lazy } [Raticate](../pokemon/020.md) Lv. 64</span>, <span class="mon">![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 64</span> |
+| 454 | **Sailor Ernest** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | <span class="mon">![](../img/icons/423.png){ .icon loading=lazy } [Gastrodon](../pokemon/423.md) Lv. 75</span>, <span class="mon">![](../img/icons/68.png){ .icon loading=lazy } [Machamp](../pokemon/068.md) Lv. 75</span>, <span class="mon">![](../img/icons/20.png){ .icon loading=lazy } [Raticate](../pokemon/020.md) Lv. 75</span>, <span class="mon">![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 75</span> |
 
 
 ---

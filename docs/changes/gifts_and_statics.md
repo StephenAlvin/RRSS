@@ -13,69 +13,69 @@
 
 | Encounter | Pokémon | Changes |
 | --- | --- | --- |
-| Starter Pokémon, Treecko | ![](../img/icons/252.png){ .icon loading=lazy } [Treecko](../pokemon/252.md) | Holds Oran Berry and always has max IVs |
-| Starter Pokémon, Torchic | ![](../img/icons/255.png){ .icon loading=lazy } [Torchic](../pokemon/255.md) | Holds Oran Berry and always has max IVs |
-| Starter Pokémon, Mudkip | ![](../img/icons/258.png){ .icon loading=lazy } [Mudkip](../pokemon/258.md) | Holds Oran Berry and always has max IVs |
-| Fossil Pokémon, Lileep | ![](../img/icons/345.png){ .icon loading=lazy } [Lileep](../pokemon/345.md) | Level increased to 30, always has max IVs |
-| Fossil Pokémon, Anorith | ![](../img/icons/347.png){ .icon loading=lazy } [Anorith](../pokemon/347.md) | Level increased to 30, always has max IVs |
-| Fossil Pokémon, Aerodactyl | ![](../img/icons/142.png){ .icon loading=lazy } [Aerodactyl](../pokemon/142.md) | Level increased to 30, always has max IVs |
-| Fossil Pokémon, Shieldon | ![](../img/icons/410.png){ .icon loading=lazy } [Shieldon](../pokemon/410.md) | Level increased to 30, always has max IVs |
-| Fossil Pokémon, Cranidos | ![](../img/icons/408.png){ .icon loading=lazy } [Cranidos](../pokemon/408.md) | Level increased to 30, always has max IVs |
-| Fossil Pokémon, Tirtouga | ![](../img/icons/564.png){ .icon loading=lazy } [Tirtouga](../pokemon/564.md) | Level increased to 30, always has max IVs |
-| Fossil Pokémon, Archen | ![](../img/icons/566.png){ .icon loading=lazy } [Archen](../pokemon/566.md) | Level increased to 30, always has max IVs |
-| Fossil Pokémon, Tyrunt | ![](../img/icons/696.png){ .icon loading=lazy } [Tyrunt](../pokemon/696.md) | Level increased to 30, always has max IVs |
-| Fossil Pokémon, Amaura | ![](../img/icons/698.png){ .icon loading=lazy } [Amaura](../pokemon/698.md) | Level increased to 30, always has max IVs |
-| Weather Institute, Castform | ![](../img/icons/351.png){ .icon loading=lazy } [Castform](../pokemon/351.md) | Level increased to 40, random nature, max IVs |
-| Battle Resort, Camerupt | ![](../img/icons/323.png){ .icon loading=lazy } [Camerupt](../pokemon/323.md) | Level increased to 80, always has max IVs |
-| Battle Resort, Sharpedo | ![](../img/icons/319.png){ .icon loading=lazy } [Sharpedo](../pokemon/319.md) | Level increased to 80, always has max IVs |
-| Route 118, Latias | ![](../img/icons/380.png){ .icon loading=lazy } [Latias](../pokemon/380.md) | Level increased to 40, always has max IVs |
-| Route 118, Latios | ![](../img/icons/381.png){ .icon loading=lazy } [Latios](../pokemon/381.md) | Level increased to 40, always has max IVs |
-| Gift from Birch, Chikorita | ![](../img/icons/152.png){ .icon loading=lazy } [Chikorita](../pokemon/152.md) | Always has max IVs |
-| Gift from Birch, Cyndaquil | ![](../img/icons/155.png){ .icon loading=lazy } [Cyndaquil](../pokemon/155.md) | Always has max IVs |
-| Gift from Birch, Totodile | ![](../img/icons/158.png){ .icon loading=lazy } [Totodile](../pokemon/158.md) | Always has max IVs |
-| Gift from Birch, Turtwig | ![](../img/icons/387.png){ .icon loading=lazy } [Turtwig](../pokemon/387.md) | Always has max IVs |
-| Gift from Birch, Chimchar | ![](../img/icons/390.png){ .icon loading=lazy } [Chimchar](../pokemon/390.md) | Always has max IVs |
-| Gift from Birch, Piplup | ![](../img/icons/393.png){ .icon loading=lazy } [Piplup](../pokemon/393.md) | Always has max IVs |
-| Gift from Birch, Snivy | ![](../img/icons/495.png){ .icon loading=lazy } [Snivy](../pokemon/495.md) | Always has max IVs |
-| Gift from Birch, Tepig | ![](../img/icons/498.png){ .icon loading=lazy } [Tepig](../pokemon/498.md) | Always has max IVs |
-| Gift from Birch, Oshawott | ![](../img/icons/501.png){ .icon loading=lazy } [Oshawott](../pokemon/501.md) | Always has max IVs |
+| Starter Pokémon, Treecko | <span class="mon">![](../img/icons/252.png){ .icon loading=lazy } [Treecko](../pokemon/252.md)</span> | Holds Oran Berry and always has max IVs |
+| Starter Pokémon, Torchic | <span class="mon">![](../img/icons/255.png){ .icon loading=lazy } [Torchic](../pokemon/255.md)</span> | Holds Oran Berry and always has max IVs |
+| Starter Pokémon, Mudkip | <span class="mon">![](../img/icons/258.png){ .icon loading=lazy } [Mudkip](../pokemon/258.md)</span> | Holds Oran Berry and always has max IVs |
+| Fossil Pokémon, Lileep | <span class="mon">![](../img/icons/345.png){ .icon loading=lazy } [Lileep](../pokemon/345.md)</span> | Level increased to 30, always has max IVs |
+| Fossil Pokémon, Anorith | <span class="mon">![](../img/icons/347.png){ .icon loading=lazy } [Anorith](../pokemon/347.md)</span> | Level increased to 30, always has max IVs |
+| Fossil Pokémon, Aerodactyl | <span class="mon">![](../img/icons/142.png){ .icon loading=lazy } [Aerodactyl](../pokemon/142.md)</span> | Level increased to 30, always has max IVs |
+| Fossil Pokémon, Shieldon | <span class="mon">![](../img/icons/410.png){ .icon loading=lazy } [Shieldon](../pokemon/410.md)</span> | Level increased to 30, always has max IVs |
+| Fossil Pokémon, Cranidos | <span class="mon">![](../img/icons/408.png){ .icon loading=lazy } [Cranidos](../pokemon/408.md)</span> | Level increased to 30, always has max IVs |
+| Fossil Pokémon, Tirtouga | <span class="mon">![](../img/icons/564.png){ .icon loading=lazy } [Tirtouga](../pokemon/564.md)</span> | Level increased to 30, always has max IVs |
+| Fossil Pokémon, Archen | <span class="mon">![](../img/icons/566.png){ .icon loading=lazy } [Archen](../pokemon/566.md)</span> | Level increased to 30, always has max IVs |
+| Fossil Pokémon, Tyrunt | <span class="mon">![](../img/icons/696.png){ .icon loading=lazy } [Tyrunt](../pokemon/696.md)</span> | Level increased to 30, always has max IVs |
+| Fossil Pokémon, Amaura | <span class="mon">![](../img/icons/698.png){ .icon loading=lazy } [Amaura](../pokemon/698.md)</span> | Level increased to 30, always has max IVs |
+| Weather Institute, Castform | <span class="mon">![](../img/icons/351.png){ .icon loading=lazy } [Castform](../pokemon/351.md)</span> | Level increased to 40, random nature, max IVs |
+| Battle Resort, Camerupt | <span class="mon">![](../img/icons/323.png){ .icon loading=lazy } [Camerupt](../pokemon/323.md)</span> | Level increased to 80, always has max IVs |
+| Battle Resort, Sharpedo | <span class="mon">![](../img/icons/319.png){ .icon loading=lazy } [Sharpedo](../pokemon/319.md)</span> | Level increased to 80, always has max IVs |
+| Route 118, Latias | <span class="mon">![](../img/icons/380.png){ .icon loading=lazy } [Latias](../pokemon/380.md)</span> | Level increased to 40, always has max IVs |
+| Route 118, Latios | <span class="mon">![](../img/icons/381.png){ .icon loading=lazy } [Latios](../pokemon/381.md)</span> | Level increased to 40, always has max IVs |
+| Gift from Birch, Chikorita | <span class="mon">![](../img/icons/152.png){ .icon loading=lazy } [Chikorita](../pokemon/152.md)</span> | Always has max IVs |
+| Gift from Birch, Cyndaquil | <span class="mon">![](../img/icons/155.png){ .icon loading=lazy } [Cyndaquil](../pokemon/155.md)</span> | Always has max IVs |
+| Gift from Birch, Totodile | <span class="mon">![](../img/icons/158.png){ .icon loading=lazy } [Totodile](../pokemon/158.md)</span> | Always has max IVs |
+| Gift from Birch, Turtwig | <span class="mon">![](../img/icons/387.png){ .icon loading=lazy } [Turtwig](../pokemon/387.md)</span> | Always has max IVs |
+| Gift from Birch, Chimchar | <span class="mon">![](../img/icons/390.png){ .icon loading=lazy } [Chimchar](../pokemon/390.md)</span> | Always has max IVs |
+| Gift from Birch, Piplup | <span class="mon">![](../img/icons/393.png){ .icon loading=lazy } [Piplup](../pokemon/393.md)</span> | Always has max IVs |
+| Gift from Birch, Snivy | <span class="mon">![](../img/icons/495.png){ .icon loading=lazy } [Snivy](../pokemon/495.md)</span> | Always has max IVs |
+| Gift from Birch, Tepig | <span class="mon">![](../img/icons/498.png){ .icon loading=lazy } [Tepig](../pokemon/498.md)</span> | Always has max IVs |
+| Gift from Birch, Oshawott | <span class="mon">![](../img/icons/501.png){ .icon loading=lazy } [Oshawott](../pokemon/501.md)</span> | Always has max IVs |
 
 ## Static Encounter Changes
 
 | Encounter | Pokémon | Changes |
 | --- | --- | --- |
 | Route 101, First Battle on Route |  | Changed from Lv. 3 Wurmple to Lv. 5 Pidgey |
-| Route 119/120, Kecleon | ![](../img/icons/352.png){ .icon loading=lazy } [Kecleon](../pokemon/352.md) | Level increased to 40 |
-| Team Hideout, Voltorb | ![](../img/icons/100.png){ .icon loading=lazy } [Voltorb](../pokemon/100.md) | Level increased to 40 |
-| Team Hideout, Electrode | ![](../img/icons/101.png){ .icon loading=lazy } [Electrode](../pokemon/101.md) | Level increased to 50 |
-| Desert Ruins, Regirock | ![](../img/icons/377.png){ .icon loading=lazy } [Regirock](../pokemon/377.md) | Level increased to 60 |
-| Island Cave, Regice | ![](../img/icons/378.png){ .icon loading=lazy } [Regice](../pokemon/378.md) | Level increased to 60 |
-| Ancient Tomb, Registeel | ![](../img/icons/379.png){ .icon loading=lazy } [Registeel](../pokemon/379.md) | Level increased to 60 |
-| Island Cave, Regigigas | ![](../img/icons/486.png){ .icon loading=lazy } [Regigigas](../pokemon/486.md) | Level increased to 68 |
-| Cave of Origin, Kyogre | ![](../img/icons/382.png){ .icon loading=lazy } [Kyogre](../pokemon/382.md) | Level increased to 65 |
-| Cave of Origin, Groudon | ![](../img/icons/383.png){ .icon loading=lazy } [Groudon](../pokemon/383.md) | Level increased to 65 |
+| Route 119/120, Kecleon | <span class="mon">![](../img/icons/352.png){ .icon loading=lazy } [Kecleon](../pokemon/352.md)</span> | Level increased to 40 |
+| Team Hideout, Voltorb | <span class="mon">![](../img/icons/100.png){ .icon loading=lazy } [Voltorb](../pokemon/100.md)</span> | Level increased to 40 |
+| Team Hideout, Electrode | <span class="mon">![](../img/icons/101.png){ .icon loading=lazy } [Electrode](../pokemon/101.md)</span> | Level increased to 50 |
+| Desert Ruins, Regirock | <span class="mon">![](../img/icons/377.png){ .icon loading=lazy } [Regirock](../pokemon/377.md)</span> | Level increased to 60 |
+| Island Cave, Regice | <span class="mon">![](../img/icons/378.png){ .icon loading=lazy } [Regice](../pokemon/378.md)</span> | Level increased to 60 |
+| Ancient Tomb, Registeel | <span class="mon">![](../img/icons/379.png){ .icon loading=lazy } [Registeel](../pokemon/379.md)</span> | Level increased to 60 |
+| Island Cave, Regigigas | <span class="mon">![](../img/icons/486.png){ .icon loading=lazy } [Regigigas](../pokemon/486.md)</span> | Level increased to 68 |
+| Cave of Origin, Kyogre | <span class="mon">![](../img/icons/382.png){ .icon loading=lazy } [Kyogre](../pokemon/382.md)</span> | Level increased to 65 |
+| Cave of Origin, Groudon | <span class="mon">![](../img/icons/383.png){ .icon loading=lazy } [Groudon](../pokemon/383.md)</span> | Level increased to 65 |
 | Soaring in the Sky, Wild Pokémon |  | Level 60, hidden ability, max IV&#42; |
-| Sky Pillar, Rayquaza | ![](../img/icons/384.png){ .icon loading=lazy } [Rayquaza](../pokemon/384.md) | Level increased to 75 |
-| Soaring in the Sky, Thundurus | ![](../img/icons/642.png){ .icon loading=lazy } [Thundurus](../pokemon/642.md) | Level increased to 65, found as Therian forme |
-| Soaring in the Sky, Tornadus | ![](../img/icons/641.png){ .icon loading=lazy } [Tornadus](../pokemon/641.md) | Level increased to 65, found as Therian forme |
-| Soaring in the Sky, Landorus | ![](../img/icons/645.png){ .icon loading=lazy } [Landorus](../pokemon/645.md) | Level increased to 68, found as Therian forme |
-| Soaring in the Sky, Dialga | ![](../img/icons/483.png){ .icon loading=lazy } [Dialga](../pokemon/483.md) | Level increased to 70, holding Adamant Orb |
-| Soaring in the Sky, Palkia | ![](../img/icons/484.png){ .icon loading=lazy } [Palkia](../pokemon/484.md) | Level increased to 70, holding Lustrous Orb |
-| Soaring in the Sky, Giratina | ![](../img/icons/487.png){ .icon loading=lazy } [Giratina](../pokemon/487.md) | Level increased to 70, holding Griseous Orb |
-| Trackless Forest, Raikou | ![](../img/icons/243.png){ .icon loading=lazy } [Raikou](../pokemon/243.md) | Level increased to 65 |
-| Trackless Forest, Entei | ![](../img/icons/244.png){ .icon loading=lazy } [Entei](../pokemon/244.md) | Level increased to 65 |
-| Trackless Forest, Suicune | ![](../img/icons/245.png){ .icon loading=lazy } [Suicune](../pokemon/245.md) | Level increased to 65 |
-| Pathless Plain, Cobalion | ![](../img/icons/638.png){ .icon loading=lazy } [Cobalion](../pokemon/638.md) | Level increased to 65 |
-| Pathless Plain, Terrakion | ![](../img/icons/639.png){ .icon loading=lazy } [Terrakion](../pokemon/639.md) | Level increased to 65 |
-| Pathless Plain, Virizion | ![](../img/icons/640.png){ .icon loading=lazy } [Virizion](../pokemon/640.md) | Level increased to 65 |
-| Fabled Cave, Reshiram | ![](../img/icons/643.png){ .icon loading=lazy } [Reshiram](../pokemon/643.md) | Level increased to 70 |
-| Fabled Cave, Zekrom | ![](../img/icons/644.png){ .icon loading=lazy } [Zekrom](../pokemon/644.md) | Level increased to 70 |
-| Gnarled Den, Kyurem | ![](../img/icons/646.png){ .icon loading=lazy } [Kyurem](../pokemon/646.md) | Level increased to 70 |
+| Sky Pillar, Rayquaza | <span class="mon">![](../img/icons/384.png){ .icon loading=lazy } [Rayquaza](../pokemon/384.md)</span> | Level increased to 75 |
+| Soaring in the Sky, Thundurus | <span class="mon">![](../img/icons/642.png){ .icon loading=lazy } [Thundurus](../pokemon/642.md)</span> | Level increased to 65, found as Therian forme |
+| Soaring in the Sky, Tornadus | <span class="mon">![](../img/icons/641.png){ .icon loading=lazy } [Tornadus](../pokemon/641.md)</span> | Level increased to 65, found as Therian forme |
+| Soaring in the Sky, Landorus | <span class="mon">![](../img/icons/645.png){ .icon loading=lazy } [Landorus](../pokemon/645.md)</span> | Level increased to 68, found as Therian forme |
+| Soaring in the Sky, Dialga | <span class="mon">![](../img/icons/483.png){ .icon loading=lazy } [Dialga](../pokemon/483.md)</span> | Level increased to 70, holding Adamant Orb |
+| Soaring in the Sky, Palkia | <span class="mon">![](../img/icons/484.png){ .icon loading=lazy } [Palkia](../pokemon/484.md)</span> | Level increased to 70, holding Lustrous Orb |
+| Soaring in the Sky, Giratina | <span class="mon">![](../img/icons/487.png){ .icon loading=lazy } [Giratina](../pokemon/487.md)</span> | Level increased to 70, holding Griseous Orb |
+| Trackless Forest, Raikou | <span class="mon">![](../img/icons/243.png){ .icon loading=lazy } [Raikou](../pokemon/243.md)</span> | Level increased to 65 |
+| Trackless Forest, Entei | <span class="mon">![](../img/icons/244.png){ .icon loading=lazy } [Entei](../pokemon/244.md)</span> | Level increased to 65 |
+| Trackless Forest, Suicune | <span class="mon">![](../img/icons/245.png){ .icon loading=lazy } [Suicune](../pokemon/245.md)</span> | Level increased to 65 |
+| Pathless Plain, Cobalion | <span class="mon">![](../img/icons/638.png){ .icon loading=lazy } [Cobalion](../pokemon/638.md)</span> | Level increased to 65 |
+| Pathless Plain, Terrakion | <span class="mon">![](../img/icons/639.png){ .icon loading=lazy } [Terrakion](../pokemon/639.md)</span> | Level increased to 65 |
+| Pathless Plain, Virizion | <span class="mon">![](../img/icons/640.png){ .icon loading=lazy } [Virizion](../pokemon/640.md)</span> | Level increased to 65 |
+| Fabled Cave, Reshiram | <span class="mon">![](../img/icons/643.png){ .icon loading=lazy } [Reshiram](../pokemon/643.md)</span> | Level increased to 70 |
+| Fabled Cave, Zekrom | <span class="mon">![](../img/icons/644.png){ .icon loading=lazy } [Zekrom](../pokemon/644.md)</span> | Level increased to 70 |
+| Gnarled Den, Kyurem | <span class="mon">![](../img/icons/646.png){ .icon loading=lazy } [Kyurem](../pokemon/646.md)</span> | Level increased to 70 |
 | Sea Mauville, Ho-oh |  | Level increased to 70, has Regenerator |
-| Sea Mauville, Lugia | ![](../img/icons/249.png){ .icon loading=lazy } [Lugia](../pokemon/249.md) | Level increased to 70, has Multiscale |
-| Sea Mauville, Spiritomb | ![](../img/icons/442.png){ .icon loading=lazy } [Spiritomb](../pokemon/442.md) | Level increased to 60 |
-| Southern Island, Latias | ![](../img/icons/380.png){ .icon loading=lazy } [Latias](../pokemon/380.md) | Level increased to 40 |
-| Southern Island, Latios | ![](../img/icons/381.png){ .icon loading=lazy } [Latios](../pokemon/381.md) | Level increased to 40 |
+| Sea Mauville, Lugia | <span class="mon">![](../img/icons/249.png){ .icon loading=lazy } [Lugia](../pokemon/249.md)</span> | Level increased to 70, has Multiscale |
+| Sea Mauville, Spiritomb | <span class="mon">![](../img/icons/442.png){ .icon loading=lazy } [Spiritomb](../pokemon/442.md)</span> | Level increased to 60 |
+| Southern Island, Latias | <span class="mon">![](../img/icons/380.png){ .icon loading=lazy } [Latias](../pokemon/380.md)</span> | Level increased to 40 |
+| Southern Island, Latios | <span class="mon">![](../img/icons/381.png){ .icon loading=lazy } [Latios](../pokemon/381.md)</span> | Level increased to 40 |
 
 &#42; Pokémon species also changed. See area changes doc for details.
 

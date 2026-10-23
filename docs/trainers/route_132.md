@@ -10,9 +10,9 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 058 | **Black Belt Kiyo** | ![](../img/icons/107.png){ .icon loading=lazy } [Hitmonchan](../pokemon/107.md) Lv. 58, ![](../img/icons/538.png){ .icon loading=lazy } [Throh](../pokemon/538.md) Lv. 58, ![](../img/icons/297.png){ .icon loading=lazy } [Hariyama](../pokemon/297.md) Lv. 58 |
-| 502 | **Fisherman Ronald** | ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) Lv. 58, ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) Lv. 58 |
-| 139 | **Swimmer Gilbert** | ![](../img/icons/62.png){ .icon loading=lazy } [Poliwrath](../pokemon/062.md) Lv. 59 |
+| 058 | **Black Belt Kiyo** | <span class="mon">![](../img/icons/107.png){ .icon loading=lazy } [Hitmonchan](../pokemon/107.md) Lv. 58</span>, <span class="mon">![](../img/icons/538.png){ .icon loading=lazy } [Throh](../pokemon/538.md) Lv. 58</span>, <span class="mon">![](../img/icons/297.png){ .icon loading=lazy } [Hariyama](../pokemon/297.md) Lv. 58</span> |
+| 502 | **Fisherman Ronald** | <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) Lv. 58</span>, <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) Lv. 58</span> |
+| 139 | **Swimmer Gilbert** | <span class="mon">![](../img/icons/62.png){ .icon loading=lazy } [Poliwrath](../pokemon/062.md) Lv. 59</span> |
 
 
 ---

@@ -6,28 +6,28 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/21.png){ .icon loading=lazy } [Spearow](../pokemon/021.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/37.png){ .icon loading=lazy } [Vulpix](../pokemon/037.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/163.png){ .icon loading=lazy } [Hoothoot](../pokemon/163.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/177.png){ .icon loading=lazy } [Natu](../pokemon/177.md) | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/198.png){ .icon loading=lazy } [Murkrow](../pokemon/198.md) | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/200.png){ .icon loading=lazy } [Misdreavus](../pokemon/200.md) | <span class="type type-ghost">Ghost</span> <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/307.png){ .icon loading=lazy } [Meditite](../pokemon/307.md) | <span class="type type-fighting">Fighting</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/436.png){ .icon loading=lazy } [Bronzor](../pokemon/436.md) | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/433.png){ .icon loading=lazy } [Chingling](../pokemon/433.md) | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/21.png){ .icon loading=lazy } [Spearow](../pokemon/021.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/37.png){ .icon loading=lazy } [Vulpix](../pokemon/037.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/163.png){ .icon loading=lazy } [Hoothoot](../pokemon/163.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/177.png){ .icon loading=lazy } [Natu](../pokemon/177.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/198.png){ .icon loading=lazy } [Murkrow](../pokemon/198.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/200.png){ .icon loading=lazy } [Misdreavus](../pokemon/200.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/307.png){ .icon loading=lazy } [Meditite](../pokemon/307.md)</span> | <span class="type type-fighting">Fighting</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/436.png){ .icon loading=lazy } [Bronzor](../pokemon/436.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/433.png){ .icon loading=lazy } [Chingling](../pokemon/433.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/429.png){ .icon loading=lazy } [Mismagius](../pokemon/429.md) | <span class="type type-ghost">Ghost</span> <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/429.png){ .icon loading=lazy } [Mismagius](../pokemon/429.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-fairy">Fairy</span> | — |
 
 ## Horde — Lv. 25
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/436.png){ .icon loading=lazy } [Bronzor](../pokemon/436.md) | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | — |
+| <span class="mon">![](../img/icons/436.png){ .icon loading=lazy } [Bronzor](../pokemon/436.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | — |
 
 
 ---

@@ -10,14 +10,14 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 540 | **Bird Keeper Byron** | ![](../img/icons/227.png){ .icon loading=lazy } [Skarmory](../pokemon/227.md) Lv. 54, ![](../img/icons/561.png){ .icon loading=lazy } [Sigilyph](../pokemon/561.md) Lv. 54, ![](../img/icons/521.png){ .icon loading=lazy } [Unfezant](../pokemon/521.md) Lv. 54 |
-| 807 | **Ace Trainer Hisato** | ![](../img/icons/473.png){ .icon loading=lazy } [Mamoswine](../pokemon/473.md) Lv. 55, ![](../img/icons/202.png){ .icon loading=lazy } [Wobbuffet](../pokemon/202.md) Lv. 55, ![](../img/icons/681.png){ .icon loading=lazy } [Aegislash](../pokemon/681.md) Lv. 55, ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 55 |
-| 816 | **Ace Trainer Claudia** | ![](../img/icons/260.png){ .icon loading=lazy } [Swampert](../pokemon/260.md) Lv. 55, ![](../img/icons/375.png){ .icon loading=lazy } [Metang](../pokemon/375.md) Lv. 55, ![](../img/icons/476.png){ .icon loading=lazy } [Probopass](../pokemon/476.md) Lv. 55, ![](../img/icons/614.png){ .icon loading=lazy } [Beartic](../pokemon/614.md) Lv. 55 |
-| 533 | **Fisherman Jonah** | ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 56 |
-| 534 | **Fisherman Henry** | ![](../img/icons/171.png){ .icon loading=lazy } [Lanturn](../pokemon/171.md) Lv. 56 |
-| 535 | **Fisherman Roger** | ![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 56 |
-| 538 | **Black Belt Koji** | ![](../img/icons/392.png){ .icon loading=lazy } [Infernape](../pokemon/392.md) Lv. 55, ![](../img/icons/214.png){ .icon loading=lazy } [Heracross](../pokemon/214.md) Lv. 55, ![](../img/icons/500.png){ .icon loading=lazy } [Emboar](../pokemon/500.md) Lv. 55 |
-| 717 | **Triathlete Jaylon** | ![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 56 |
+| 540 | **Bird Keeper Byron** | <span class="mon">![](../img/icons/227.png){ .icon loading=lazy } [Skarmory](../pokemon/227.md) Lv. 54</span>, <span class="mon">![](../img/icons/561.png){ .icon loading=lazy } [Sigilyph](../pokemon/561.md) Lv. 54</span>, <span class="mon">![](../img/icons/521.png){ .icon loading=lazy } [Unfezant](../pokemon/521.md) Lv. 54</span> |
+| 807 | **Ace Trainer Hisato** | <span class="mon">![](../img/icons/473.png){ .icon loading=lazy } [Mamoswine](../pokemon/473.md) Lv. 55</span>, <span class="mon">![](../img/icons/202.png){ .icon loading=lazy } [Wobbuffet](../pokemon/202.md) Lv. 55</span>, <span class="mon">![](../img/icons/681.png){ .icon loading=lazy } [Aegislash](../pokemon/681.md) Lv. 55</span>, <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 55</span> |
+| 816 | **Ace Trainer Claudia** | <span class="mon">![](../img/icons/260.png){ .icon loading=lazy } [Swampert](../pokemon/260.md) Lv. 55</span>, <span class="mon">![](../img/icons/375.png){ .icon loading=lazy } [Metang](../pokemon/375.md) Lv. 55</span>, <span class="mon">![](../img/icons/476.png){ .icon loading=lazy } [Probopass](../pokemon/476.md) Lv. 55</span>, <span class="mon">![](../img/icons/614.png){ .icon loading=lazy } [Beartic](../pokemon/614.md) Lv. 55</span> |
+| 533 | **Fisherman Jonah** | <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 56</span> |
+| 534 | **Fisherman Henry** | <span class="mon">![](../img/icons/171.png){ .icon loading=lazy } [Lanturn](../pokemon/171.md) Lv. 56</span> |
+| 535 | **Fisherman Roger** | <span class="mon">![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 56</span> |
+| 538 | **Black Belt Koji** | <span class="mon">![](../img/icons/392.png){ .icon loading=lazy } [Infernape](../pokemon/392.md) Lv. 55</span>, <span class="mon">![](../img/icons/214.png){ .icon loading=lazy } [Heracross](../pokemon/214.md) Lv. 55</span>, <span class="mon">![](../img/icons/500.png){ .icon loading=lazy } [Emboar](../pokemon/500.md) Lv. 55</span> |
+| 717 | **Triathlete Jaylon** | <span class="mon">![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 56</span> |
 
 
 ---

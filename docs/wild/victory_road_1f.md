@@ -10,50 +10,50 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/75.png){ .icon loading=lazy } [Graveler](../pokemon/075.md) | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/105.png){ .icon loading=lazy } [Marowak](../pokemon/105.md) | <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/112.png){ .icon loading=lazy } [Rhydon](../pokemon/112.md) | <span class="type type-ground">Ground</span> <span class="type type-rock">Rock</span> | 10% |
-| ![](../img/icons/208.png){ .icon loading=lazy } [Steelix](../pokemon/208.md) | <span class="type type-steel">Steel</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/217.png){ .icon loading=lazy } [Ursaring](../pokemon/217.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/232.png){ .icon loading=lazy } [Donphan](../pokemon/232.md) | <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/305.png){ .icon loading=lazy } [Lairon](../pokemon/305.md) | <span class="type type-steel">Steel</span> <span class="type type-rock">Rock</span> | 10% |
-| ![](../img/icons/525.png){ .icon loading=lazy } [Boldore](../pokemon/525.md) | <span class="type type-rock">Rock</span> | 10% |
-| ![](../img/icons/528.png){ .icon loading=lazy } [Swoobat](../pokemon/528.md) | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/75.png){ .icon loading=lazy } [Graveler](../pokemon/075.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/105.png){ .icon loading=lazy } [Marowak](../pokemon/105.md)</span> | <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/112.png){ .icon loading=lazy } [Rhydon](../pokemon/112.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-rock">Rock</span> | 10% |
+| <span class="mon">![](../img/icons/208.png){ .icon loading=lazy } [Steelix](../pokemon/208.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/217.png){ .icon loading=lazy } [Ursaring](../pokemon/217.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/232.png){ .icon loading=lazy } [Donphan](../pokemon/232.md)</span> | <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/305.png){ .icon loading=lazy } [Lairon](../pokemon/305.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-rock">Rock</span> | 10% |
+| <span class="mon">![](../img/icons/525.png){ .icon loading=lazy } [Boldore](../pokemon/525.md)</span> | <span class="type type-rock">Rock</span> | 10% |
+| <span class="mon">![](../img/icons/528.png){ .icon loading=lazy } [Swoobat](../pokemon/528.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
 
 ## Horde — Lv. 37
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/294.png){ .icon loading=lazy } [Loudred](../pokemon/294.md) | <span class="type type-normal">Normal</span> | — |
+| <span class="mon">![](../img/icons/294.png){ .icon loading=lazy } [Loudred](../pokemon/294.md)</span> | <span class="type type-normal">Normal</span> | — |
 
 ## Surfing — Lv. 55 - 65
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md) | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md)</span> | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/60.png){ .icon loading=lazy } [Poliwag](../pokemon/060.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/60.png){ .icon loading=lazy } [Poliwag](../pokemon/060.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 
 ---

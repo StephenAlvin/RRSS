@@ -25,168 +25,168 @@
 
 | ### | Unevolved | Evolved | New Evolution Methods |
 | --- | --- | --- | --- |
-| 064 | ![](../img/icons/64.png){ .icon loading=lazy } [Kadabra](../pokemon/064.md) | ![](../img/icons/65.png){ .icon loading=lazy } [Alakazam](../pokemon/065.md) | Level up with 220+ friendship value or at Lv. 36. |
-| 067 | ![](../img/icons/67.png){ .icon loading=lazy } [Machoke](../pokemon/067.md) | ![](../img/icons/68.png){ .icon loading=lazy } [Machamp](../pokemon/068.md) | Level up with 220+ friendship value or at Lv. 39. |
-| 075 | ![](../img/icons/75.png){ .icon loading=lazy } [Graveler](../pokemon/075.md) | ![](../img/icons/76.png){ .icon loading=lazy } [Golem](../pokemon/076.md) | Level up with 220+ friendship value or at Lv. 36. |
-| 094 | ![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md) | ![](../img/icons/94.png){ .icon loading=lazy } [Gengar](../pokemon/094.md) | Level up with 220+ friendship value or at Lv. 36. |
-| 525 | ![](../img/icons/525.png){ .icon loading=lazy } [Boldore](../pokemon/525.md) | ![](../img/icons/526.png){ .icon loading=lazy } [Gigalith](../pokemon/526.md) | Level up with 220+ friendship value or at Lv. 36. |
-| 533 | ![](../img/icons/533.png){ .icon loading=lazy } [Gurdurr](../pokemon/533.md) | ![](../img/icons/534.png){ .icon loading=lazy } [Conkeldurr](../pokemon/534.md) | Level up with 220+ friendship value or at Lv. 36. |
-| 708 | ![](../img/icons/708.png){ .icon loading=lazy } [Phantump](../pokemon/708.md) | ![](../img/icons/709.png){ .icon loading=lazy } [Trevenant](../pokemon/709.md) | Level up with 220+ friendship value or at Lv. 23. |
-| 710 | ![](../img/icons/710.png){ .icon loading=lazy } [Pumpkaboo](../pokemon/710.md) | ![](../img/icons/711.png){ .icon loading=lazy } [Gourgeist](../pokemon/711.md) | Level up with 220+ friendship value or at Lv. 23. |
+| 064 | <span class="mon">![](../img/icons/64.png){ .icon loading=lazy } [Kadabra](../pokemon/064.md)</span> | <span class="mon">![](../img/icons/65.png){ .icon loading=lazy } [Alakazam](../pokemon/065.md)</span> | Level up with 220+ friendship value or at Lv. 36. |
+| 067 | <span class="mon">![](../img/icons/67.png){ .icon loading=lazy } [Machoke](../pokemon/067.md)</span> | <span class="mon">![](../img/icons/68.png){ .icon loading=lazy } [Machamp](../pokemon/068.md)</span> | Level up with 220+ friendship value or at Lv. 39. |
+| 075 | <span class="mon">![](../img/icons/75.png){ .icon loading=lazy } [Graveler](../pokemon/075.md)</span> | <span class="mon">![](../img/icons/76.png){ .icon loading=lazy } [Golem](../pokemon/076.md)</span> | Level up with 220+ friendship value or at Lv. 36. |
+| 094 | <span class="mon">![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md)</span> | <span class="mon">![](../img/icons/94.png){ .icon loading=lazy } [Gengar](../pokemon/094.md)</span> | Level up with 220+ friendship value or at Lv. 36. |
+| 525 | <span class="mon">![](../img/icons/525.png){ .icon loading=lazy } [Boldore](../pokemon/525.md)</span> | <span class="mon">![](../img/icons/526.png){ .icon loading=lazy } [Gigalith](../pokemon/526.md)</span> | Level up with 220+ friendship value or at Lv. 36. |
+| 533 | <span class="mon">![](../img/icons/533.png){ .icon loading=lazy } [Gurdurr](../pokemon/533.md)</span> | <span class="mon">![](../img/icons/534.png){ .icon loading=lazy } [Conkeldurr](../pokemon/534.md)</span> | Level up with 220+ friendship value or at Lv. 36. |
+| 708 | <span class="mon">![](../img/icons/708.png){ .icon loading=lazy } [Phantump](../pokemon/708.md)</span> | <span class="mon">![](../img/icons/709.png){ .icon loading=lazy } [Trevenant](../pokemon/709.md)</span> | Level up with 220+ friendship value or at Lv. 23. |
+| 710 | <span class="mon">![](../img/icons/710.png){ .icon loading=lazy } [Pumpkaboo](../pokemon/710.md)</span> | <span class="mon">![](../img/icons/711.png){ .icon loading=lazy } [Gourgeist](../pokemon/711.md)</span> | Level up with 220+ friendship value or at Lv. 23. |
 
 ## Trade with Item Evolutions
 
 | ### | Unevolved | Evolved | New Evolution Methods | Evolution Item Location |
 | --- | --- | --- | --- | --- |
-| 061 | ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) | ![](../img/icons/186.png){ .icon loading=lazy } [Politoed](../pokemon/186.md) | Use a King's Rock. | Slateport Market |
-| 079 | ![](../img/icons/79.png){ .icon loading=lazy } [Slowpoke](../pokemon/079.md) | ![](../img/icons/199.png){ .icon loading=lazy } [Slowking](../pokemon/199.md) | Use a King's Rock. | Slateport Market |
-| 095 | ![](../img/icons/95.png){ .icon loading=lazy } [Onix](../pokemon/095.md) | ![](../img/icons/208.png){ .icon loading=lazy } [Steelix](../pokemon/208.md) | Use a Metal Coat. | Slateport Market |
-| 112 | ![](../img/icons/112.png){ .icon loading=lazy } [Rhydon](../pokemon/112.md) | ![](../img/icons/464.png){ .icon loading=lazy } [Rhyperior](../pokemon/464.md) | Use a Protector. | Lilycove Department Store |
-| 117 | ![](../img/icons/117.png){ .icon loading=lazy } [Seadra](../pokemon/117.md) | ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) | Use a Dragon Scale. | Slateport Market |
-| 123 | ![](../img/icons/123.png){ .icon loading=lazy } [Scyther](../pokemon/123.md) | ![](../img/icons/212.png){ .icon loading=lazy } [Scizor](../pokemon/212.md) | Use a Metal Coat. | Slateport Market |
-| 125 | ![](../img/icons/125.png){ .icon loading=lazy } [Electabuzz](../pokemon/125.md) | ![](../img/icons/466.png){ .icon loading=lazy } [Electivire](../pokemon/466.md) | Use an Electirizer. | Lilycove Department Store |
-| 126 | ![](../img/icons/126.png){ .icon loading=lazy } [Magmar](../pokemon/126.md) | ![](../img/icons/467.png){ .icon loading=lazy } [Magmortar](../pokemon/467.md) | Use a Magmarizer. | Lilycove Department Store |
-| 137 | ![](../img/icons/137.png){ .icon loading=lazy } [Porygon](../pokemon/137.md) | ![](../img/icons/233.png){ .icon loading=lazy } [Porygon2](../pokemon/233.md) | Use an Up-Grade. | Slateport Market |
-| 233 | ![](../img/icons/233.png){ .icon loading=lazy } [Porygon2](../pokemon/233.md) | ![](../img/icons/474.png){ .icon loading=lazy } [Porygon-Z](../pokemon/474.md) | Use a Dubious Disc. | Lilycove Department Store |
-| 349 | ![](../img/icons/349.png){ .icon loading=lazy } [Feebas](../pokemon/349.md) | ![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) | Use a Prism Scale. | Wild Corsola (50%) |
-| 356 | ![](../img/icons/356.png){ .icon loading=lazy } [Dusclops](../pokemon/356.md) | ![](../img/icons/477.png){ .icon loading=lazy } [Dusknoir](../pokemon/477.md) | Use a Reaper Cloth. | Lilycove Department Store |
-| 366 | ![](../img/icons/366.png){ .icon loading=lazy } [Clamperl](../pokemon/366.md) | ![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) | Use a Deep Sea Tooth. | Slateport Market |
-| 366 | ![](../img/icons/366.png){ .icon loading=lazy } [Clamperl](../pokemon/366.md) | ![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) | Use a Deep Sea Scale. | Slateport Market |
+| 061 | <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md)</span> | <span class="mon">![](../img/icons/186.png){ .icon loading=lazy } [Politoed](../pokemon/186.md)</span> | Use a King's Rock. | Slateport Market |
+| 079 | <span class="mon">![](../img/icons/79.png){ .icon loading=lazy } [Slowpoke](../pokemon/079.md)</span> | <span class="mon">![](../img/icons/199.png){ .icon loading=lazy } [Slowking](../pokemon/199.md)</span> | Use a King's Rock. | Slateport Market |
+| 095 | <span class="mon">![](../img/icons/95.png){ .icon loading=lazy } [Onix](../pokemon/095.md)</span> | <span class="mon">![](../img/icons/208.png){ .icon loading=lazy } [Steelix](../pokemon/208.md)</span> | Use a Metal Coat. | Slateport Market |
+| 112 | <span class="mon">![](../img/icons/112.png){ .icon loading=lazy } [Rhydon](../pokemon/112.md)</span> | <span class="mon">![](../img/icons/464.png){ .icon loading=lazy } [Rhyperior](../pokemon/464.md)</span> | Use a Protector. | Lilycove Department Store |
+| 117 | <span class="mon">![](../img/icons/117.png){ .icon loading=lazy } [Seadra](../pokemon/117.md)</span> | <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md)</span> | Use a Dragon Scale. | Slateport Market |
+| 123 | <span class="mon">![](../img/icons/123.png){ .icon loading=lazy } [Scyther](../pokemon/123.md)</span> | <span class="mon">![](../img/icons/212.png){ .icon loading=lazy } [Scizor](../pokemon/212.md)</span> | Use a Metal Coat. | Slateport Market |
+| 125 | <span class="mon">![](../img/icons/125.png){ .icon loading=lazy } [Electabuzz](../pokemon/125.md)</span> | <span class="mon">![](../img/icons/466.png){ .icon loading=lazy } [Electivire](../pokemon/466.md)</span> | Use an Electirizer. | Lilycove Department Store |
+| 126 | <span class="mon">![](../img/icons/126.png){ .icon loading=lazy } [Magmar](../pokemon/126.md)</span> | <span class="mon">![](../img/icons/467.png){ .icon loading=lazy } [Magmortar](../pokemon/467.md)</span> | Use a Magmarizer. | Lilycove Department Store |
+| 137 | <span class="mon">![](../img/icons/137.png){ .icon loading=lazy } [Porygon](../pokemon/137.md)</span> | <span class="mon">![](../img/icons/233.png){ .icon loading=lazy } [Porygon2](../pokemon/233.md)</span> | Use an Up-Grade. | Slateport Market |
+| 233 | <span class="mon">![](../img/icons/233.png){ .icon loading=lazy } [Porygon2](../pokemon/233.md)</span> | <span class="mon">![](../img/icons/474.png){ .icon loading=lazy } [Porygon-Z](../pokemon/474.md)</span> | Use a Dubious Disc. | Lilycove Department Store |
+| 349 | <span class="mon">![](../img/icons/349.png){ .icon loading=lazy } [Feebas](../pokemon/349.md)</span> | <span class="mon">![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md)</span> | Use a Prism Scale. | Wild Corsola (50%) |
+| 356 | <span class="mon">![](../img/icons/356.png){ .icon loading=lazy } [Dusclops](../pokemon/356.md)</span> | <span class="mon">![](../img/icons/477.png){ .icon loading=lazy } [Dusknoir](../pokemon/477.md)</span> | Use a Reaper Cloth. | Lilycove Department Store |
+| 366 | <span class="mon">![](../img/icons/366.png){ .icon loading=lazy } [Clamperl](../pokemon/366.md)</span> | <span class="mon">![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md)</span> | Use a Deep Sea Tooth. | Slateport Market |
+| 366 | <span class="mon">![](../img/icons/366.png){ .icon loading=lazy } [Clamperl](../pokemon/366.md)</span> | <span class="mon">![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md)</span> | Use a Deep Sea Scale. | Slateport Market |
 
 ## Trade with Pokémon Evolutions
 
 | ### | Unevolved | Evolved | New Evolution Methods |
 | --- | --- | --- | --- |
-| 588 | ![](../img/icons/588.png){ .icon loading=lazy } [Karrablast](../pokemon/588.md) | ![](../img/icons/589.png){ .icon loading=lazy } [Escavalier](../pokemon/589.md) | Level up with a Shelmet in the party. |
-| 616 | ![](../img/icons/616.png){ .icon loading=lazy } [Shelmet](../pokemon/616.md) | ![](../img/icons/617.png){ .icon loading=lazy } [Accelgor](../pokemon/617.md) | Level up with a Karrablast in the party. |
+| 588 | <span class="mon">![](../img/icons/588.png){ .icon loading=lazy } [Karrablast](../pokemon/588.md)</span> | <span class="mon">![](../img/icons/589.png){ .icon loading=lazy } [Escavalier](../pokemon/589.md)</span> | Level up with a Shelmet in the party. |
+| 616 | <span class="mon">![](../img/icons/616.png){ .icon loading=lazy } [Shelmet](../pokemon/616.md)</span> | <span class="mon">![](../img/icons/617.png){ .icon loading=lazy } [Accelgor](../pokemon/617.md)</span> | Level up with a Karrablast in the party. |
 
 ## Level Adjustments
 
 | ### | Unevolved | Evolved | Old | New | Diff |
 | --- | --- | --- | --- | --- | --- |
-| 077 | ![](../img/icons/77.png){ .icon loading=lazy } [Ponyta](../pokemon/077.md) | ![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md) | Lv. 40 | Lv. 37 | - 3 |
-| 079 | ![](../img/icons/79.png){ .icon loading=lazy } [Slowpoke](../pokemon/079.md) | ![](../img/icons/80.png){ .icon loading=lazy } [Slowbro](../pokemon/080.md) | Lv. 37 | Lv. 33 | - 4 |
-| 088 | ![](../img/icons/88.png){ .icon loading=lazy } [Grimer](../pokemon/088.md) | ![](../img/icons/89.png){ .icon loading=lazy } [Muk](../pokemon/089.md) | Lv. 38 | Lv. 35 | - 3 |
-| 110 | ![](../img/icons/109.png){ .icon loading=lazy } [Koffing](../pokemon/109.md) | ![](../img/icons/110.png){ .icon loading=lazy } [Weezing](../pokemon/110.md) | Lv. 35 | Lv. 33 | - 2 |
-| 111 | ![](../img/icons/111.png){ .icon loading=lazy } [Rhyhorn](../pokemon/111.md) | ![](../img/icons/112.png){ .icon loading=lazy } [Rhydon](../pokemon/112.md) | Lv. 42 | Lv. 39 | - 3 |
-| 138 | ![](../img/icons/138.png){ .icon loading=lazy } [Omanyte](../pokemon/138.md) | ![](../img/icons/139.png){ .icon loading=lazy } [Omastar](../pokemon/139.md) | Lv. 40 | Lv. 37 | - 3 |
-| 140 | ![](../img/icons/140.png){ .icon loading=lazy } [Kabuto](../pokemon/140.md) | ![](../img/icons/141.png){ .icon loading=lazy } [Kabutops](../pokemon/141.md) | Lv. 40 | Lv. 37 | - 3 |
-| 217 | ![](../img/icons/218.png){ .icon loading=lazy } [Slugma](../pokemon/218.md) | ![](../img/icons/219.png){ .icon loading=lazy } [Magcargo](../pokemon/219.md) | Lv. 38 | Lv. 33 | - 5 |
-| 307 | ![](../img/icons/307.png){ .icon loading=lazy } [Meditite](../pokemon/307.md) | ![](../img/icons/308.png){ .icon loading=lazy } [Medicham](../pokemon/308.md) | Lv. 37 | Lv. 35 | - 2 |
-| 320 | ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | ![](../img/icons/321.png){ .icon loading=lazy } [Wailord](../pokemon/321.md) | Lv. 40 | Lv. 37 | - 3 |
-| 333 | ![](../img/icons/333.png){ .icon loading=lazy } [Swablu](../pokemon/333.md) | ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) | Lv. 35 | Lv. 33 | - 2 |
-| 345 | ![](../img/icons/345.png){ .icon loading=lazy } [Lileep](../pokemon/345.md) | ![](../img/icons/346.png){ .icon loading=lazy } [Cradily](../pokemon/346.md) | Lv. 40 | Lv. 37 | - 3 |
-| 347 | ![](../img/icons/347.png){ .icon loading=lazy } [Anorith](../pokemon/347.md) | ![](../img/icons/348.png){ .icon loading=lazy } [Armaldo](../pokemon/348.md) | Lv. 40 | Lv. 37 | - 3 |
-| 353 | ![](../img/icons/353.png){ .icon loading=lazy } [Shuppet](../pokemon/353.md) | ![](../img/icons/354.png){ .icon loading=lazy } [Banette](../pokemon/354.md) | Lv. 37 | Lv. 34 | - 3 |
-| 355 | ![](../img/icons/355.png){ .icon loading=lazy } [Duskull](../pokemon/355.md) | ![](../img/icons/356.png){ .icon loading=lazy } [Dusclops](../pokemon/356.md) | Lv. 37 | Lv. 34 | - 3 |
-| 361 | ![](../img/icons/361.png){ .icon loading=lazy } [Snorunt](../pokemon/361.md) | ![](../img/icons/362.png){ .icon loading=lazy } [Glalie](../pokemon/362.md) | Lv. 42 | Lv. 39 | - 3 |
-| 431 | ![](../img/icons/431.png){ .icon loading=lazy } [Glameow](../pokemon/431.md) | ![](../img/icons/432.png){ .icon loading=lazy } [Purugly](../pokemon/432.md) | Lv. 38 | Lv. 33 | - 5 |
-| 451 | ![](../img/icons/451.png){ .icon loading=lazy } [Skorupi](../pokemon/451.md) | ![](../img/icons/452.png){ .icon loading=lazy } [Drapion](../pokemon/452.md) | Lv. 40 | Lv. 37 | - 3 |
-| 453 | ![](../img/icons/453.png){ .icon loading=lazy } [Croagunk](../pokemon/453.md) | ![](../img/icons/454.png){ .icon loading=lazy } [Toxicroak](../pokemon/454.md) | Lv. 37 | Lv. 35 | - 2 |
-| 559 | ![](../img/icons/559.png){ .icon loading=lazy } [Scraggy](../pokemon/559.md) | ![](../img/icons/560.png){ .icon loading=lazy } [Scrafty](../pokemon/560.md) | Lv. 39 | Lv. 34 | - 5 |
-| 568 | ![](../img/icons/568.png){ .icon loading=lazy } [Trubbish](../pokemon/568.md) | ![](../img/icons/569.png){ .icon loading=lazy } [Garbodor](../pokemon/569.md) | Lv. 36 | Lv. 34 | - 2 |
-| 574 | ![](../img/icons/574.png){ .icon loading=lazy } [Gothita](../pokemon/574.md) | ![](../img/icons/575.png){ .icon loading=lazy } [Gothorita](../pokemon/575.md) | Lv. 32 | Lv. 26 | - 6 |
-| 575 | ![](../img/icons/575.png){ .icon loading=lazy } [Gothorita](../pokemon/575.md) | ![](../img/icons/576.png){ .icon loading=lazy } [Gothitelle](../pokemon/576.md) | Lv. 41 | Lv. 39 | - 2 |
-| 577 | ![](../img/icons/577.png){ .icon loading=lazy } [Solosis](../pokemon/577.md) | ![](../img/icons/578.png){ .icon loading=lazy } [Duosion](../pokemon/578.md) | Lv. 32 | Lv. 26 | - 6 |
-| 578 | ![](../img/icons/578.png){ .icon loading=lazy } [Duosion](../pokemon/578.md) | ![](../img/icons/579.png){ .icon loading=lazy } [Reuniclus](../pokemon/579.md) | Lv. 41 | Lv. 39 | - 2 |
-| 582 | ![](../img/icons/582.png){ .icon loading=lazy } [Vanillite](../pokemon/582.md) | ![](../img/icons/583.png){ .icon loading=lazy } [Vanillish](../pokemon/583.md) | Lv. 35 | Lv. 33 | - 2 |
-| 583 | ![](../img/icons/583.png){ .icon loading=lazy } [Vanillish](../pokemon/583.md) | ![](../img/icons/584.png){ .icon loading=lazy } [Vanilluxe](../pokemon/584.md) | Lv. 47 | Lv. 44 | - 3 |
-| 580 | ![](../img/icons/580.png){ .icon loading=lazy } [Ducklett](../pokemon/580.md) | ![](../img/icons/581.png){ .icon loading=lazy } [Swanna](../pokemon/581.md) | Lv. 35 | Lv. 33 | - 2 |
-| 590 | ![](../img/icons/590.png){ .icon loading=lazy } [Foongus](../pokemon/590.md) | ![](../img/icons/591.png){ .icon loading=lazy } [Amoonguss](../pokemon/591.md) | Lv. 40 | Lv. 37 | - 3 |
-| 592 | ![](../img/icons/592.png){ .icon loading=lazy } [Frillish](../pokemon/592.md) | ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) | Lv. 40 | Lv. 37 | - 3 |
-| 595 | ![](../img/icons/595.png){ .icon loading=lazy } [Joltik](../pokemon/595.md) | ![](../img/icons/596.png){ .icon loading=lazy } [Galvantula](../pokemon/596.md) | Lv. 36 | Lv. 33 | - 3 |
-| 597 | ![](../img/icons/597.png){ .icon loading=lazy } [Ferroseed](../pokemon/597.md) | ![](../img/icons/598.png){ .icon loading=lazy } [Ferrothorn](../pokemon/598.md) | Lv. 40 | Lv. 37 | - 3 |
-| 599 | ![](../img/icons/599.png){ .icon loading=lazy } [Klink](../pokemon/599.md) | ![](../img/icons/600.png){ .icon loading=lazy } [Klang](../pokemon/600.md) | Lv. 38 | Lv. 33 | - 5 |
-| 600 | ![](../img/icons/600.png){ .icon loading=lazy } [Klang](../pokemon/600.md) | ![](../img/icons/601.png){ .icon loading=lazy } [Klinklang](../pokemon/601.md) | Lv. 49 | Lv. 44 | - 5 |
-| 602 | ![](../img/icons/602.png){ .icon loading=lazy } [Tynamo](../pokemon/602.md) | ![](../img/icons/603.png){ .icon loading=lazy } [Eelektrik](../pokemon/603.md) | Lv. 39 | Lv. 34 | - 5 |
-| 605 | ![](../img/icons/605.png){ .icon loading=lazy } [Elgyem](../pokemon/605.md) | ![](../img/icons/606.png){ .icon loading=lazy } [Beheeyem](../pokemon/606.md) | Lv. 42 | Lv. 39 | - 3 |
-| 607 | ![](../img/icons/607.png){ .icon loading=lazy } [Litwick](../pokemon/607.md) | ![](../img/icons/608.png){ .icon loading=lazy } [Lampent](../pokemon/608.md) | Lv. 41 | Lv. 34 | - 7 |
-| 610 | ![](../img/icons/610.png){ .icon loading=lazy } [Axew](../pokemon/610.md) | ![](../img/icons/611.png){ .icon loading=lazy } [Fraxure](../pokemon/611.md) | Lv. 42 | Lv. 32 | - 10 |
-| 619 | ![](../img/icons/619.png){ .icon loading=lazy } [Mienfoo](../pokemon/619.md) | ![](../img/icons/620.png){ .icon loading=lazy } [Mienshao](../pokemon/620.md) | Lv. 50 | Lv. 36 | - 14 |
-| 622 | ![](../img/icons/622.png){ .icon loading=lazy } [Golett](../pokemon/622.md) | ![](../img/icons/623.png){ .icon loading=lazy } [Golurk](../pokemon/623.md) | Lv. 43 | Lv. 39 | - 4 |
-| 624 | ![](../img/icons/624.png){ .icon loading=lazy } [Pawniard](../pokemon/624.md) | ![](../img/icons/625.png){ .icon loading=lazy } [Bisharp](../pokemon/625.md) | Lv. 52 | Lv. 37 | - 15 |
-| 627 | ![](../img/icons/627.png){ .icon loading=lazy } [Rufflet](../pokemon/627.md) | ![](../img/icons/628.png){ .icon loading=lazy } [Braviary](../pokemon/628.md) | Lv. 54 | Lv. 39 | - 15 |
-| 629 | ![](../img/icons/629.png){ .icon loading=lazy } [Vullaby](../pokemon/629.md) | ![](../img/icons/630.png){ .icon loading=lazy } [Mandibuzz](../pokemon/630.md) | Lv. 54 | Lv. 39 | - 15 |
-| 633 | ![](../img/icons/633.png){ .icon loading=lazy } [Deino](../pokemon/633.md) | ![](../img/icons/634.png){ .icon loading=lazy } [Zweilous](../pokemon/634.md) | Lv. 50 | Lv. 39 | - 11 |
-| 634 | ![](../img/icons/634.png){ .icon loading=lazy } [Zweilous](../pokemon/634.md) | ![](../img/icons/635.png){ .icon loading=lazy } [Hydreigon](../pokemon/635.md) | Lv. 64 | Lv. 59 | - 5 |
-| 636 | ![](../img/icons/636.png){ .icon loading=lazy } [Larvesta](../pokemon/636.md) | ![](../img/icons/637.png){ .icon loading=lazy } [Volcarona](../pokemon/637.md) | Lv. 59 | Lv. 50 | - 9 |
-| 667 | ![](../img/icons/667.png){ .icon loading=lazy } [Litleo](../pokemon/667.md) | ![](../img/icons/668.png){ .icon loading=lazy } [Pyroar](../pokemon/668.md) | Lv. 35 | Lv. 33 | - 2 |
-| 688 | ![](../img/icons/688.png){ .icon loading=lazy } [Binacle](../pokemon/688.md) | ![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md) | Lv. 39 | Lv. 34 | - 5 |
-| 690 | ![](../img/icons/690.png){ .icon loading=lazy } [Skrelp](../pokemon/690.md) | ![](../img/icons/691.png){ .icon loading=lazy } [Dragalge](../pokemon/691.md) | Lv. 48 | Lv. 35 | - 13 |
-| 692 | ![](../img/icons/692.png){ .icon loading=lazy } [Clauncher](../pokemon/692.md) | ![](../img/icons/693.png){ .icon loading=lazy } [Clawitzer](../pokemon/693.md) | Lv. 37 | Lv. 33 | - 4 |
-| 714 | ![](../img/icons/714.png){ .icon loading=lazy } [Noibat](../pokemon/714.md) | ![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md) | Lv. 48 | Lv. 44 | - 4 |
+| 077 | <span class="mon">![](../img/icons/77.png){ .icon loading=lazy } [Ponyta](../pokemon/077.md)</span> | <span class="mon">![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md)</span> | Lv. 40 | Lv. 37 | - 3 |
+| 079 | <span class="mon">![](../img/icons/79.png){ .icon loading=lazy } [Slowpoke](../pokemon/079.md)</span> | <span class="mon">![](../img/icons/80.png){ .icon loading=lazy } [Slowbro](../pokemon/080.md)</span> | Lv. 37 | Lv. 33 | - 4 |
+| 088 | <span class="mon">![](../img/icons/88.png){ .icon loading=lazy } [Grimer](../pokemon/088.md)</span> | <span class="mon">![](../img/icons/89.png){ .icon loading=lazy } [Muk](../pokemon/089.md)</span> | Lv. 38 | Lv. 35 | - 3 |
+| 110 | <span class="mon">![](../img/icons/109.png){ .icon loading=lazy } [Koffing](../pokemon/109.md)</span> | <span class="mon">![](../img/icons/110.png){ .icon loading=lazy } [Weezing](../pokemon/110.md)</span> | Lv. 35 | Lv. 33 | - 2 |
+| 111 | <span class="mon">![](../img/icons/111.png){ .icon loading=lazy } [Rhyhorn](../pokemon/111.md)</span> | <span class="mon">![](../img/icons/112.png){ .icon loading=lazy } [Rhydon](../pokemon/112.md)</span> | Lv. 42 | Lv. 39 | - 3 |
+| 138 | <span class="mon">![](../img/icons/138.png){ .icon loading=lazy } [Omanyte](../pokemon/138.md)</span> | <span class="mon">![](../img/icons/139.png){ .icon loading=lazy } [Omastar](../pokemon/139.md)</span> | Lv. 40 | Lv. 37 | - 3 |
+| 140 | <span class="mon">![](../img/icons/140.png){ .icon loading=lazy } [Kabuto](../pokemon/140.md)</span> | <span class="mon">![](../img/icons/141.png){ .icon loading=lazy } [Kabutops](../pokemon/141.md)</span> | Lv. 40 | Lv. 37 | - 3 |
+| 217 | <span class="mon">![](../img/icons/218.png){ .icon loading=lazy } [Slugma](../pokemon/218.md)</span> | <span class="mon">![](../img/icons/219.png){ .icon loading=lazy } [Magcargo](../pokemon/219.md)</span> | Lv. 38 | Lv. 33 | - 5 |
+| 307 | <span class="mon">![](../img/icons/307.png){ .icon loading=lazy } [Meditite](../pokemon/307.md)</span> | <span class="mon">![](../img/icons/308.png){ .icon loading=lazy } [Medicham](../pokemon/308.md)</span> | Lv. 37 | Lv. 35 | - 2 |
+| 320 | <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | <span class="mon">![](../img/icons/321.png){ .icon loading=lazy } [Wailord](../pokemon/321.md)</span> | Lv. 40 | Lv. 37 | - 3 |
+| 333 | <span class="mon">![](../img/icons/333.png){ .icon loading=lazy } [Swablu](../pokemon/333.md)</span> | <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md)</span> | Lv. 35 | Lv. 33 | - 2 |
+| 345 | <span class="mon">![](../img/icons/345.png){ .icon loading=lazy } [Lileep](../pokemon/345.md)</span> | <span class="mon">![](../img/icons/346.png){ .icon loading=lazy } [Cradily](../pokemon/346.md)</span> | Lv. 40 | Lv. 37 | - 3 |
+| 347 | <span class="mon">![](../img/icons/347.png){ .icon loading=lazy } [Anorith](../pokemon/347.md)</span> | <span class="mon">![](../img/icons/348.png){ .icon loading=lazy } [Armaldo](../pokemon/348.md)</span> | Lv. 40 | Lv. 37 | - 3 |
+| 353 | <span class="mon">![](../img/icons/353.png){ .icon loading=lazy } [Shuppet](../pokemon/353.md)</span> | <span class="mon">![](../img/icons/354.png){ .icon loading=lazy } [Banette](../pokemon/354.md)</span> | Lv. 37 | Lv. 34 | - 3 |
+| 355 | <span class="mon">![](../img/icons/355.png){ .icon loading=lazy } [Duskull](../pokemon/355.md)</span> | <span class="mon">![](../img/icons/356.png){ .icon loading=lazy } [Dusclops](../pokemon/356.md)</span> | Lv. 37 | Lv. 34 | - 3 |
+| 361 | <span class="mon">![](../img/icons/361.png){ .icon loading=lazy } [Snorunt](../pokemon/361.md)</span> | <span class="mon">![](../img/icons/362.png){ .icon loading=lazy } [Glalie](../pokemon/362.md)</span> | Lv. 42 | Lv. 39 | - 3 |
+| 431 | <span class="mon">![](../img/icons/431.png){ .icon loading=lazy } [Glameow](../pokemon/431.md)</span> | <span class="mon">![](../img/icons/432.png){ .icon loading=lazy } [Purugly](../pokemon/432.md)</span> | Lv. 38 | Lv. 33 | - 5 |
+| 451 | <span class="mon">![](../img/icons/451.png){ .icon loading=lazy } [Skorupi](../pokemon/451.md)</span> | <span class="mon">![](../img/icons/452.png){ .icon loading=lazy } [Drapion](../pokemon/452.md)</span> | Lv. 40 | Lv. 37 | - 3 |
+| 453 | <span class="mon">![](../img/icons/453.png){ .icon loading=lazy } [Croagunk](../pokemon/453.md)</span> | <span class="mon">![](../img/icons/454.png){ .icon loading=lazy } [Toxicroak](../pokemon/454.md)</span> | Lv. 37 | Lv. 35 | - 2 |
+| 559 | <span class="mon">![](../img/icons/559.png){ .icon loading=lazy } [Scraggy](../pokemon/559.md)</span> | <span class="mon">![](../img/icons/560.png){ .icon loading=lazy } [Scrafty](../pokemon/560.md)</span> | Lv. 39 | Lv. 34 | - 5 |
+| 568 | <span class="mon">![](../img/icons/568.png){ .icon loading=lazy } [Trubbish](../pokemon/568.md)</span> | <span class="mon">![](../img/icons/569.png){ .icon loading=lazy } [Garbodor](../pokemon/569.md)</span> | Lv. 36 | Lv. 34 | - 2 |
+| 574 | <span class="mon">![](../img/icons/574.png){ .icon loading=lazy } [Gothita](../pokemon/574.md)</span> | <span class="mon">![](../img/icons/575.png){ .icon loading=lazy } [Gothorita](../pokemon/575.md)</span> | Lv. 32 | Lv. 26 | - 6 |
+| 575 | <span class="mon">![](../img/icons/575.png){ .icon loading=lazy } [Gothorita](../pokemon/575.md)</span> | <span class="mon">![](../img/icons/576.png){ .icon loading=lazy } [Gothitelle](../pokemon/576.md)</span> | Lv. 41 | Lv. 39 | - 2 |
+| 577 | <span class="mon">![](../img/icons/577.png){ .icon loading=lazy } [Solosis](../pokemon/577.md)</span> | <span class="mon">![](../img/icons/578.png){ .icon loading=lazy } [Duosion](../pokemon/578.md)</span> | Lv. 32 | Lv. 26 | - 6 |
+| 578 | <span class="mon">![](../img/icons/578.png){ .icon loading=lazy } [Duosion](../pokemon/578.md)</span> | <span class="mon">![](../img/icons/579.png){ .icon loading=lazy } [Reuniclus](../pokemon/579.md)</span> | Lv. 41 | Lv. 39 | - 2 |
+| 582 | <span class="mon">![](../img/icons/582.png){ .icon loading=lazy } [Vanillite](../pokemon/582.md)</span> | <span class="mon">![](../img/icons/583.png){ .icon loading=lazy } [Vanillish](../pokemon/583.md)</span> | Lv. 35 | Lv. 33 | - 2 |
+| 583 | <span class="mon">![](../img/icons/583.png){ .icon loading=lazy } [Vanillish](../pokemon/583.md)</span> | <span class="mon">![](../img/icons/584.png){ .icon loading=lazy } [Vanilluxe](../pokemon/584.md)</span> | Lv. 47 | Lv. 44 | - 3 |
+| 580 | <span class="mon">![](../img/icons/580.png){ .icon loading=lazy } [Ducklett](../pokemon/580.md)</span> | <span class="mon">![](../img/icons/581.png){ .icon loading=lazy } [Swanna](../pokemon/581.md)</span> | Lv. 35 | Lv. 33 | - 2 |
+| 590 | <span class="mon">![](../img/icons/590.png){ .icon loading=lazy } [Foongus](../pokemon/590.md)</span> | <span class="mon">![](../img/icons/591.png){ .icon loading=lazy } [Amoonguss](../pokemon/591.md)</span> | Lv. 40 | Lv. 37 | - 3 |
+| 592 | <span class="mon">![](../img/icons/592.png){ .icon loading=lazy } [Frillish](../pokemon/592.md)</span> | <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md)</span> | Lv. 40 | Lv. 37 | - 3 |
+| 595 | <span class="mon">![](../img/icons/595.png){ .icon loading=lazy } [Joltik](../pokemon/595.md)</span> | <span class="mon">![](../img/icons/596.png){ .icon loading=lazy } [Galvantula](../pokemon/596.md)</span> | Lv. 36 | Lv. 33 | - 3 |
+| 597 | <span class="mon">![](../img/icons/597.png){ .icon loading=lazy } [Ferroseed](../pokemon/597.md)</span> | <span class="mon">![](../img/icons/598.png){ .icon loading=lazy } [Ferrothorn](../pokemon/598.md)</span> | Lv. 40 | Lv. 37 | - 3 |
+| 599 | <span class="mon">![](../img/icons/599.png){ .icon loading=lazy } [Klink](../pokemon/599.md)</span> | <span class="mon">![](../img/icons/600.png){ .icon loading=lazy } [Klang](../pokemon/600.md)</span> | Lv. 38 | Lv. 33 | - 5 |
+| 600 | <span class="mon">![](../img/icons/600.png){ .icon loading=lazy } [Klang](../pokemon/600.md)</span> | <span class="mon">![](../img/icons/601.png){ .icon loading=lazy } [Klinklang](../pokemon/601.md)</span> | Lv. 49 | Lv. 44 | - 5 |
+| 602 | <span class="mon">![](../img/icons/602.png){ .icon loading=lazy } [Tynamo](../pokemon/602.md)</span> | <span class="mon">![](../img/icons/603.png){ .icon loading=lazy } [Eelektrik](../pokemon/603.md)</span> | Lv. 39 | Lv. 34 | - 5 |
+| 605 | <span class="mon">![](../img/icons/605.png){ .icon loading=lazy } [Elgyem](../pokemon/605.md)</span> | <span class="mon">![](../img/icons/606.png){ .icon loading=lazy } [Beheeyem](../pokemon/606.md)</span> | Lv. 42 | Lv. 39 | - 3 |
+| 607 | <span class="mon">![](../img/icons/607.png){ .icon loading=lazy } [Litwick](../pokemon/607.md)</span> | <span class="mon">![](../img/icons/608.png){ .icon loading=lazy } [Lampent](../pokemon/608.md)</span> | Lv. 41 | Lv. 34 | - 7 |
+| 610 | <span class="mon">![](../img/icons/610.png){ .icon loading=lazy } [Axew](../pokemon/610.md)</span> | <span class="mon">![](../img/icons/611.png){ .icon loading=lazy } [Fraxure](../pokemon/611.md)</span> | Lv. 42 | Lv. 32 | - 10 |
+| 619 | <span class="mon">![](../img/icons/619.png){ .icon loading=lazy } [Mienfoo](../pokemon/619.md)</span> | <span class="mon">![](../img/icons/620.png){ .icon loading=lazy } [Mienshao](../pokemon/620.md)</span> | Lv. 50 | Lv. 36 | - 14 |
+| 622 | <span class="mon">![](../img/icons/622.png){ .icon loading=lazy } [Golett](../pokemon/622.md)</span> | <span class="mon">![](../img/icons/623.png){ .icon loading=lazy } [Golurk](../pokemon/623.md)</span> | Lv. 43 | Lv. 39 | - 4 |
+| 624 | <span class="mon">![](../img/icons/624.png){ .icon loading=lazy } [Pawniard](../pokemon/624.md)</span> | <span class="mon">![](../img/icons/625.png){ .icon loading=lazy } [Bisharp](../pokemon/625.md)</span> | Lv. 52 | Lv. 37 | - 15 |
+| 627 | <span class="mon">![](../img/icons/627.png){ .icon loading=lazy } [Rufflet](../pokemon/627.md)</span> | <span class="mon">![](../img/icons/628.png){ .icon loading=lazy } [Braviary](../pokemon/628.md)</span> | Lv. 54 | Lv. 39 | - 15 |
+| 629 | <span class="mon">![](../img/icons/629.png){ .icon loading=lazy } [Vullaby](../pokemon/629.md)</span> | <span class="mon">![](../img/icons/630.png){ .icon loading=lazy } [Mandibuzz](../pokemon/630.md)</span> | Lv. 54 | Lv. 39 | - 15 |
+| 633 | <span class="mon">![](../img/icons/633.png){ .icon loading=lazy } [Deino](../pokemon/633.md)</span> | <span class="mon">![](../img/icons/634.png){ .icon loading=lazy } [Zweilous](../pokemon/634.md)</span> | Lv. 50 | Lv. 39 | - 11 |
+| 634 | <span class="mon">![](../img/icons/634.png){ .icon loading=lazy } [Zweilous](../pokemon/634.md)</span> | <span class="mon">![](../img/icons/635.png){ .icon loading=lazy } [Hydreigon](../pokemon/635.md)</span> | Lv. 64 | Lv. 59 | - 5 |
+| 636 | <span class="mon">![](../img/icons/636.png){ .icon loading=lazy } [Larvesta](../pokemon/636.md)</span> | <span class="mon">![](../img/icons/637.png){ .icon loading=lazy } [Volcarona](../pokemon/637.md)</span> | Lv. 59 | Lv. 50 | - 9 |
+| 667 | <span class="mon">![](../img/icons/667.png){ .icon loading=lazy } [Litleo](../pokemon/667.md)</span> | <span class="mon">![](../img/icons/668.png){ .icon loading=lazy } [Pyroar](../pokemon/668.md)</span> | Lv. 35 | Lv. 33 | - 2 |
+| 688 | <span class="mon">![](../img/icons/688.png){ .icon loading=lazy } [Binacle](../pokemon/688.md)</span> | <span class="mon">![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md)</span> | Lv. 39 | Lv. 34 | - 5 |
+| 690 | <span class="mon">![](../img/icons/690.png){ .icon loading=lazy } [Skrelp](../pokemon/690.md)</span> | <span class="mon">![](../img/icons/691.png){ .icon loading=lazy } [Dragalge](../pokemon/691.md)</span> | Lv. 48 | Lv. 35 | - 13 |
+| 692 | <span class="mon">![](../img/icons/692.png){ .icon loading=lazy } [Clauncher](../pokemon/692.md)</span> | <span class="mon">![](../img/icons/693.png){ .icon loading=lazy } [Clawitzer](../pokemon/693.md)</span> | Lv. 37 | Lv. 33 | - 4 |
+| 714 | <span class="mon">![](../img/icons/714.png){ .icon loading=lazy } [Noibat](../pokemon/714.md)</span> | <span class="mon">![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md)</span> | Lv. 48 | Lv. 44 | - 4 |
 
 ## As listed on each Pokémon's entry
 
 | # | Pokémon | Evolution in RR/SS |
 | --- | --- | --- |
-| 061 | ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) | Use a King's Rock |
-| 064 | ![](../img/icons/64.png){ .icon loading=lazy } [Kadabra](../pokemon/064.md) | Happiness or Level 36 |
-| 067 | ![](../img/icons/67.png){ .icon loading=lazy } [Machoke](../pokemon/067.md) | Happiness or Level 39 |
-| 075 | ![](../img/icons/75.png){ .icon loading=lazy } [Graveler](../pokemon/075.md) | Happiness or Level 36 |
-| 077 | ![](../img/icons/77.png){ .icon loading=lazy } [Ponyta](../pokemon/077.md) | evolution level 40 → 37 |
-| 079 | ![](../img/icons/79.png){ .icon loading=lazy } [Slowpoke](../pokemon/079.md) | Use a King's Rock; evolution level 37 → 33 |
-| 088 | ![](../img/icons/88.png){ .icon loading=lazy } [Grimer](../pokemon/088.md) | evolution level 38 → 35 |
-| 093 | ![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md) | Happiness or Level 36 |
-| 095 | ![](../img/icons/95.png){ .icon loading=lazy } [Onix](../pokemon/095.md) | Use a Metal Coat |
-| 109 | ![](../img/icons/109.png){ .icon loading=lazy } [Koffing](../pokemon/109.md) | evolution level 35 → 33 |
-| 111 | ![](../img/icons/111.png){ .icon loading=lazy } [Rhyhorn](../pokemon/111.md) | evolution level 42 → 39 |
-| 112 | ![](../img/icons/112.png){ .icon loading=lazy } [Rhydon](../pokemon/112.md) | Use a Protector |
-| 117 | ![](../img/icons/117.png){ .icon loading=lazy } [Seadra](../pokemon/117.md) | Use a Dragon Scale |
-| 123 | ![](../img/icons/123.png){ .icon loading=lazy } [Scyther](../pokemon/123.md) | Use a Metal Coat |
-| 125 | ![](../img/icons/125.png){ .icon loading=lazy } [Electabuzz](../pokemon/125.md) | Use an Electirizer |
-| 126 | ![](../img/icons/126.png){ .icon loading=lazy } [Magmar](../pokemon/126.md) | Use a Magmarizer |
-| 137 | ![](../img/icons/137.png){ .icon loading=lazy } [Porygon](../pokemon/137.md) | Use an Up-Grade |
-| 138 | ![](../img/icons/138.png){ .icon loading=lazy } [Omanyte](../pokemon/138.md) | evolution level 40 → 37 |
-| 140 | ![](../img/icons/140.png){ .icon loading=lazy } [Kabuto](../pokemon/140.md) | evolution level 40 → 37 |
-| 159 | ![](../img/icons/159.png){ .icon loading=lazy } [Croconaw](../pokemon/159.md) | Evolve Totodile (Lv. 18) |
-| 218 | ![](../img/icons/218.png){ .icon loading=lazy } [Slugma](../pokemon/218.md) | evolution level 38 → 33 |
-| 307 | ![](../img/icons/307.png){ .icon loading=lazy } [Meditite](../pokemon/307.md) | evolution level 37 → 35 |
-| 320 | ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | evolution level 40 → 37 |
-| 333 | ![](../img/icons/333.png){ .icon loading=lazy } [Swablu](../pokemon/333.md) | evolution level 35 → 33 |
-| 345 | ![](../img/icons/345.png){ .icon loading=lazy } [Lileep](../pokemon/345.md) | evolution level 40 → 37 |
-| 347 | ![](../img/icons/347.png){ .icon loading=lazy } [Anorith](../pokemon/347.md) | evolution level 40 → 37 |
-| 349 | ![](../img/icons/349.png){ .icon loading=lazy } [Feebas](../pokemon/349.md) | Use a Prism Scale |
-| 353 | ![](../img/icons/353.png){ .icon loading=lazy } [Shuppet](../pokemon/353.md) | evolution level 37 → 34 |
-| 355 | ![](../img/icons/355.png){ .icon loading=lazy } [Duskull](../pokemon/355.md) | evolution level 37 → 34 |
-| 356 | ![](../img/icons/356.png){ .icon loading=lazy } [Dusclops](../pokemon/356.md) | Use a Reaper Cloth |
-| 361 | ![](../img/icons/361.png){ .icon loading=lazy } [Snorunt](../pokemon/361.md) | evolution level 42 → 39 |
-| 431 | ![](../img/icons/431.png){ .icon loading=lazy } [Glameow](../pokemon/431.md) | evolution level 38 → 33 |
-| 451 | ![](../img/icons/451.png){ .icon loading=lazy } [Skorupi](../pokemon/451.md) | evolution level 40 → 37 |
-| 453 | ![](../img/icons/453.png){ .icon loading=lazy } [Croagunk](../pokemon/453.md) | evolution level 37 → 35 |
-| 525 | ![](../img/icons/525.png){ .icon loading=lazy } [Boldore](../pokemon/525.md) | Happiness or Level 36 |
-| 559 | ![](../img/icons/559.png){ .icon loading=lazy } [Scraggy](../pokemon/559.md) | evolution level 39 → 34 |
-| 568 | ![](../img/icons/568.png){ .icon loading=lazy } [Trubbish](../pokemon/568.md) | evolution level 36 → 34 |
-| 574 | ![](../img/icons/574.png){ .icon loading=lazy } [Gothita](../pokemon/574.md) | evolution level 32 → 26 |
-| 575 | ![](../img/icons/575.png){ .icon loading=lazy } [Gothorita](../pokemon/575.md) | evolution level 41 → 39 |
-| 577 | ![](../img/icons/577.png){ .icon loading=lazy } [Solosis](../pokemon/577.md) | evolution level 32 → 26 |
-| 578 | ![](../img/icons/578.png){ .icon loading=lazy } [Duosion](../pokemon/578.md) | evolution level 41 → 39 |
-| 580 | ![](../img/icons/580.png){ .icon loading=lazy } [Ducklett](../pokemon/580.md) | evolution level 35 → 33 |
-| 582 | ![](../img/icons/582.png){ .icon loading=lazy } [Vanillite](../pokemon/582.md) | evolution level 35 → 33 |
-| 583 | ![](../img/icons/583.png){ .icon loading=lazy } [Vanillish](../pokemon/583.md) | evolution level 47 → 44 |
-| 588 | ![](../img/icons/588.png){ .icon loading=lazy } [Karrablast](../pokemon/588.md) | Level with Shelmet in Party |
-| 590 | ![](../img/icons/590.png){ .icon loading=lazy } [Foongus](../pokemon/590.md) | evolution level 40 → 37 |
-| 592 | ![](../img/icons/592.png){ .icon loading=lazy } [Frillish](../pokemon/592.md) | evolution level 40 → 37 |
-| 595 | ![](../img/icons/595.png){ .icon loading=lazy } [Joltik](../pokemon/595.md) | evolution level 36 → 33 |
-| 597 | ![](../img/icons/597.png){ .icon loading=lazy } [Ferroseed](../pokemon/597.md) | evolution level 40 → 37 |
-| 599 | ![](../img/icons/599.png){ .icon loading=lazy } [Klink](../pokemon/599.md) | evolution level 38 → 33 |
-| 600 | ![](../img/icons/600.png){ .icon loading=lazy } [Klang](../pokemon/600.md) | evolution level 49 → 44 |
-| 602 | ![](../img/icons/602.png){ .icon loading=lazy } [Tynamo](../pokemon/602.md) | evolution level 39 → 34 |
-| 605 | ![](../img/icons/605.png){ .icon loading=lazy } [Elgyem](../pokemon/605.md) | evolution level 42 → 39 |
-| 607 | ![](../img/icons/607.png){ .icon loading=lazy } [Litwick](../pokemon/607.md) | evolution level 41 → 34 |
-| 610 | ![](../img/icons/610.png){ .icon loading=lazy } [Axew](../pokemon/610.md) | evolution level 42 → 32 |
-| 619 | ![](../img/icons/619.png){ .icon loading=lazy } [Mienfoo](../pokemon/619.md) | evolution level 50 → 36 |
-| 622 | ![](../img/icons/622.png){ .icon loading=lazy } [Golett](../pokemon/622.md) | evolution level 43 → 39 |
-| 624 | ![](../img/icons/624.png){ .icon loading=lazy } [Pawniard](../pokemon/624.md) | evolution level 52 → 37 |
-| 627 | ![](../img/icons/627.png){ .icon loading=lazy } [Rufflet](../pokemon/627.md) | evolution level 54 → 39 |
-| 629 | ![](../img/icons/629.png){ .icon loading=lazy } [Vullaby](../pokemon/629.md) | evolution level 54 → 39 |
-| 633 | ![](../img/icons/633.png){ .icon loading=lazy } [Deino](../pokemon/633.md) | evolution level 50 → 39 |
-| 634 | ![](../img/icons/634.png){ .icon loading=lazy } [Zweilous](../pokemon/634.md) | evolution level 64 → 59 |
-| 636 | ![](../img/icons/636.png){ .icon loading=lazy } [Larvesta](../pokemon/636.md) | evolution level 59 → 50 |
-| 667 | ![](../img/icons/667.png){ .icon loading=lazy } [Litleo](../pokemon/667.md) | evolution level 35 → 33 |
-| 688 | ![](../img/icons/688.png){ .icon loading=lazy } [Binacle](../pokemon/688.md) | evolution level 39 → 34 |
-| 690 | ![](../img/icons/690.png){ .icon loading=lazy } [Skrelp](../pokemon/690.md) | evolution level 48 → 35 |
-| 692 | ![](../img/icons/692.png){ .icon loading=lazy } [Clauncher](../pokemon/692.md) | evolution level 37 → 33 |
-| 708 | ![](../img/icons/708.png){ .icon loading=lazy } [Phantump](../pokemon/708.md) | Happiness or Level 23 |
-| 710 | ![](../img/icons/710.png){ .icon loading=lazy } [Pumpkaboo](../pokemon/710.md) | Happiness or Level 23 |
-| 714 | ![](../img/icons/714.png){ .icon loading=lazy } [Noibat](../pokemon/714.md) | evolution level 48 → 44 |
+| 061 | <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md)</span> | Use a King's Rock |
+| 064 | <span class="mon">![](../img/icons/64.png){ .icon loading=lazy } [Kadabra](../pokemon/064.md)</span> | Happiness or Level 36 |
+| 067 | <span class="mon">![](../img/icons/67.png){ .icon loading=lazy } [Machoke](../pokemon/067.md)</span> | Happiness or Level 39 |
+| 075 | <span class="mon">![](../img/icons/75.png){ .icon loading=lazy } [Graveler](../pokemon/075.md)</span> | Happiness or Level 36 |
+| 077 | <span class="mon">![](../img/icons/77.png){ .icon loading=lazy } [Ponyta](../pokemon/077.md)</span> | evolution level 40 → 37 |
+| 079 | <span class="mon">![](../img/icons/79.png){ .icon loading=lazy } [Slowpoke](../pokemon/079.md)</span> | Use a King's Rock; evolution level 37 → 33 |
+| 088 | <span class="mon">![](../img/icons/88.png){ .icon loading=lazy } [Grimer](../pokemon/088.md)</span> | evolution level 38 → 35 |
+| 093 | <span class="mon">![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md)</span> | Happiness or Level 36 |
+| 095 | <span class="mon">![](../img/icons/95.png){ .icon loading=lazy } [Onix](../pokemon/095.md)</span> | Use a Metal Coat |
+| 109 | <span class="mon">![](../img/icons/109.png){ .icon loading=lazy } [Koffing](../pokemon/109.md)</span> | evolution level 35 → 33 |
+| 111 | <span class="mon">![](../img/icons/111.png){ .icon loading=lazy } [Rhyhorn](../pokemon/111.md)</span> | evolution level 42 → 39 |
+| 112 | <span class="mon">![](../img/icons/112.png){ .icon loading=lazy } [Rhydon](../pokemon/112.md)</span> | Use a Protector |
+| 117 | <span class="mon">![](../img/icons/117.png){ .icon loading=lazy } [Seadra](../pokemon/117.md)</span> | Use a Dragon Scale |
+| 123 | <span class="mon">![](../img/icons/123.png){ .icon loading=lazy } [Scyther](../pokemon/123.md)</span> | Use a Metal Coat |
+| 125 | <span class="mon">![](../img/icons/125.png){ .icon loading=lazy } [Electabuzz](../pokemon/125.md)</span> | Use an Electirizer |
+| 126 | <span class="mon">![](../img/icons/126.png){ .icon loading=lazy } [Magmar](../pokemon/126.md)</span> | Use a Magmarizer |
+| 137 | <span class="mon">![](../img/icons/137.png){ .icon loading=lazy } [Porygon](../pokemon/137.md)</span> | Use an Up-Grade |
+| 138 | <span class="mon">![](../img/icons/138.png){ .icon loading=lazy } [Omanyte](../pokemon/138.md)</span> | evolution level 40 → 37 |
+| 140 | <span class="mon">![](../img/icons/140.png){ .icon loading=lazy } [Kabuto](../pokemon/140.md)</span> | evolution level 40 → 37 |
+| 159 | <span class="mon">![](../img/icons/159.png){ .icon loading=lazy } [Croconaw](../pokemon/159.md)</span> | Evolve Totodile (Lv. 18) |
+| 218 | <span class="mon">![](../img/icons/218.png){ .icon loading=lazy } [Slugma](../pokemon/218.md)</span> | evolution level 38 → 33 |
+| 307 | <span class="mon">![](../img/icons/307.png){ .icon loading=lazy } [Meditite](../pokemon/307.md)</span> | evolution level 37 → 35 |
+| 320 | <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | evolution level 40 → 37 |
+| 333 | <span class="mon">![](../img/icons/333.png){ .icon loading=lazy } [Swablu](../pokemon/333.md)</span> | evolution level 35 → 33 |
+| 345 | <span class="mon">![](../img/icons/345.png){ .icon loading=lazy } [Lileep](../pokemon/345.md)</span> | evolution level 40 → 37 |
+| 347 | <span class="mon">![](../img/icons/347.png){ .icon loading=lazy } [Anorith](../pokemon/347.md)</span> | evolution level 40 → 37 |
+| 349 | <span class="mon">![](../img/icons/349.png){ .icon loading=lazy } [Feebas](../pokemon/349.md)</span> | Use a Prism Scale |
+| 353 | <span class="mon">![](../img/icons/353.png){ .icon loading=lazy } [Shuppet](../pokemon/353.md)</span> | evolution level 37 → 34 |
+| 355 | <span class="mon">![](../img/icons/355.png){ .icon loading=lazy } [Duskull](../pokemon/355.md)</span> | evolution level 37 → 34 |
+| 356 | <span class="mon">![](../img/icons/356.png){ .icon loading=lazy } [Dusclops](../pokemon/356.md)</span> | Use a Reaper Cloth |
+| 361 | <span class="mon">![](../img/icons/361.png){ .icon loading=lazy } [Snorunt](../pokemon/361.md)</span> | evolution level 42 → 39 |
+| 431 | <span class="mon">![](../img/icons/431.png){ .icon loading=lazy } [Glameow](../pokemon/431.md)</span> | evolution level 38 → 33 |
+| 451 | <span class="mon">![](../img/icons/451.png){ .icon loading=lazy } [Skorupi](../pokemon/451.md)</span> | evolution level 40 → 37 |
+| 453 | <span class="mon">![](../img/icons/453.png){ .icon loading=lazy } [Croagunk](../pokemon/453.md)</span> | evolution level 37 → 35 |
+| 525 | <span class="mon">![](../img/icons/525.png){ .icon loading=lazy } [Boldore](../pokemon/525.md)</span> | Happiness or Level 36 |
+| 559 | <span class="mon">![](../img/icons/559.png){ .icon loading=lazy } [Scraggy](../pokemon/559.md)</span> | evolution level 39 → 34 |
+| 568 | <span class="mon">![](../img/icons/568.png){ .icon loading=lazy } [Trubbish](../pokemon/568.md)</span> | evolution level 36 → 34 |
+| 574 | <span class="mon">![](../img/icons/574.png){ .icon loading=lazy } [Gothita](../pokemon/574.md)</span> | evolution level 32 → 26 |
+| 575 | <span class="mon">![](../img/icons/575.png){ .icon loading=lazy } [Gothorita](../pokemon/575.md)</span> | evolution level 41 → 39 |
+| 577 | <span class="mon">![](../img/icons/577.png){ .icon loading=lazy } [Solosis](../pokemon/577.md)</span> | evolution level 32 → 26 |
+| 578 | <span class="mon">![](../img/icons/578.png){ .icon loading=lazy } [Duosion](../pokemon/578.md)</span> | evolution level 41 → 39 |
+| 580 | <span class="mon">![](../img/icons/580.png){ .icon loading=lazy } [Ducklett](../pokemon/580.md)</span> | evolution level 35 → 33 |
+| 582 | <span class="mon">![](../img/icons/582.png){ .icon loading=lazy } [Vanillite](../pokemon/582.md)</span> | evolution level 35 → 33 |
+| 583 | <span class="mon">![](../img/icons/583.png){ .icon loading=lazy } [Vanillish](../pokemon/583.md)</span> | evolution level 47 → 44 |
+| 588 | <span class="mon">![](../img/icons/588.png){ .icon loading=lazy } [Karrablast](../pokemon/588.md)</span> | Level with Shelmet in Party |
+| 590 | <span class="mon">![](../img/icons/590.png){ .icon loading=lazy } [Foongus](../pokemon/590.md)</span> | evolution level 40 → 37 |
+| 592 | <span class="mon">![](../img/icons/592.png){ .icon loading=lazy } [Frillish](../pokemon/592.md)</span> | evolution level 40 → 37 |
+| 595 | <span class="mon">![](../img/icons/595.png){ .icon loading=lazy } [Joltik](../pokemon/595.md)</span> | evolution level 36 → 33 |
+| 597 | <span class="mon">![](../img/icons/597.png){ .icon loading=lazy } [Ferroseed](../pokemon/597.md)</span> | evolution level 40 → 37 |
+| 599 | <span class="mon">![](../img/icons/599.png){ .icon loading=lazy } [Klink](../pokemon/599.md)</span> | evolution level 38 → 33 |
+| 600 | <span class="mon">![](../img/icons/600.png){ .icon loading=lazy } [Klang](../pokemon/600.md)</span> | evolution level 49 → 44 |
+| 602 | <span class="mon">![](../img/icons/602.png){ .icon loading=lazy } [Tynamo](../pokemon/602.md)</span> | evolution level 39 → 34 |
+| 605 | <span class="mon">![](../img/icons/605.png){ .icon loading=lazy } [Elgyem](../pokemon/605.md)</span> | evolution level 42 → 39 |
+| 607 | <span class="mon">![](../img/icons/607.png){ .icon loading=lazy } [Litwick](../pokemon/607.md)</span> | evolution level 41 → 34 |
+| 610 | <span class="mon">![](../img/icons/610.png){ .icon loading=lazy } [Axew](../pokemon/610.md)</span> | evolution level 42 → 32 |
+| 619 | <span class="mon">![](../img/icons/619.png){ .icon loading=lazy } [Mienfoo](../pokemon/619.md)</span> | evolution level 50 → 36 |
+| 622 | <span class="mon">![](../img/icons/622.png){ .icon loading=lazy } [Golett](../pokemon/622.md)</span> | evolution level 43 → 39 |
+| 624 | <span class="mon">![](../img/icons/624.png){ .icon loading=lazy } [Pawniard](../pokemon/624.md)</span> | evolution level 52 → 37 |
+| 627 | <span class="mon">![](../img/icons/627.png){ .icon loading=lazy } [Rufflet](../pokemon/627.md)</span> | evolution level 54 → 39 |
+| 629 | <span class="mon">![](../img/icons/629.png){ .icon loading=lazy } [Vullaby](../pokemon/629.md)</span> | evolution level 54 → 39 |
+| 633 | <span class="mon">![](../img/icons/633.png){ .icon loading=lazy } [Deino](../pokemon/633.md)</span> | evolution level 50 → 39 |
+| 634 | <span class="mon">![](../img/icons/634.png){ .icon loading=lazy } [Zweilous](../pokemon/634.md)</span> | evolution level 64 → 59 |
+| 636 | <span class="mon">![](../img/icons/636.png){ .icon loading=lazy } [Larvesta](../pokemon/636.md)</span> | evolution level 59 → 50 |
+| 667 | <span class="mon">![](../img/icons/667.png){ .icon loading=lazy } [Litleo](../pokemon/667.md)</span> | evolution level 35 → 33 |
+| 688 | <span class="mon">![](../img/icons/688.png){ .icon loading=lazy } [Binacle](../pokemon/688.md)</span> | evolution level 39 → 34 |
+| 690 | <span class="mon">![](../img/icons/690.png){ .icon loading=lazy } [Skrelp](../pokemon/690.md)</span> | evolution level 48 → 35 |
+| 692 | <span class="mon">![](../img/icons/692.png){ .icon loading=lazy } [Clauncher](../pokemon/692.md)</span> | evolution level 37 → 33 |
+| 708 | <span class="mon">![](../img/icons/708.png){ .icon loading=lazy } [Phantump](../pokemon/708.md)</span> | Happiness or Level 23 |
+| 710 | <span class="mon">![](../img/icons/710.png){ .icon loading=lazy } [Pumpkaboo](../pokemon/710.md)</span> | Happiness or Level 23 |
+| 714 | <span class="mon">![](../img/icons/714.png){ .icon loading=lazy } [Noibat](../pokemon/714.md)</span> | evolution level 48 → 44 |

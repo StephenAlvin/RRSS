@@ -6,25 +6,25 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/318.png){ .icon loading=lazy } [Carvanha](../pokemon/318.md) | <span class="type type-water">Water</span> <span class="type type-dark">Dark</span> | — |
+| <span class="mon">![](../img/icons/318.png){ .icon loading=lazy } [Carvanha](../pokemon/318.md)</span> | <span class="type type-water">Water</span> <span class="type type-dark">Dark</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/318.png){ .icon loading=lazy } [Carvanha](../pokemon/318.md) | <span class="type type-water">Water</span> <span class="type type-dark">Dark</span> | — |
+| <span class="mon">![](../img/icons/318.png){ .icon loading=lazy } [Carvanha](../pokemon/318.md)</span> | <span class="type type-water">Water</span> <span class="type type-dark">Dark</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/319.png){ .icon loading=lazy } [Sharpedo](../pokemon/319.md) | <span class="type type-water">Water</span> <span class="type type-dark">Dark</span> | — |
+| <span class="mon">![](../img/icons/319.png){ .icon loading=lazy } [Sharpedo](../pokemon/319.md)</span> | <span class="type type-water">Water</span> <span class="type type-dark">Dark</span> | — |
 
 
 ---

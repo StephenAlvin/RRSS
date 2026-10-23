@@ -10,26 +10,26 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 902 | **Team Magma Grunt** | ![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) Lv. 30, ![](../img/icons/322.png){ .icon loading=lazy } [Numel](../pokemon/322.md) Lv. 30, ![](../img/icons/95.png){ .icon loading=lazy } [Onix](../pokemon/095.md) Lv. 30 |
-| 691 | **Magma Admin Tabitha** | ![](../img/icons/262.png){ .icon loading=lazy } [Mightyena](../pokemon/262.md) Lv. 33, ![](../img/icons/110.png){ .icon loading=lazy } [Weezing](../pokemon/110.md) Lv. 33, ![](../img/icons/555.png){ .icon loading=lazy } [Darmanitan](../pokemon/555.md) Lv. 35 |
-| 903 | **Team Aqua Grunt** | ![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) Lv. 30, ![](../img/icons/318.png){ .icon loading=lazy } [Carvanha](../pokemon/318.md) Lv. 30, ![](../img/icons/114.png){ .icon loading=lazy } [Tangela](../pokemon/114.md) Lv. 30 |
-| 688 | **Aqua Admin Shelly** | ![](../img/icons/510.png){ .icon loading=lazy } [Liepard](../pokemon/510.md) Lv. 33, ![](../img/icons/89.png){ .icon loading=lazy } [Muk](../pokemon/089.md) Lv. 33, ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 35 |
+| 902 | **Team Magma Grunt** | <span class="mon">![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) Lv. 30</span>, <span class="mon">![](../img/icons/322.png){ .icon loading=lazy } [Numel](../pokemon/322.md) Lv. 30</span>, <span class="mon">![](../img/icons/95.png){ .icon loading=lazy } [Onix](../pokemon/095.md) Lv. 30</span> |
+| 691 | **Magma Admin Tabitha** | <span class="mon">![](../img/icons/262.png){ .icon loading=lazy } [Mightyena](../pokemon/262.md) Lv. 33</span>, <span class="mon">![](../img/icons/110.png){ .icon loading=lazy } [Weezing](../pokemon/110.md) Lv. 33</span>, <span class="mon">![](../img/icons/555.png){ .icon loading=lazy } [Darmanitan](../pokemon/555.md) Lv. 35</span> |
+| 903 | **Team Aqua Grunt** | <span class="mon">![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) Lv. 30</span>, <span class="mon">![](../img/icons/318.png){ .icon loading=lazy } [Carvanha](../pokemon/318.md) Lv. 30</span>, <span class="mon">![](../img/icons/114.png){ .icon loading=lazy } [Tangela](../pokemon/114.md) Lv. 30</span> |
+| 688 | **Aqua Admin Shelly** | <span class="mon">![](../img/icons/510.png){ .icon loading=lazy } [Liepard](../pokemon/510.md) Lv. 33</span>, <span class="mon">![](../img/icons/89.png){ .icon loading=lazy } [Muk](../pokemon/089.md) Lv. 33</span>, <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 35</span> |
 
 ## Special Battle - Tabitha
 
 | Pokémon | Lv. | Item | Ability | Moves |
 | --- | --- | --- | --- | --- |
-| ![](../img/icons/262.png){ .icon loading=lazy } [Mightyena](../pokemon/262.md) | 33 | ![](../img/items/muscle-band.png){ .item loading=lazy } Muscle Band | <abbr title="Lowers opponents' Attack one stage upon entering battle.">Intimidate</abbr> | Crunch, Ice Fang, Thunder Fang, Swagger |
-| ![](../img/icons/110.png){ .icon loading=lazy } [Weezing](../pokemon/110.md) | 33 | ![](../img/items/wise-glasses.png){ .item loading=lazy } Wise Glasses | <abbr title="Evades Ground moves.">Levitate</abbr> | Sludge Bomb, Flamethrower, Thunderbolt, Shadow Ball |
-| ![](../img/icons/555.png){ .icon loading=lazy } [Darmanitan](../pokemon/555.md) | 35 | ![](../img/items/life-orb.png){ .item loading=lazy } Life Orb | <abbr title="Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.">Sheer Force</abbr> | Flare Blitz, Rock Slide, Zen Headbutt, Swagger |
+| <span class="mon">![](../img/icons/262.png){ .icon loading=lazy } [Mightyena](../pokemon/262.md)</span> | 33 | ![](../img/items/muscle-band.png){ .item loading=lazy } Muscle Band | <abbr title="Lowers opponents' Attack one stage upon entering battle.">Intimidate</abbr> | Crunch, Ice Fang, Thunder Fang, Swagger |
+| <span class="mon">![](../img/icons/110.png){ .icon loading=lazy } [Weezing](../pokemon/110.md)</span> | 33 | ![](../img/items/wise-glasses.png){ .item loading=lazy } Wise Glasses | <abbr title="Evades Ground moves.">Levitate</abbr> | Sludge Bomb, Flamethrower, Thunderbolt, Shadow Ball |
+| <span class="mon">![](../img/icons/555.png){ .icon loading=lazy } [Darmanitan](../pokemon/555.md)</span> | 35 | ![](../img/items/life-orb.png){ .item loading=lazy } Life Orb | <abbr title="Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.">Sheer Force</abbr> | Flare Blitz, Rock Slide, Zen Headbutt, Swagger |
 
 ## Special Battle - Shelly
 
 | Pokémon | Lv. | Item | Ability | Moves |
 | --- | --- | --- | --- | --- |
-| ![](../img/icons/510.png){ .icon loading=lazy } [Liepard](../pokemon/510.md) | 33 | ![](../img/items/muscle-band.png){ .item loading=lazy } Muscle Band | <abbr title="Raises non-damaging moves' priority by one stage.">Prankster</abbr> | Night Slash, Fake Out, Play Rough, Attract |
-| ![](../img/icons/89.png){ .icon loading=lazy } [Muk](../pokemon/089.md) | 33 | ![](../img/items/black-sludge.png){ .item loading=lazy } Black Sludge | <abbr title="Has a 30% chance of poisoning target Pokémon upon contact.">Poison Touch</abbr> | Poison Jab, Rock Slide, Payback, Protect |
-| ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) | 35 | ![](../img/items/life-orb.png){ .item loading=lazy } Life Orb | <abbr title="Has a 30% chance of Disabling any move that hits the Pokémon.">Cursed Body</abbr> | Scald, Shadow Ball, Psychic, Recover |
+| <span class="mon">![](../img/icons/510.png){ .icon loading=lazy } [Liepard](../pokemon/510.md)</span> | 33 | ![](../img/items/muscle-band.png){ .item loading=lazy } Muscle Band | <abbr title="Raises non-damaging moves' priority by one stage.">Prankster</abbr> | Night Slash, Fake Out, Play Rough, Attract |
+| <span class="mon">![](../img/icons/89.png){ .icon loading=lazy } [Muk](../pokemon/089.md)</span> | 33 | ![](../img/items/black-sludge.png){ .item loading=lazy } Black Sludge | <abbr title="Has a 30% chance of poisoning target Pokémon upon contact.">Poison Touch</abbr> | Poison Jab, Rock Slide, Payback, Protect |
+| <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md)</span> | 35 | ![](../img/items/life-orb.png){ .item loading=lazy } Life Orb | <abbr title="Has a 30% chance of Disabling any move that hits the Pokémon.">Cursed Body</abbr> | Scald, Shadow Ball, Psychic, Recover |
 
 
 ---

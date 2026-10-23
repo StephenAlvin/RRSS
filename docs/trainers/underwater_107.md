@@ -10,8 +10,8 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 739 | **Scuba Diver Keaton** | ![](../img/icons/321.png){ .icon loading=lazy } [Wailord](../pokemon/321.md) Lv. 60 |
-| 752 | **Free Diver Hollie** | ![](../img/icons/171.png){ .icon loading=lazy } [Lanturn](../pokemon/171.md) Lv. 60 |
+| 739 | **Scuba Diver Keaton** | <span class="mon">![](../img/icons/321.png){ .icon loading=lazy } [Wailord](../pokemon/321.md) Lv. 60</span> |
+| 752 | **Free Diver Hollie** | <span class="mon">![](../img/icons/171.png){ .icon loading=lazy } [Lanturn](../pokemon/171.md) Lv. 60</span> |
 
 
 ---

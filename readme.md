@@ -57,6 +57,7 @@ No Node? The same commands exist as `make setup`, `make dev`, `make build`.
 | --- | --- | --- |
 | Change the home page, FAQ or About text | `docs/index.md`, `docs/faq.md`, `docs/about.md` | Save; the dev server reloads |
 | Change colours, badges, table styling | `docs/stylesheets/extra.css` | Save; the dev server reloads |
+| Change table sorting, the filter box, or the sticky table header and scrollbar | `docs/javascripts/tablesort.js`, `docs/javascripts/table-scrollbar.js` | Save; the dev server reloads |
 | Change the site title, theme or plugins | `mkdocs.yml` | Save; the dev server restarts the build |
 | Fix a typo or value in the game data | `Documentation/*.txt` (the source of truth) | Save; pages regenerate automatically |
 | Map a documentation typo to the right name | `SPECIES_ALIASES`, `MOVE_ALIASES`, `ITEM_ALIASES`, `ABILITY_ALIASES` in `tools/common.py` | Save; pages regenerate automatically |

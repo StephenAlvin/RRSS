@@ -10,7 +10,7 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 790 | **Street Thug Jaylin** | ![](../img/icons/88.png){ .icon loading=lazy } [Grimer](../pokemon/088.md) Lv. 27, ![](../img/icons/30.png){ .icon loading=lazy } [Nidorina](../pokemon/030.md) Lv. 27, ![](../img/icons/33.png){ .icon loading=lazy } [Nidorino](../pokemon/033.md) Lv. 27 |
+| 790 | **Street Thug Jaylin** | <span class="mon">![](../img/icons/88.png){ .icon loading=lazy } [Grimer](../pokemon/088.md) Lv. 27</span>, <span class="mon">![](../img/icons/30.png){ .icon loading=lazy } [Nidorina](../pokemon/030.md) Lv. 27</span>, <span class="mon">![](../img/icons/33.png){ .icon loading=lazy } [Nidorino](../pokemon/033.md) Lv. 27</span> |
 
 
 ---

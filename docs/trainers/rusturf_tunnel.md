@@ -10,9 +10,9 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 254 | **Team Aqua Grunt** | ![](../img/icons/261.png){ .icon loading=lazy } [Poochyena](../pokemon/261.md) Lv. 14, ![](../img/icons/318.png){ .icon loading=lazy } [Carvanha](../pokemon/318.md) Lv. 14, ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) Lv. 14 |
-| 255 | **Team Magma Grunt** | ![](../img/icons/261.png){ .icon loading=lazy } [Poochyena](../pokemon/261.md) Lv. 14, ![](../img/icons/322.png){ .icon loading=lazy } [Numel](../pokemon/322.md) Lv. 14, ![](../img/icons/218.png){ .icon loading=lazy } [Slugma](../pokemon/218.md) Lv. 14 |
-| 307 | **Hiker Mike** | ![](../img/icons/557.png){ .icon loading=lazy } [Dwebble](../pokemon/557.md) Lv. 22, ![](../img/icons/529.png){ .icon loading=lazy } [Drilbur](../pokemon/529.md) Lv. 22, ![](../img/icons/246.png){ .icon loading=lazy } [Larvitar](../pokemon/246.md) Lv. 22 |
+| 254 | **Team Aqua Grunt** | <span class="mon">![](../img/icons/261.png){ .icon loading=lazy } [Poochyena](../pokemon/261.md) Lv. 14</span>, <span class="mon">![](../img/icons/318.png){ .icon loading=lazy } [Carvanha](../pokemon/318.md) Lv. 14</span>, <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) Lv. 14</span> |
+| 255 | **Team Magma Grunt** | <span class="mon">![](../img/icons/261.png){ .icon loading=lazy } [Poochyena](../pokemon/261.md) Lv. 14</span>, <span class="mon">![](../img/icons/322.png){ .icon loading=lazy } [Numel](../pokemon/322.md) Lv. 14</span>, <span class="mon">![](../img/icons/218.png){ .icon loading=lazy } [Slugma](../pokemon/218.md) Lv. 14</span> |
+| 307 | **Hiker Mike** | <span class="mon">![](../img/icons/557.png){ .icon loading=lazy } [Dwebble](../pokemon/557.md) Lv. 22</span>, <span class="mon">![](../img/icons/529.png){ .icon loading=lazy } [Drilbur](../pokemon/529.md) Lv. 22</span>, <span class="mon">![](../img/icons/246.png){ .icon loading=lazy } [Larvitar](../pokemon/246.md) Lv. 22</span> |
 
 
 ---

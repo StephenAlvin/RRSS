@@ -6,60 +6,60 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/124.png){ .icon loading=lazy } [Jynx](../pokemon/124.md) | <span class="type type-ice">Ice</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/215.png){ .icon loading=lazy } [Sneasel](../pokemon/215.md) | <span class="type type-dark">Dark</span> <span class="type type-ice">Ice</span> | 10% |
-| ![](../img/icons/221.png){ .icon loading=lazy } [Piloswine](../pokemon/221.md) | <span class="type type-ice">Ice</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/225.png){ .icon loading=lazy } [Delibird](../pokemon/225.md) | <span class="type type-ice">Ice</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/362.png){ .icon loading=lazy } [Glalie](../pokemon/362.md) | <span class="type type-ice">Ice</span> | 10% |
-| ![](../img/icons/364.png){ .icon loading=lazy } [Sealeo](../pokemon/364.md) | <span class="type type-ice">Ice</span> <span class="type type-water">Water</span> | 10% |
-| ![](../img/icons/460.png){ .icon loading=lazy } [Abomasnow](../pokemon/460.md) | <span class="type type-grass">Grass</span> <span class="type type-ice">Ice</span> | 10% |
-| ![](../img/icons/583.png){ .icon loading=lazy } [Vanillish](../pokemon/583.md) | <span class="type type-ice">Ice</span> | 10% |
-| ![](../img/icons/614.png){ .icon loading=lazy } [Beartic](../pokemon/614.md) | <span class="type type-ice">Ice</span> <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/713.png){ .icon loading=lazy } [Avalugg](../pokemon/713.md) | <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/124.png){ .icon loading=lazy } [Jynx](../pokemon/124.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/215.png){ .icon loading=lazy } [Sneasel](../pokemon/215.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/221.png){ .icon loading=lazy } [Piloswine](../pokemon/221.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/225.png){ .icon loading=lazy } [Delibird](../pokemon/225.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/362.png){ .icon loading=lazy } [Glalie](../pokemon/362.md)</span> | <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/364.png){ .icon loading=lazy } [Sealeo](../pokemon/364.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-water">Water</span> | 10% |
+| <span class="mon">![](../img/icons/460.png){ .icon loading=lazy } [Abomasnow](../pokemon/460.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/583.png){ .icon loading=lazy } [Vanillish](../pokemon/583.md)</span> | <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/614.png){ .icon loading=lazy } [Beartic](../pokemon/614.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/713.png){ .icon loading=lazy } [Avalugg](../pokemon/713.md)</span> | <span class="type type-ice">Ice</span> | 10% |
 
 ## Rock Smash — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/75.png){ .icon loading=lazy } [Graveler](../pokemon/075.md) | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | — |
-| ![](../img/icons/525.png){ .icon loading=lazy } [Boldore](../pokemon/525.md) | <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/75.png){ .icon loading=lazy } [Graveler](../pokemon/075.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/525.png){ .icon loading=lazy } [Boldore](../pokemon/525.md)</span> | <span class="type type-rock">Rock</span> | — |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/461.png){ .icon loading=lazy } [Weavile](../pokemon/461.md) | <span class="type type-dark">Dark</span> <span class="type type-ice">Ice</span> | — |
+| <span class="mon">![](../img/icons/461.png){ .icon loading=lazy } [Weavile](../pokemon/461.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-ice">Ice</span> | — |
 
 ## Horde — Lv. 32
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/712.png){ .icon loading=lazy } [Bergmite](../pokemon/712.md) | <span class="type type-ice">Ice</span> | — |
+| <span class="mon">![](../img/icons/712.png){ .icon loading=lazy } [Bergmite](../pokemon/712.md)</span> | <span class="type type-ice">Ice</span> | — |
 
 ## Surfing — Lv. 40 - 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/86.png){ .icon loading=lazy } [Seel](../pokemon/086.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/87.png){ .icon loading=lazy } [Dewgong](../pokemon/087.md) | <span class="type type-water">Water</span> <span class="type type-ice">Ice</span> | — |
+| <span class="mon">![](../img/icons/86.png){ .icon loading=lazy } [Seel](../pokemon/086.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/87.png){ .icon loading=lazy } [Dewgong](../pokemon/087.md)</span> | <span class="type type-water">Water</span> <span class="type type-ice">Ice</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/91.png){ .icon loading=lazy } [Cloyster](../pokemon/091.md) | <span class="type type-water">Water</span> <span class="type type-ice">Ice</span> | — |
+| <span class="mon">![](../img/icons/91.png){ .icon loading=lazy } [Cloyster](../pokemon/091.md)</span> | <span class="type type-water">Water</span> <span class="type type-ice">Ice</span> | — |
 
 
 ---

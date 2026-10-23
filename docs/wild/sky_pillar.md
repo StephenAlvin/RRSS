@@ -12,22 +12,22 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/20.png){ .icon loading=lazy } [Raticate](../pokemon/020.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/168.png){ .icon loading=lazy } [Ariados](../pokemon/168.md) | <span class="type type-bug">Bug</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) | <span class="type type-dragon">Dragon</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/344.png){ .icon loading=lazy } [Claydol](../pokemon/344.md) | <span class="type type-ground">Ground</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/442.png){ .icon loading=lazy } [Spiritomb](../pokemon/442.md) | <span class="type type-ghost">Ghost</span> <span class="type type-dark">Dark</span> | 10% |
-| ![](../img/icons/561.png){ .icon loading=lazy } [Sigilyph](../pokemon/561.md) | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/620.png){ .icon loading=lazy } [Mienshao](../pokemon/620.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/621.png){ .icon loading=lazy } [Druddigon](../pokemon/621.md) | <span class="type type-dragon">Dragon</span> | 10% |
-| ![](../img/icons/623.png){ .icon loading=lazy } [Golurk](../pokemon/623.md) | <span class="type type-ground">Ground</span> <span class="type type-ghost">Ghost</span> | 10% |
-| ![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md) | <span class="type type-flying">Flying</span> <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/20.png){ .icon loading=lazy } [Raticate](../pokemon/020.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/168.png){ .icon loading=lazy } [Ariados](../pokemon/168.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md)</span> | <span class="type type-dragon">Dragon</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/344.png){ .icon loading=lazy } [Claydol](../pokemon/344.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/442.png){ .icon loading=lazy } [Spiritomb](../pokemon/442.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-dark">Dark</span> | 10% |
+| <span class="mon">![](../img/icons/561.png){ .icon loading=lazy } [Sigilyph](../pokemon/561.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/620.png){ .icon loading=lazy } [Mienshao](../pokemon/620.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/621.png){ .icon loading=lazy } [Druddigon](../pokemon/621.md)</span> | <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/623.png){ .icon loading=lazy } [Golurk](../pokemon/623.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-ghost">Ghost</span> | 10% |
+| <span class="mon">![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md)</span> | <span class="type type-flying">Flying</span> <span class="type type-dragon">Dragon</span> | 10% |
 
 ## Horde — Lv. 43
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) | <span class="type type-dragon">Dragon</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md)</span> | <span class="type type-dragon">Dragon</span> <span class="type type-flying">Flying</span> | — |
 
 
 ---

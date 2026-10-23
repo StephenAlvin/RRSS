@@ -10,14 +10,14 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 153 | **Swimmer Debra** | ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) Lv. 59 |
-| 140 | **Swimmer Franklin** | ![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md) Lv. 59 |
-| 154 | **Swimmer Linda** | ![](../img/icons/119.png){ .icon loading=lazy } [Seaking](../pokemon/119.md) Lv. 59 |
-| 152 | **Swimmer Sheryl** | ![](../img/icons/199.png){ .icon loading=lazy } [Slowking](../pokemon/199.md) Lv. 59 |
-| 506 | **Bird Keeper Beck** | ![](../img/icons/85.png){ .icon loading=lazy } [Dodrio](../pokemon/085.md) Lv. 57, ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 57, ![](../img/icons/430.png){ .icon loading=lazy } [Honchkrow](../pokemon/430.md) Lv. 57 |
-| 503 | **Ace Trainer Warren** | ![](../img/icons/212.png){ .icon loading=lazy } [Scizor](../pokemon/212.md) Lv. 58, ![](../img/icons/609.png){ .icon loading=lazy } [Chandelure](../pokemon/609.md) Lv. 58, ![](../img/icons/477.png){ .icon loading=lazy } [Dusknoir](../pokemon/477.md) Lv. 58, ![](../img/icons/65.png){ .icon loading=lazy } [Alakazam](../pokemon/065.md) Lv. 58 |
-| 724 | **Backpacker Grayson** | ![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md) Lv. 59 |
-| 779 | **Fisherman River** | ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 59 |
+| 153 | **Swimmer Debra** | <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) Lv. 59</span> |
+| 140 | **Swimmer Franklin** | <span class="mon">![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md) Lv. 59</span> |
+| 154 | **Swimmer Linda** | <span class="mon">![](../img/icons/119.png){ .icon loading=lazy } [Seaking](../pokemon/119.md) Lv. 59</span> |
+| 152 | **Swimmer Sheryl** | <span class="mon">![](../img/icons/199.png){ .icon loading=lazy } [Slowking](../pokemon/199.md) Lv. 59</span> |
+| 506 | **Bird Keeper Beck** | <span class="mon">![](../img/icons/85.png){ .icon loading=lazy } [Dodrio](../pokemon/085.md) Lv. 57</span>, <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 57</span>, <span class="mon">![](../img/icons/430.png){ .icon loading=lazy } [Honchkrow](../pokemon/430.md) Lv. 57</span> |
+| 503 | **Ace Trainer Warren** | <span class="mon">![](../img/icons/212.png){ .icon loading=lazy } [Scizor](../pokemon/212.md) Lv. 58</span>, <span class="mon">![](../img/icons/609.png){ .icon loading=lazy } [Chandelure](../pokemon/609.md) Lv. 58</span>, <span class="mon">![](../img/icons/477.png){ .icon loading=lazy } [Dusknoir](../pokemon/477.md) Lv. 58</span>, <span class="mon">![](../img/icons/65.png){ .icon loading=lazy } [Alakazam](../pokemon/065.md) Lv. 58</span> |
+| 724 | **Backpacker Grayson** | <span class="mon">![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md) Lv. 59</span> |
+| 779 | **Fisherman River** | <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 59</span> |
 
 
 ---

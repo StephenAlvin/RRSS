@@ -10,9 +10,9 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 744 | **Scuba Diver Colten** | ![](../img/icons/55.png){ .icon loading=lazy } [Golduck](../pokemon/055.md) Lv. 60 |
-| 743 | **Scuba Diver Jason** | ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) Lv. 60 |
-| 756 | **Free Diver Coral** | ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 60 |
+| 744 | **Scuba Diver Colten** | <span class="mon">![](../img/icons/55.png){ .icon loading=lazy } [Golduck](../pokemon/055.md) Lv. 60</span> |
+| 743 | **Scuba Diver Jason** | <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) Lv. 60</span> |
+| 756 | **Free Diver Coral** | <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 60</span> |
 
 
 ---

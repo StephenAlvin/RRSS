@@ -10,8 +10,8 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 742 | **Scuba Diver Silas** | ![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md) Lv. 60 |
-| 755 | **Free Diver Cordura** | ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) Lv. 60 |
+| 742 | **Scuba Diver Silas** | <span class="mon">![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md) Lv. 60</span> |
+| 755 | **Free Diver Cordura** | <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) Lv. 60</span> |
 
 
 ---

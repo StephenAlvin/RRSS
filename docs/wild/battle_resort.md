@@ -12,28 +12,28 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md) | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
-| ![](../img/icons/226.png){ .icon loading=lazy } [Mantine](../pokemon/226.md) | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | <span class="rare">rare</span> |
-| ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) | <span class="type type-water">Water</span> <span class="type type-ghost">Ghost</span> | — |
+| <span class="mon">![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md)</span> | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/226.png){ .icon loading=lazy } [Mantine](../pokemon/226.md)</span> | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | <span class="rare">rare</span> |
+| <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md)</span> | <span class="type type-water">Water</span> <span class="type type-ghost">Ghost</span> | — |
 
 ## Old Rod — Lv. 1 - 100
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md) | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md)</span> | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
 
 ## Good Rod — Lv. 1 - 100
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md) | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md)</span> | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
 
 ## Super Rod — Lv. 1 - 100
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md) | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md)</span> | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
 
 
 ---

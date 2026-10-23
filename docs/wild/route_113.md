@@ -10,28 +10,28 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/27.png){ .icon loading=lazy } [Sandshrew](../pokemon/027.md) | <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/227.png){ .icon loading=lazy } [Skarmory](../pokemon/227.md) | <span class="type type-steel">Steel</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/327.png){ .icon loading=lazy } [Spinda](../pokemon/327.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/436.png){ .icon loading=lazy } [Bronzor](../pokemon/436.md) | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/446.png){ .icon loading=lazy } [Munchlax](../pokemon/446.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/622.png){ .icon loading=lazy } [Golett](../pokemon/622.md) | <span class="type type-ground">Ground</span> <span class="type type-ghost">Ghost</span> | 10% |
-| ![](../img/icons/626.png){ .icon loading=lazy } [Bouffalant](../pokemon/626.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/677.png){ .icon loading=lazy } [Espurr](../pokemon/677.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/679.png){ .icon loading=lazy } [Honedge](../pokemon/679.md) | <span class="type type-steel">Steel</span> <span class="type type-ghost">Ghost</span> | 10% |
-| ![](../img/icons/707.png){ .icon loading=lazy } [Klefki](../pokemon/707.md) | <span class="type type-steel">Steel</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/27.png){ .icon loading=lazy } [Sandshrew](../pokemon/027.md)</span> | <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/227.png){ .icon loading=lazy } [Skarmory](../pokemon/227.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/327.png){ .icon loading=lazy } [Spinda](../pokemon/327.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/436.png){ .icon loading=lazy } [Bronzor](../pokemon/436.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/446.png){ .icon loading=lazy } [Munchlax](../pokemon/446.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/622.png){ .icon loading=lazy } [Golett](../pokemon/622.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-ghost">Ghost</span> | 10% |
+| <span class="mon">![](../img/icons/626.png){ .icon loading=lazy } [Bouffalant](../pokemon/626.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/677.png){ .icon loading=lazy } [Espurr](../pokemon/677.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/679.png){ .icon loading=lazy } [Honedge](../pokemon/679.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-ghost">Ghost</span> | 10% |
+| <span class="mon">![](../img/icons/707.png){ .icon loading=lazy } [Klefki](../pokemon/707.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-fairy">Fairy</span> | 10% |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/143.png){ .icon loading=lazy } [Snorlax](../pokemon/143.md) | <span class="type type-normal">Normal</span> | — |
+| <span class="mon">![](../img/icons/143.png){ .icon loading=lazy } [Snorlax](../pokemon/143.md)</span> | <span class="type type-normal">Normal</span> | — |
 
 ## Horde — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/227.png){ .icon loading=lazy } [Skarmory](../pokemon/227.md) | <span class="type type-steel">Steel</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/227.png){ .icon loading=lazy } [Skarmory](../pokemon/227.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-flying">Flying</span> | — |
 
 
 ---

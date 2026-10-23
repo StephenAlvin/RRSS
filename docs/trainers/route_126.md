@@ -10,13 +10,13 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 718 | **Triathlete Denzel** | ![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md) Lv. 55, ![](../img/icons/319.png){ .icon loading=lazy } [Sharpedo](../pokemon/319.md) Lv. 55 |
-| 134 | **Swimmer Barry** | ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) Lv. 56 |
-| 135 | **Swimmer Dean** | ![](../img/icons/321.png){ .icon loading=lazy } [Wailord](../pokemon/321.md) Lv. 55, ![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md) Lv. 55 |
-| 817 | **Ace Trainer Harriet** | ![](../img/icons/478.png){ .icon loading=lazy } [Froslass](../pokemon/478.md) Lv. 55, ![](../img/icons/467.png){ .icon loading=lazy } [Magmortar](../pokemon/467.md) Lv. 55, ![](../img/icons/254.png){ .icon loading=lazy } [Sceptile](../pokemon/254.md) Lv. 55, ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 55 |
-| 809 | **Ace Trainer Leopold** | ![](../img/icons/9.png){ .icon loading=lazy } [Blastoise](../pokemon/009.md) Lv. 55, ![](../img/icons/623.png){ .icon loading=lazy } [Golurk](../pokemon/623.md) Lv. 55, ![](../img/icons/466.png){ .icon loading=lazy } [Electivire](../pokemon/466.md) Lv. 55, ![](../img/icons/615.png){ .icon loading=lazy } [Cryogonal](../pokemon/615.md) Lv. 55 |
-| 148 | **Swimmer Brenda** | ![](../img/icons/284.png){ .icon loading=lazy } [Masquerain](../pokemon/284.md) Lv. 55, ![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 55 |
-| 147 | **Swimmer Nikki** | ![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) Lv. 54, ![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 54, ![](../img/icons/581.png){ .icon loading=lazy } [Swanna](../pokemon/581.md) Lv. 54 |
+| 718 | **Triathlete Denzel** | <span class="mon">![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md) Lv. 55</span>, <span class="mon">![](../img/icons/319.png){ .icon loading=lazy } [Sharpedo](../pokemon/319.md) Lv. 55</span> |
+| 134 | **Swimmer Barry** | <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) Lv. 56</span> |
+| 135 | **Swimmer Dean** | <span class="mon">![](../img/icons/321.png){ .icon loading=lazy } [Wailord](../pokemon/321.md) Lv. 55</span>, <span class="mon">![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md) Lv. 55</span> |
+| 817 | **Ace Trainer Harriet** | <span class="mon">![](../img/icons/478.png){ .icon loading=lazy } [Froslass](../pokemon/478.md) Lv. 55</span>, <span class="mon">![](../img/icons/467.png){ .icon loading=lazy } [Magmortar](../pokemon/467.md) Lv. 55</span>, <span class="mon">![](../img/icons/254.png){ .icon loading=lazy } [Sceptile](../pokemon/254.md) Lv. 55</span>, <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 55</span> |
+| 809 | **Ace Trainer Leopold** | <span class="mon">![](../img/icons/9.png){ .icon loading=lazy } [Blastoise](../pokemon/009.md) Lv. 55</span>, <span class="mon">![](../img/icons/623.png){ .icon loading=lazy } [Golurk](../pokemon/623.md) Lv. 55</span>, <span class="mon">![](../img/icons/466.png){ .icon loading=lazy } [Electivire](../pokemon/466.md) Lv. 55</span>, <span class="mon">![](../img/icons/615.png){ .icon loading=lazy } [Cryogonal](../pokemon/615.md) Lv. 55</span> |
+| 148 | **Swimmer Brenda** | <span class="mon">![](../img/icons/284.png){ .icon loading=lazy } [Masquerain](../pokemon/284.md) Lv. 55</span>, <span class="mon">![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 55</span> |
+| 147 | **Swimmer Nikki** | <span class="mon">![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) Lv. 54</span>, <span class="mon">![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 54</span>, <span class="mon">![](../img/icons/581.png){ .icon loading=lazy } [Swanna](../pokemon/581.md) Lv. 54</span> |
 
 
 ---

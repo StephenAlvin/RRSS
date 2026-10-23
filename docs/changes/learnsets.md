@@ -6,72 +6,72 @@ Pokémon that can learn extra TM/HM or tutor moves in RR/SS. Level-up move chang
 
 | # | Pokémon | Source | New moves |
 | --- | --- | --- | --- |
-| 012 | ![](../img/icons/12.png){ .icon loading=lazy } [Butterfree](../pokemon/012.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 015 | ![](../img/icons/15.png){ .icon loading=lazy } [Beedrill](../pokemon/015.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 025 | ![](../img/icons/25.png){ .icon loading=lazy } [Pikachu](../pokemon/025.md) | TM/HM | HM03 Surf |
-| 026 | ![](../img/icons/26.png){ .icon loading=lazy } [Raichu](../pokemon/026.md) | TM/HM | HM03 Surf |
-| 079 | ![](../img/icons/79.png){ .icon loading=lazy } [Slowpoke](../pokemon/079.md) | TM/HM | HM05 Waterfall |
-| 080 | ![](../img/icons/80.png){ .icon loading=lazy } [Slowbro](../pokemon/080.md) | TM/HM | HM05 Waterfall |
-| 083 | ![](../img/icons/83.png){ .icon loading=lazy } [Farfetch’d](../pokemon/083.md) | TM/HM | TM31 Brick Break, TM52 Focus Blast, HM06 [Rock Smash](../changes/moves.md#rock-smash) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 092 | ![](../img/icons/92.png){ .icon loading=lazy } [Gastly](../pokemon/092.md) | TM/HM | TM34 Sludge Wave |
-| 093 | ![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md) | TM/HM | TM34 Sludge Wave |
-| 094 | ![](../img/icons/94.png){ .icon loading=lazy } [Gengar](../pokemon/094.md) | TM/HM | TM34 Sludge Wave |
-| 098 | ![](../img/icons/98.png){ .icon loading=lazy } [Krabby](../pokemon/098.md) | TM/HM | HM05 Waterfall |
-| 099 | ![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) | TM/HM | HM05 Waterfall |
-| 109 | ![](../img/icons/109.png){ .icon loading=lazy } [Koffing](../pokemon/109.md) | TM/HM | TM34 Sludge Wave |
-| 110 | ![](../img/icons/110.png){ .icon loading=lazy } [Weezing](../pokemon/110.md) | TM/HM | TM34 Sludge Wave |
-| 136 | ![](../img/icons/136.png){ .icon loading=lazy } [Flareon](../pokemon/136.md) | TM/HM | TM80 Rock Slide, TM93 Wild Charge |
-| 166 | ![](../img/icons/166.png){ .icon loading=lazy } [Ledian](../pokemon/166.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 182 | ![](../img/icons/182.png){ .icon loading=lazy } [Bellossom](../pokemon/182.md) | Tutor | Earth Power |
-| 187 | ![](../img/icons/187.png){ .icon loading=lazy } [Hoppip](../pokemon/187.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 188 | ![](../img/icons/188.png){ .icon loading=lazy } [Skiploom](../pokemon/188.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 189 | ![](../img/icons/189.png){ .icon loading=lazy } [Jumpluff](../pokemon/189.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 193 | ![](../img/icons/193.png){ .icon loading=lazy } [Yanma](../pokemon/193.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 199 | ![](../img/icons/199.png){ .icon loading=lazy } [Slowking](../pokemon/199.md) | TM/HM | HM05 Waterfall |
-| 201 | ![](../img/icons/201.png){ .icon loading=lazy } [Unown](../pokemon/201.md) | TM/HM | TM94 Secret Power, TM96 Nature Power |
-| 207 | ![](../img/icons/207.png){ .icon loading=lazy } [Gligar](../pokemon/207.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 222 | ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) | TM/HM | HM05 Waterfall, HM07 Dive |
-| 226 | ![](../img/icons/226.png){ .icon loading=lazy } [Mantine](../pokemon/226.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 267 | ![](../img/icons/267.png){ .icon loading=lazy } [Beautifly](../pokemon/267.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 269 | ![](../img/icons/269.png){ .icon loading=lazy } [Dustox](../pokemon/269.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 278 | ![](../img/icons/278.png){ .icon loading=lazy } [Wingull](../pokemon/278.md) | TM/HM | HM03 Surf, HM05 Waterfall, HM07 Dive |
-| 279 | ![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md) | TM/HM | HM05 Waterfall, HM07 Dive |
-| 284 | ![](../img/icons/284.png){ .icon loading=lazy } [Masquerain](../pokemon/284.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span>, HM03 Surf, HM05 Waterfall, HM07 Dive |
-| 291 | ![](../img/icons/291.png){ .icon loading=lazy } [Ninjask](../pokemon/291.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 313 | ![](../img/icons/313.png){ .icon loading=lazy } [Volbeat](../pokemon/313.md) | TM/HM | TM93 Wild Charge |
-| 344 | ![](../img/icons/344.png){ .icon loading=lazy } [Claydol](../pokemon/344.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 370 | ![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md) | TM/HM | TM99 Dazzling Gleam |
-| 376 | ![](../img/icons/376.png){ .icon loading=lazy } [Metagross](../pokemon/376.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 405 | ![](../img/icons/405.png){ .icon loading=lazy } [Luxray](../pokemon/405.md) | TM/HM | TM66 Payback, TM97 Dark Pulse |
-| 414 | ![](../img/icons/414.png){ .icon loading=lazy } [Mothim](../pokemon/414.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 416 | ![](../img/icons/416.png){ .icon loading=lazy } [Vespiquen](../pokemon/416.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 437 | ![](../img/icons/437.png){ .icon loading=lazy } [Bronzong](../pokemon/437.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 469 | ![](../img/icons/469.png){ .icon loading=lazy } [Yanmega](../pokemon/469.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 472 | ![](../img/icons/472.png){ .icon loading=lazy } [Gliscor](../pokemon/472.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 484 | ![](../img/icons/484.png){ .icon loading=lazy } [Palkia](../pokemon/484.md) | TM/HM | HM05 Waterfall |
-| 497 | ![](../img/icons/497.png){ .icon loading=lazy } [Serperior](../pokemon/497.md) | Tutor | Draco Meteor |
-| 503 | ![](../img/icons/503.png){ .icon loading=lazy } [Samurott](../pokemon/503.md) | TM/HM | TM52 Focus Blast |
-| 511 | ![](../img/icons/511.png){ .icon loading=lazy } [Pansage](../pokemon/511.md) | Tutor | [Grass Pledge](../changes/moves.md#grass-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 512 | ![](../img/icons/512.png){ .icon loading=lazy } [Simisage](../pokemon/512.md) | Tutor | [Grass Pledge](../changes/moves.md#grass-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span>, Frenzy Plant |
-| 513 | ![](../img/icons/513.png){ .icon loading=lazy } [Pansear](../pokemon/513.md) | Tutor | [Fire Pledge](../changes/moves.md#fire-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 514 | ![](../img/icons/514.png){ .icon loading=lazy } [Simisear](../pokemon/514.md) | Tutor | [Fire Pledge](../changes/moves.md#fire-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span>, Blast Burn |
-| 515 | ![](../img/icons/515.png){ .icon loading=lazy } [Panpour](../pokemon/515.md) | Tutor | [Water Pledge](../changes/moves.md#water-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 516 | ![](../img/icons/516.png){ .icon loading=lazy } [Simipour](../pokemon/516.md) | Tutor | [Water Pledge](../changes/moves.md#water-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span>, Hydro Cannon |
-| 519 | ![](../img/icons/519.png){ .icon loading=lazy } [Pidove](../pokemon/519.md) | TM/HM | TM62 Acrobatics |
-| 520 | ![](../img/icons/520.png){ .icon loading=lazy } [Tranquill](../pokemon/520.md) | TM/HM | TM62 Acrobatics |
-| 521 | ![](../img/icons/521.png){ .icon loading=lazy } [Unfezant](../pokemon/521.md) | TM/HM | TM62 Acrobatics |
-| 535 | ![](../img/icons/535.png){ .icon loading=lazy } [Tympole](../pokemon/535.md) | TM/HM | HM05 Waterfall, HM07 Dive |
-| 536 | ![](../img/icons/536.png){ .icon loading=lazy } [Palpitoad](../pokemon/536.md) | TM/HM | HM05 Waterfall, HM07 Dive |
-| 537 | ![](../img/icons/537.png){ .icon loading=lazy } [Seismitoad](../pokemon/537.md) | TM/HM | HM05 Waterfall, HM07 Dive |
-| 549 | ![](../img/icons/549.png){ .icon loading=lazy } [Lilligant](../pokemon/549.md) | TM/HM | TM99 Dazzling Gleam |
-| 580 | ![](../img/icons/580.png){ .icon loading=lazy } [Ducklett](../pokemon/580.md) | TM/HM | HM05 Waterfall |
-| 581 | ![](../img/icons/581.png){ .icon loading=lazy } [Swanna](../pokemon/581.md) | TM/HM | HM05 Waterfall |
-| 587 | ![](../img/icons/587.png){ .icon loading=lazy } [Emolga](../pokemon/587.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 600 | ![](../img/icons/600.png){ .icon loading=lazy } [Klang](../pokemon/600.md) | TM/HM | TM80 Rock Slide |
-| 601 | ![](../img/icons/601.png){ .icon loading=lazy } [Klinklang](../pokemon/601.md) | TM/HM | TM80 Rock Slide |
-| 614 | ![](../img/icons/614.png){ .icon loading=lazy } [Beartic](../pokemon/614.md) | TM/HM | HM05 Waterfall |
-| 647 | ![](../img/icons/647.png){ .icon loading=lazy } [Keldeo](../pokemon/647.md) | TM/HM | HM05 Waterfall, HM07 Dive |
-| 666 | ![](../img/icons/666.png){ .icon loading=lazy } [Vivillon](../pokemon/666.md) | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
-| 688 | ![](../img/icons/688.png){ .icon loading=lazy } [Binacle](../pokemon/688.md) | TM/HM | HM05 Waterfall, HM07 Dive |
-| 689 | ![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md) | TM/HM | HM05 Waterfall, HM07 Dive |
-| 702 | ![](../img/icons/702.png){ .icon loading=lazy } [Dedenne](../pokemon/702.md) | TM/HM | TM99 Dazzling Gleam |
+| 012 | <span class="mon">![](../img/icons/12.png){ .icon loading=lazy } [Butterfree](../pokemon/012.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 015 | <span class="mon">![](../img/icons/15.png){ .icon loading=lazy } [Beedrill](../pokemon/015.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 025 | <span class="mon">![](../img/icons/25.png){ .icon loading=lazy } [Pikachu](../pokemon/025.md)</span> | TM/HM | HM03 Surf |
+| 026 | <span class="mon">![](../img/icons/26.png){ .icon loading=lazy } [Raichu](../pokemon/026.md)</span> | TM/HM | HM03 Surf |
+| 079 | <span class="mon">![](../img/icons/79.png){ .icon loading=lazy } [Slowpoke](../pokemon/079.md)</span> | TM/HM | HM05 Waterfall |
+| 080 | <span class="mon">![](../img/icons/80.png){ .icon loading=lazy } [Slowbro](../pokemon/080.md)</span> | TM/HM | HM05 Waterfall |
+| 083 | <span class="mon">![](../img/icons/83.png){ .icon loading=lazy } [Farfetch’d](../pokemon/083.md)</span> | TM/HM | TM31 Brick Break, TM52 Focus Blast, HM06 [Rock Smash](../changes/moves.md#rock-smash) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 092 | <span class="mon">![](../img/icons/92.png){ .icon loading=lazy } [Gastly](../pokemon/092.md)</span> | TM/HM | TM34 Sludge Wave |
+| 093 | <span class="mon">![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md)</span> | TM/HM | TM34 Sludge Wave |
+| 094 | <span class="mon">![](../img/icons/94.png){ .icon loading=lazy } [Gengar](../pokemon/094.md)</span> | TM/HM | TM34 Sludge Wave |
+| 098 | <span class="mon">![](../img/icons/98.png){ .icon loading=lazy } [Krabby](../pokemon/098.md)</span> | TM/HM | HM05 Waterfall |
+| 099 | <span class="mon">![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md)</span> | TM/HM | HM05 Waterfall |
+| 109 | <span class="mon">![](../img/icons/109.png){ .icon loading=lazy } [Koffing](../pokemon/109.md)</span> | TM/HM | TM34 Sludge Wave |
+| 110 | <span class="mon">![](../img/icons/110.png){ .icon loading=lazy } [Weezing](../pokemon/110.md)</span> | TM/HM | TM34 Sludge Wave |
+| 136 | <span class="mon">![](../img/icons/136.png){ .icon loading=lazy } [Flareon](../pokemon/136.md)</span> | TM/HM | TM80 Rock Slide, TM93 Wild Charge |
+| 166 | <span class="mon">![](../img/icons/166.png){ .icon loading=lazy } [Ledian](../pokemon/166.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 182 | <span class="mon">![](../img/icons/182.png){ .icon loading=lazy } [Bellossom](../pokemon/182.md)</span> | Tutor | Earth Power |
+| 187 | <span class="mon">![](../img/icons/187.png){ .icon loading=lazy } [Hoppip](../pokemon/187.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 188 | <span class="mon">![](../img/icons/188.png){ .icon loading=lazy } [Skiploom](../pokemon/188.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 189 | <span class="mon">![](../img/icons/189.png){ .icon loading=lazy } [Jumpluff](../pokemon/189.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 193 | <span class="mon">![](../img/icons/193.png){ .icon loading=lazy } [Yanma](../pokemon/193.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 199 | <span class="mon">![](../img/icons/199.png){ .icon loading=lazy } [Slowking](../pokemon/199.md)</span> | TM/HM | HM05 Waterfall |
+| 201 | <span class="mon">![](../img/icons/201.png){ .icon loading=lazy } [Unown](../pokemon/201.md)</span> | TM/HM | TM94 Secret Power, TM96 Nature Power |
+| 207 | <span class="mon">![](../img/icons/207.png){ .icon loading=lazy } [Gligar](../pokemon/207.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 222 | <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md)</span> | TM/HM | HM05 Waterfall, HM07 Dive |
+| 226 | <span class="mon">![](../img/icons/226.png){ .icon loading=lazy } [Mantine](../pokemon/226.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 267 | <span class="mon">![](../img/icons/267.png){ .icon loading=lazy } [Beautifly](../pokemon/267.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 269 | <span class="mon">![](../img/icons/269.png){ .icon loading=lazy } [Dustox](../pokemon/269.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 278 | <span class="mon">![](../img/icons/278.png){ .icon loading=lazy } [Wingull](../pokemon/278.md)</span> | TM/HM | HM03 Surf, HM05 Waterfall, HM07 Dive |
+| 279 | <span class="mon">![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md)</span> | TM/HM | HM05 Waterfall, HM07 Dive |
+| 284 | <span class="mon">![](../img/icons/284.png){ .icon loading=lazy } [Masquerain](../pokemon/284.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span>, HM03 Surf, HM05 Waterfall, HM07 Dive |
+| 291 | <span class="mon">![](../img/icons/291.png){ .icon loading=lazy } [Ninjask](../pokemon/291.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 313 | <span class="mon">![](../img/icons/313.png){ .icon loading=lazy } [Volbeat](../pokemon/313.md)</span> | TM/HM | TM93 Wild Charge |
+| 344 | <span class="mon">![](../img/icons/344.png){ .icon loading=lazy } [Claydol](../pokemon/344.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 370 | <span class="mon">![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md)</span> | TM/HM | TM99 Dazzling Gleam |
+| 376 | <span class="mon">![](../img/icons/376.png){ .icon loading=lazy } [Metagross](../pokemon/376.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 405 | <span class="mon">![](../img/icons/405.png){ .icon loading=lazy } [Luxray](../pokemon/405.md)</span> | TM/HM | TM66 Payback, TM97 Dark Pulse |
+| 414 | <span class="mon">![](../img/icons/414.png){ .icon loading=lazy } [Mothim](../pokemon/414.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 416 | <span class="mon">![](../img/icons/416.png){ .icon loading=lazy } [Vespiquen](../pokemon/416.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 437 | <span class="mon">![](../img/icons/437.png){ .icon loading=lazy } [Bronzong](../pokemon/437.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 469 | <span class="mon">![](../img/icons/469.png){ .icon loading=lazy } [Yanmega](../pokemon/469.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 472 | <span class="mon">![](../img/icons/472.png){ .icon loading=lazy } [Gliscor](../pokemon/472.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 484 | <span class="mon">![](../img/icons/484.png){ .icon loading=lazy } [Palkia](../pokemon/484.md)</span> | TM/HM | HM05 Waterfall |
+| 497 | <span class="mon">![](../img/icons/497.png){ .icon loading=lazy } [Serperior](../pokemon/497.md)</span> | Tutor | Draco Meteor |
+| 503 | <span class="mon">![](../img/icons/503.png){ .icon loading=lazy } [Samurott](../pokemon/503.md)</span> | TM/HM | TM52 Focus Blast |
+| 511 | <span class="mon">![](../img/icons/511.png){ .icon loading=lazy } [Pansage](../pokemon/511.md)</span> | Tutor | [Grass Pledge](../changes/moves.md#grass-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 512 | <span class="mon">![](../img/icons/512.png){ .icon loading=lazy } [Simisage](../pokemon/512.md)</span> | Tutor | [Grass Pledge](../changes/moves.md#grass-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span>, Frenzy Plant |
+| 513 | <span class="mon">![](../img/icons/513.png){ .icon loading=lazy } [Pansear](../pokemon/513.md)</span> | Tutor | [Fire Pledge](../changes/moves.md#fire-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 514 | <span class="mon">![](../img/icons/514.png){ .icon loading=lazy } [Simisear](../pokemon/514.md)</span> | Tutor | [Fire Pledge](../changes/moves.md#fire-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span>, Blast Burn |
+| 515 | <span class="mon">![](../img/icons/515.png){ .icon loading=lazy } [Panpour](../pokemon/515.md)</span> | Tutor | [Water Pledge](../changes/moves.md#water-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 516 | <span class="mon">![](../img/icons/516.png){ .icon loading=lazy } [Simipour](../pokemon/516.md)</span> | Tutor | [Water Pledge](../changes/moves.md#water-pledge) <span class="chg" title="This move was modified in RR/SS">changed</span>, Hydro Cannon |
+| 519 | <span class="mon">![](../img/icons/519.png){ .icon loading=lazy } [Pidove](../pokemon/519.md)</span> | TM/HM | TM62 Acrobatics |
+| 520 | <span class="mon">![](../img/icons/520.png){ .icon loading=lazy } [Tranquill](../pokemon/520.md)</span> | TM/HM | TM62 Acrobatics |
+| 521 | <span class="mon">![](../img/icons/521.png){ .icon loading=lazy } [Unfezant](../pokemon/521.md)</span> | TM/HM | TM62 Acrobatics |
+| 535 | <span class="mon">![](../img/icons/535.png){ .icon loading=lazy } [Tympole](../pokemon/535.md)</span> | TM/HM | HM05 Waterfall, HM07 Dive |
+| 536 | <span class="mon">![](../img/icons/536.png){ .icon loading=lazy } [Palpitoad](../pokemon/536.md)</span> | TM/HM | HM05 Waterfall, HM07 Dive |
+| 537 | <span class="mon">![](../img/icons/537.png){ .icon loading=lazy } [Seismitoad](../pokemon/537.md)</span> | TM/HM | HM05 Waterfall, HM07 Dive |
+| 549 | <span class="mon">![](../img/icons/549.png){ .icon loading=lazy } [Lilligant](../pokemon/549.md)</span> | TM/HM | TM99 Dazzling Gleam |
+| 580 | <span class="mon">![](../img/icons/580.png){ .icon loading=lazy } [Ducklett](../pokemon/580.md)</span> | TM/HM | HM05 Waterfall |
+| 581 | <span class="mon">![](../img/icons/581.png){ .icon loading=lazy } [Swanna](../pokemon/581.md)</span> | TM/HM | HM05 Waterfall |
+| 587 | <span class="mon">![](../img/icons/587.png){ .icon loading=lazy } [Emolga](../pokemon/587.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 600 | <span class="mon">![](../img/icons/600.png){ .icon loading=lazy } [Klang](../pokemon/600.md)</span> | TM/HM | TM80 Rock Slide |
+| 601 | <span class="mon">![](../img/icons/601.png){ .icon loading=lazy } [Klinklang](../pokemon/601.md)</span> | TM/HM | TM80 Rock Slide |
+| 614 | <span class="mon">![](../img/icons/614.png){ .icon loading=lazy } [Beartic](../pokemon/614.md)</span> | TM/HM | HM05 Waterfall |
+| 647 | <span class="mon">![](../img/icons/647.png){ .icon loading=lazy } [Keldeo](../pokemon/647.md)</span> | TM/HM | HM05 Waterfall, HM07 Dive |
+| 666 | <span class="mon">![](../img/icons/666.png){ .icon loading=lazy } [Vivillon](../pokemon/666.md)</span> | TM/HM | HM02 [Fly](../changes/moves.md#fly) <span class="chg" title="This move was modified in RR/SS">changed</span> |
+| 688 | <span class="mon">![](../img/icons/688.png){ .icon loading=lazy } [Binacle](../pokemon/688.md)</span> | TM/HM | HM05 Waterfall, HM07 Dive |
+| 689 | <span class="mon">![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md)</span> | TM/HM | HM05 Waterfall, HM07 Dive |
+| 702 | <span class="mon">![](../img/icons/702.png){ .icon loading=lazy } [Dedenne](../pokemon/702.md)</span> | TM/HM | TM99 Dazzling Gleam |

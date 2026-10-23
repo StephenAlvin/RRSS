@@ -6,47 +6,47 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/112.png){ .icon loading=lazy } [Rhydon](../pokemon/112.md) | <span class="type type-ground">Ground</span> <span class="type type-rock">Rock</span> | 10% |
-| ![](../img/icons/208.png){ .icon loading=lazy } [Steelix](../pokemon/208.md) | <span class="type type-steel">Steel</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/305.png){ .icon loading=lazy } [Lairon](../pokemon/305.md) | <span class="type type-steel">Steel</span> <span class="type type-rock">Rock</span> | 10% |
-| ![](../img/icons/528.png){ .icon loading=lazy } [Swoobat](../pokemon/528.md) | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/530.png){ .icon loading=lazy } [Excadrill](../pokemon/530.md) | <span class="type type-ground">Ground</span> <span class="type type-steel">Steel</span> | 10% |
-| ![](../img/icons/533.png){ .icon loading=lazy } [Gurdurr](../pokemon/533.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/611.png){ .icon loading=lazy } [Fraxure](../pokemon/611.md) | <span class="type type-dragon">Dragon</span> | 10% |
-| ![](../img/icons/637.png){ .icon loading=lazy } [Volcarona](../pokemon/637.md) | <span class="type type-bug">Bug</span> <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md) | <span class="type type-flying">Flying</span> <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/112.png){ .icon loading=lazy } [Rhydon](../pokemon/112.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-rock">Rock</span> | 10% |
+| <span class="mon">![](../img/icons/208.png){ .icon loading=lazy } [Steelix](../pokemon/208.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/305.png){ .icon loading=lazy } [Lairon](../pokemon/305.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-rock">Rock</span> | 10% |
+| <span class="mon">![](../img/icons/528.png){ .icon loading=lazy } [Swoobat](../pokemon/528.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/530.png){ .icon loading=lazy } [Excadrill](../pokemon/530.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-steel">Steel</span> | 10% |
+| <span class="mon">![](../img/icons/533.png){ .icon loading=lazy } [Gurdurr](../pokemon/533.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/611.png){ .icon loading=lazy } [Fraxure](../pokemon/611.md)</span> | <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/637.png){ .icon loading=lazy } [Volcarona](../pokemon/637.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md)</span> | <span class="type type-flying">Flying</span> <span class="type type-dragon">Dragon</span> | 10% |
 
 ## Horde — Lv. 25
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
 
 ## Surfing — Lv. 35 - 45
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/418.png){ .icon loading=lazy } [Buizel](../pokemon/418.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/418.png){ .icon loading=lazy } [Buizel](../pokemon/418.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md) | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md)</span> | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md) | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md)</span> | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md) | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md)</span> | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
 
 
 ---

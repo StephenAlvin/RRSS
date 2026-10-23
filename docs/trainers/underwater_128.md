@@ -10,7 +10,7 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 754 | **Free Diver Mayu** | ![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md) Lv. 60 |
+| 754 | **Free Diver Mayu** | <span class="mon">![](../img/icons/370.png){ .icon loading=lazy } [Luvdisc](../pokemon/370.md) Lv. 60</span> |
 
 
 ---

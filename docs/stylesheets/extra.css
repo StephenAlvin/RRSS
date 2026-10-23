@@ -119,6 +119,89 @@
 .md-typeset details table:not([class]) td { white-space: normal; }
 .md-typeset table:not([class]) td:has(.icon) { white-space: normal; }
 .md-typeset th[role="columnheader"] { cursor: pointer; }
+/* A Pokémon icon and its name are one unit: a line never breaks between them, while cells that
+   list several Pokémon still wrap between the units. */
+.md-typeset .mon { white-space: nowrap; }
+
+/* Long and wide tables. javascripts/table-scrollbar.js puts each table in a .table-scroll box with
+   a scrollbar copy after it, and sets --table-head-top and --table-travel on the box. */
+.md-typeset .table-scroll { --table-gutter: 0.8rem; } /* Material's side padding around tables */
+.md-typeset .admonition .table-scroll,
+.md-typeset details .table-scroll { --table-gutter: 0.6rem; }
+
+/* Sticky header row. Material's sideways-scrolling table box stops position: sticky from working, so
+   the header cells follow the page with a scroll-driven animation instead (it runs off the main
+   thread, and the cells still scroll sideways with the table). Browsers without scroll-driven
+   animations keep a normal header. */
+@supports (animation-timeline: view()) {
+  .md-typeset .table-scroll {
+    view-timeline: --table-scroll block;
+    view-timeline-inset: 2.4rem 0; /* stick right below the site header */
+  }
+  .md-typeset .table-scroll thead th {
+    position: relative;
+    z-index: 1;
+    background-color: var(--md-default-bg-color);
+    box-shadow: inset 0 -0.05rem 0 var(--md-typeset-table-color); /* the line under the header travels with it */
+    animation: table-head-follow linear both;
+    animation-timeline: --table-scroll;
+    animation-range: exit-crossing var(--table-head-top, 0px) exit-crossing calc(var(--table-head-top, 0px) + var(--table-travel, 0px));
+  }
+  .md-typeset .table-scroll tbody > tr:first-child > td { border-top-color: transparent; }
+  .md-typeset .table-scroll--restart thead th { animation-name: none; }
+  @keyframes table-head-follow { to { transform: translateY(var(--table-travel, 0px)); } }
+}
+
+/* Sticky horizontal scrollbar: a copy of the table's scrollbar stays at the bottom of the window
+   while a wide table is on screen and settles under the last row at the end. The table's own
+   scrollbar is hidden so only one shows. Touch screens keep the native swipe. */
+.md-typeset .table-scrollbar { display: none; }
+@media (hover: hover) and (pointer: fine) {
+  .md-typeset .table-scroll--wide > .md-typeset__scrollwrap { margin-bottom: 0; scrollbar-width: none; }
+  .md-typeset .table-scroll--wide > .md-typeset__scrollwrap::-webkit-scrollbar { display: none; }
+  .md-typeset .table-scroll--wide > .table-scrollbar {
+    display: block;
+    position: sticky;
+    bottom: 0;
+    z-index: 2;
+    /* As wide as the table's scroll area; the side borders keep the track in line with the text column,
+       and the top and bottom borders are the breathing space around it. */
+    margin: 0 calc(-1 * var(--table-gutter)) 1em;
+    border: 0.35rem solid var(--md-default-bg-color);
+    border-left-width: var(--table-gutter);
+    border-right-width: var(--table-gutter);
+    overflow-x: auto;
+    overflow-y: hidden;
+    background-color: var(--md-default-bg-color);
+  }
+  .md-typeset .table-scrollbar > div { height: 1px; }
+  /* Custom WebKit/Blink scrollbars are always drawn, even where macOS would hide an overlay scrollbar. */
+  .md-typeset .table-scrollbar::-webkit-scrollbar { height: 0.6rem; }
+  .md-typeset .table-scrollbar::-webkit-scrollbar-track { background-color: var(--md-default-fg-color--lightest); border-radius: 0.3rem; }
+  .md-typeset .table-scrollbar::-webkit-scrollbar-thumb {
+    background-color: var(--md-default-fg-color--lighter);
+    background-clip: padding-box;
+    border: 0.1rem solid transparent;
+    border-radius: 0.3rem;
+  }
+  .md-typeset .table-scrollbar::-webkit-scrollbar-thumb:hover,
+  .md-typeset .table-scrollbar::-webkit-scrollbar-thumb:active { background-color: var(--md-default-fg-color--light); }
+  @supports not selector(::-webkit-scrollbar) {
+    .md-typeset .table-scrollbar { scrollbar-color: var(--md-default-fg-color--lighter) var(--md-default-fg-color--lightest); }
+  }
+  /* A line above the bar while it floats over the rows; it fades out as the bar settles under the table. */
+  @supports (animation-timeline: view()) {
+    .md-typeset .table-scroll--wide > .table-scrollbar {
+      animation: table-scrollbar-settle linear both;
+      animation-timeline: --table-scroll;
+      animation-range: entry-crossing calc(100% - 0.6rem) entry-crossing 100%;
+    }
+    @keyframes table-scrollbar-settle {
+      from { box-shadow: 0 -0.05rem 0 var(--md-typeset-table-color); }
+      to { box-shadow: 0 -0.05rem 0 transparent; }
+    }
+  }
+}
 .table-filter {
   width: 100%;
   max-width: 24rem;

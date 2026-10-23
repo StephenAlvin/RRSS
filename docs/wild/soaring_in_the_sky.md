@@ -14,13 +14,13 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/149.png){ .icon loading=lazy } [Dragonite](../pokemon/149.md) | <span class="type type-dragon">Dragon</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/430.png){ .icon loading=lazy } [Honchkrow](../pokemon/430.md) | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/468.png){ .icon loading=lazy } [Togekiss](../pokemon/468.md) | <span class="type type-fairy">Fairy</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/521.png){ .icon loading=lazy } [Unfezant](../pokemon/521.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/663.png){ .icon loading=lazy } [Talonflame](../pokemon/663.md) | <span class="type type-fire">Fire</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/149.png){ .icon loading=lazy } [Dragonite](../pokemon/149.md)</span> | <span class="type type-dragon">Dragon</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/430.png){ .icon loading=lazy } [Honchkrow](../pokemon/430.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/468.png){ .icon loading=lazy } [Togekiss](../pokemon/468.md)</span> | <span class="type type-fairy">Fairy</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/521.png){ .icon loading=lazy } [Unfezant](../pokemon/521.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/663.png){ .icon loading=lazy } [Talonflame](../pokemon/663.md)</span> | <span class="type type-fire">Fire</span> <span class="type type-flying">Flying</span> | — |
 
 
 ---

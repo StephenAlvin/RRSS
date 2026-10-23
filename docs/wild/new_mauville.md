@@ -6,24 +6,24 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/25.png){ .icon loading=lazy } [Pikachu](../pokemon/025.md) | <span class="type type-electric">Electric</span> | 9.09091% |
-| ![](../img/icons/82.png){ .icon loading=lazy } [Magneton](../pokemon/082.md) | <span class="type type-electric">Electric</span> <span class="type type-steel">Steel</span> | 9.09091% |
-| ![](../img/icons/89.png){ .icon loading=lazy } [Muk](../pokemon/089.md) | <span class="type type-poison">Poison</span> | 9.09091% |
-| ![](../img/icons/101.png){ .icon loading=lazy } [Electrode](../pokemon/101.md) | <span class="type type-electric">Electric</span> | 9.09091% |
-| ![](../img/icons/110.png){ .icon loading=lazy } [Weezing](../pokemon/110.md) | <span class="type type-poison">Poison</span> | 9.09091% |
-| ![](../img/icons/125.png){ .icon loading=lazy } [Electabuzz](../pokemon/125.md) | <span class="type type-electric">Electric</span> | 9.09091% |
-| ![](../img/icons/137.png){ .icon loading=lazy } [Porygon](../pokemon/137.md) | <span class="type type-normal">Normal</span> | 9.09091% |
-| ![](../img/icons/479.png){ .icon loading=lazy } [Rotom](../pokemon/479.md) | <span class="type type-electric">Electric</span> <span class="type type-ghost">Ghost</span> | 9.09091% |
-| ![](../img/icons/569.png){ .icon loading=lazy } [Garbodor](../pokemon/569.md) | <span class="type type-poison">Poison</span> | 9.09091% |
-| ![](../img/icons/600.png){ .icon loading=lazy } [Klang](../pokemon/600.md) | <span class="type type-steel">Steel</span> | 9.09091% |
-| ![](../img/icons/603.png){ .icon loading=lazy } [Eelektrik](../pokemon/603.md) | <span class="type type-electric">Electric</span> | 9.09091% |
+| <span class="mon">![](../img/icons/25.png){ .icon loading=lazy } [Pikachu](../pokemon/025.md)</span> | <span class="type type-electric">Electric</span> | 9.09091% |
+| <span class="mon">![](../img/icons/82.png){ .icon loading=lazy } [Magneton](../pokemon/082.md)</span> | <span class="type type-electric">Electric</span> <span class="type type-steel">Steel</span> | 9.09091% |
+| <span class="mon">![](../img/icons/89.png){ .icon loading=lazy } [Muk](../pokemon/089.md)</span> | <span class="type type-poison">Poison</span> | 9.09091% |
+| <span class="mon">![](../img/icons/101.png){ .icon loading=lazy } [Electrode](../pokemon/101.md)</span> | <span class="type type-electric">Electric</span> | 9.09091% |
+| <span class="mon">![](../img/icons/110.png){ .icon loading=lazy } [Weezing](../pokemon/110.md)</span> | <span class="type type-poison">Poison</span> | 9.09091% |
+| <span class="mon">![](../img/icons/125.png){ .icon loading=lazy } [Electabuzz](../pokemon/125.md)</span> | <span class="type type-electric">Electric</span> | 9.09091% |
+| <span class="mon">![](../img/icons/137.png){ .icon loading=lazy } [Porygon](../pokemon/137.md)</span> | <span class="type type-normal">Normal</span> | 9.09091% |
+| <span class="mon">![](../img/icons/479.png){ .icon loading=lazy } [Rotom](../pokemon/479.md)</span> | <span class="type type-electric">Electric</span> <span class="type type-ghost">Ghost</span> | 9.09091% |
+| <span class="mon">![](../img/icons/569.png){ .icon loading=lazy } [Garbodor](../pokemon/569.md)</span> | <span class="type type-poison">Poison</span> | 9.09091% |
+| <span class="mon">![](../img/icons/600.png){ .icon loading=lazy } [Klang](../pokemon/600.md)</span> | <span class="type type-steel">Steel</span> | 9.09091% |
+| <span class="mon">![](../img/icons/603.png){ .icon loading=lazy } [Eelektrik](../pokemon/603.md)</span> | <span class="type type-electric">Electric</span> | 9.09091% |
 
 ## Horde — Lv. 23
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/599.png){ .icon loading=lazy } [Klink](../pokemon/599.md) | <span class="type type-steel">Steel</span> | — |
-| ![](../img/icons/602.png){ .icon loading=lazy } [Tynamo](../pokemon/602.md) | <span class="type type-electric">Electric</span> | — |
+| <span class="mon">![](../img/icons/599.png){ .icon loading=lazy } [Klink](../pokemon/599.md)</span> | <span class="type type-steel">Steel</span> | — |
+| <span class="mon">![](../img/icons/602.png){ .icon loading=lazy } [Tynamo](../pokemon/602.md)</span> | <span class="type type-electric">Electric</span> | — |
 
 
 ---

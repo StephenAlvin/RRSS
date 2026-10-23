@@ -10,8 +10,8 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 363 | **Sailor Duncan** | ![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md) Lv. 38 |
-| 362 | **Tuber Charlie** | ![](../img/icons/171.png){ .icon loading=lazy } [Lanturn](../pokemon/171.md) Lv. 38 |
+| 363 | **Sailor Duncan** | <span class="mon">![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md) Lv. 38</span> |
+| 362 | **Tuber Charlie** | <span class="mon">![](../img/icons/171.png){ .icon loading=lazy } [Lanturn](../pokemon/171.md) Lv. 38</span> |
 
 
 ---

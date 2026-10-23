@@ -10,19 +10,19 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 808 | **Ace Trainer Cornelius** | ![](../img/icons/442.png){ .icon loading=lazy } [Spiritomb](../pokemon/442.md) Lv. 55, ![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md) Lv. 55, ![](../img/icons/362.png){ .icon loading=lazy } [Glalie](../pokemon/362.md) Lv. 55, ![](../img/icons/604.png){ .icon loading=lazy } [Eelektross](../pokemon/604.md) Lv. 55 |
-| 539 | **Fisherman Wayne** | ![](../img/icons/321.png){ .icon loading=lazy } [Wailord](../pokemon/321.md) Lv. 56 |
-| 165 | **Triathlete Isaiah** | ![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 56 |
-| 827 | **Tuber Delmar** | ![](../img/icons/536.png){ .icon loading=lazy } [Palpitoad](../pokemon/536.md) Lv. 56 |
-| 828 | **Tuber Marlene** | ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) Lv. 56 |
+| 808 | **Ace Trainer Cornelius** | <span class="mon">![](../img/icons/442.png){ .icon loading=lazy } [Spiritomb](../pokemon/442.md) Lv. 55</span>, <span class="mon">![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md) Lv. 55</span>, <span class="mon">![](../img/icons/362.png){ .icon loading=lazy } [Glalie](../pokemon/362.md) Lv. 55</span>, <span class="mon">![](../img/icons/604.png){ .icon loading=lazy } [Eelektross](../pokemon/604.md) Lv. 55</span> |
+| 539 | **Fisherman Wayne** | <span class="mon">![](../img/icons/321.png){ .icon loading=lazy } [Wailord](../pokemon/321.md) Lv. 56</span> |
+| 165 | **Triathlete Isaiah** | <span class="mon">![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 56</span> |
+| 827 | **Tuber Delmar** | <span class="mon">![](../img/icons/536.png){ .icon loading=lazy } [Palpitoad](../pokemon/536.md) Lv. 56</span> |
+| 828 | **Tuber Marlene** | <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) Lv. 56</span> |
 
 ## Rematches
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 484 | **Triathlete Isaiah** <span class="tag" title="Rematch roster unlocked with 7 badges">7</span> | ![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 59, ![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md) Lv. 59, ![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 59, ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 59 |
-| 485 | **Triathlete Isaiah** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | ![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 64, ![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md) Lv. 64, ![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 64, ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 64 |
-| 486 | **Triathlete Isaiah** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | ![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 75, ![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md) Lv. 75, ![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 75, ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 75 |
+| 484 | **Triathlete Isaiah** <span class="tag" title="Rematch roster unlocked with 7 badges">7</span> | <span class="mon">![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 59</span>, <span class="mon">![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md) Lv. 59</span>, <span class="mon">![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 59</span>, <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 59</span> |
+| 485 | **Triathlete Isaiah** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | <span class="mon">![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 64</span>, <span class="mon">![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md) Lv. 64</span>, <span class="mon">![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 64</span>, <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 64</span> |
+| 486 | **Triathlete Isaiah** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | <span class="mon">![](../img/icons/457.png){ .icon loading=lazy } [Lumineon](../pokemon/457.md) Lv. 75</span>, <span class="mon">![](../img/icons/121.png){ .icon loading=lazy } [Starmie](../pokemon/121.md) Lv. 75</span>, <span class="mon">![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) Lv. 75</span>, <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 75</span> |
 
 
 ---

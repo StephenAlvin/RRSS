@@ -10,18 +10,18 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 583 | **PKMN Trainer Wally** | ![](../img/icons/407.png){ .icon loading=lazy } [Roserade](../pokemon/407.md) Lv. 70, ![](../img/icons/663.png){ .icon loading=lazy } [Talonflame](../pokemon/663.md) Lv. 70, ![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md) Lv. 70, ![](../img/icons/462.png){ .icon loading=lazy } [Magnezone](../pokemon/462.md) Lv. 70, ![](../img/icons/445.png){ .icon loading=lazy } [Garchomp](../pokemon/445.md) Lv. 70, ![](../img/icons/475.png){ .icon loading=lazy } [Gallade](../pokemon/475.md) Lv. 72 |
+| 583 | **PKMN Trainer Wally** | <span class="mon">![](../img/icons/407.png){ .icon loading=lazy } [Roserade](../pokemon/407.md) Lv. 70</span>, <span class="mon">![](../img/icons/663.png){ .icon loading=lazy } [Talonflame](../pokemon/663.md) Lv. 70</span>, <span class="mon">![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md) Lv. 70</span>, <span class="mon">![](../img/icons/462.png){ .icon loading=lazy } [Magnezone](../pokemon/462.md) Lv. 70</span>, <span class="mon">![](../img/icons/445.png){ .icon loading=lazy } [Garchomp](../pokemon/445.md) Lv. 70</span>, <span class="mon">![](../img/icons/475.png){ .icon loading=lazy } [Gallade](../pokemon/475.md) Lv. 72</span> |
 
 ## Special Battle - Wally
 
 | Pokémon | Lv. | Item | Ability | Moves |
 | --- | --- | --- | --- | --- |
-| ![](../img/icons/407.png){ .icon loading=lazy } [Roserade](../pokemon/407.md) | 70 | ![](../img/items/focus-sash.png){ .item loading=lazy } Focus Sash | <abbr title="Has a 30% chance of poisoning attacking Pokémon on contact.">Poison Point</abbr> | Sleep Powder, Petal Dance, Sludge Bomb, Dazzling Gleam |
-| ![](../img/icons/663.png){ .icon loading=lazy } [Talonflame](../pokemon/663.md) | 70 | ![](../img/items/sharp-beak.png){ .item loading=lazy } Sharp Beak | <abbr title="Raises Flying moves' priority by one stage.">Gale Wings</abbr> | Brave Bird, Flare Blitz, Swords Dance, Roost |
-| ![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md) | 70 | ![](../img/items/assault-vest.png){ .item loading=lazy } Assault Vest | <abbr title="Doubles Attack in battle.">Huge Power</abbr> | Aqua Tail, Play Rough, Superpower, Knock Off |
-| ![](../img/icons/462.png){ .icon loading=lazy } [Magnezone](../pokemon/462.md) | 70 | ![](../img/items/air-balloon.png){ .item loading=lazy } Air Balloon |  | Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave |
-| ![](../img/icons/445.png){ .icon loading=lazy } [Garchomp](../pokemon/445.md) | 70 | ![](../img/items/yache-berry.png){ .item loading=lazy } Yache Berry | <abbr title="Damages attacking Pokémon for 1/8 their max HP on contact.">Rough Skin</abbr> | Outrage, Earthquake, Stone Edge, Fire Blast |
-| ![](../img/icons/475.png){ .icon loading=lazy } [Gallade](../pokemon/475.md) | 72 | ![](../img/items/galladite.png){ .item loading=lazy } Galladite | <abbr title="Raises Attack one stage upon taking damage from a Dark move.">Justified</abbr> | Close Combat, Zen Headbutt, Knock Off, Protect |
+| <span class="mon">![](../img/icons/407.png){ .icon loading=lazy } [Roserade](../pokemon/407.md)</span> | 70 | ![](../img/items/focus-sash.png){ .item loading=lazy } Focus Sash | <abbr title="Has a 30% chance of poisoning attacking Pokémon on contact.">Poison Point</abbr> | Sleep Powder, Petal Dance, Sludge Bomb, Dazzling Gleam |
+| <span class="mon">![](../img/icons/663.png){ .icon loading=lazy } [Talonflame](../pokemon/663.md)</span> | 70 | ![](../img/items/sharp-beak.png){ .item loading=lazy } Sharp Beak | <abbr title="Raises Flying moves' priority by one stage.">Gale Wings</abbr> | Brave Bird, Flare Blitz, Swords Dance, Roost |
+| <span class="mon">![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md)</span> | 70 | ![](../img/items/assault-vest.png){ .item loading=lazy } Assault Vest | <abbr title="Doubles Attack in battle.">Huge Power</abbr> | Aqua Tail, Play Rough, Superpower, Knock Off |
+| <span class="mon">![](../img/icons/462.png){ .icon loading=lazy } [Magnezone](../pokemon/462.md)</span> | 70 | ![](../img/items/air-balloon.png){ .item loading=lazy } Air Balloon |  | Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave |
+| <span class="mon">![](../img/icons/445.png){ .icon loading=lazy } [Garchomp](../pokemon/445.md)</span> | 70 | ![](../img/items/yache-berry.png){ .item loading=lazy } Yache Berry | <abbr title="Damages attacking Pokémon for 1/8 their max HP on contact.">Rough Skin</abbr> | Outrage, Earthquake, Stone Edge, Fire Blast |
+| <span class="mon">![](../img/icons/475.png){ .icon loading=lazy } [Gallade](../pokemon/475.md)</span> | 72 | ![](../img/items/galladite.png){ .item loading=lazy } Galladite | <abbr title="Raises Attack one stage upon taking damage from a Dark move.">Justified</abbr> | Close Combat, Zen Headbutt, Knock Off, Protect |
 
 
 ---

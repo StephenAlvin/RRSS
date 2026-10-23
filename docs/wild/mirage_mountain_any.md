@@ -12,23 +12,23 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/144.png){ .icon loading=lazy } [Articuno](../pokemon/144.md) | <span class="type type-ice">Ice</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/145.png){ .icon loading=lazy } [Zapdos](../pokemon/145.md) | <span class="type type-electric">Electric</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/146.png){ .icon loading=lazy } [Moltres](../pokemon/146.md) | <span class="type type-fire">Fire</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/249.png){ .icon loading=lazy } [Lugia](../pokemon/249.md) | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/250.png){ .icon loading=lazy } [Ho-Oh](../pokemon/250.md) | <span class="type type-fire">Fire</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/483.png){ .icon loading=lazy } [Dialga](../pokemon/483.md) | <span class="type type-steel">Steel</span> <span class="type type-dragon">Dragon</span> | 10% |
-| ![](../img/icons/484.png){ .icon loading=lazy } [Palkia](../pokemon/484.md) | <span class="type type-water">Water</span> <span class="type type-dragon">Dragon</span> | 10% |
-| ![](../img/icons/493.png){ .icon loading=lazy } [Arceus](../pokemon/493.md) | <span class="type type-normal">Normal</span> | <span class="rare">5%</span> |
-| ![](../img/icons/643.png){ .icon loading=lazy } [Reshiram](../pokemon/643.md) | <span class="type type-dragon">Dragon</span> <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/644.png){ .icon loading=lazy } [Zekrom](../pokemon/644.md) | <span class="type type-dragon">Dragon</span> <span class="type type-electric">Electric</span> | 10% |
-| ![](../img/icons/717.png){ .icon loading=lazy } [Yveltal](../pokemon/717.md) | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/144.png){ .icon loading=lazy } [Articuno](../pokemon/144.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/145.png){ .icon loading=lazy } [Zapdos](../pokemon/145.md)</span> | <span class="type type-electric">Electric</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/146.png){ .icon loading=lazy } [Moltres](../pokemon/146.md)</span> | <span class="type type-fire">Fire</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/249.png){ .icon loading=lazy } [Lugia](../pokemon/249.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/250.png){ .icon loading=lazy } [Ho-Oh](../pokemon/250.md)</span> | <span class="type type-fire">Fire</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/483.png){ .icon loading=lazy } [Dialga](../pokemon/483.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/484.png){ .icon loading=lazy } [Palkia](../pokemon/484.md)</span> | <span class="type type-water">Water</span> <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/493.png){ .icon loading=lazy } [Arceus](../pokemon/493.md)</span> | <span class="type type-normal">Normal</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/643.png){ .icon loading=lazy } [Reshiram](../pokemon/643.md)</span> | <span class="type type-dragon">Dragon</span> <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/644.png){ .icon loading=lazy } [Zekrom](../pokemon/644.md)</span> | <span class="type type-dragon">Dragon</span> <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/717.png){ .icon loading=lazy } [Yveltal](../pokemon/717.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | <span class="rare">5%</span> |
 
 ## Rock Smash — Lv. 60
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md) | <span class="type type-normal">Normal</span> | — |
+| <span class="mon">![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md)</span> | <span class="type type-normal">Normal</span> | — |
 
 
 ---

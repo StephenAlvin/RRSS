@@ -6,25 +6,25 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 
 ---

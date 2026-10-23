@@ -12,23 +12,23 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/243.png){ .icon loading=lazy } [Raikou](../pokemon/243.md) | <span class="type type-electric">Electric</span> | 10% |
-| ![](../img/icons/244.png){ .icon loading=lazy } [Entei](../pokemon/244.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/245.png){ .icon loading=lazy } [Suicune](../pokemon/245.md) | <span class="type type-water">Water</span> | 10% |
-| ![](../img/icons/251.png){ .icon loading=lazy } [Celebi](../pokemon/251.md) | <span class="type type-psychic">Psychic</span> <span class="type type-grass">Grass</span> | <span class="rare">5%</span> |
-| ![](../img/icons/492.png){ .icon loading=lazy } [Shaymin](../pokemon/492.md) | <span class="type type-grass">Grass</span> | 10% |
-| ![](../img/icons/638.png){ .icon loading=lazy } [Cobalion](../pokemon/638.md) | <span class="type type-steel">Steel</span> <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/639.png){ .icon loading=lazy } [Terrakion](../pokemon/639.md) | <span class="type type-rock">Rock</span> <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/640.png){ .icon loading=lazy } [Virizion](../pokemon/640.md) | <span class="type type-grass">Grass</span> <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/647.png){ .icon loading=lazy } [Keldeo](../pokemon/647.md) | <span class="type type-water">Water</span> <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/648.png){ .icon loading=lazy } [Meloetta](../pokemon/648.md) | <span class="type type-normal">Normal</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/716.png){ .icon loading=lazy } [Xerneas](../pokemon/716.md) | <span class="type type-fairy">Fairy</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/243.png){ .icon loading=lazy } [Raikou](../pokemon/243.md)</span> | <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/244.png){ .icon loading=lazy } [Entei](../pokemon/244.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/245.png){ .icon loading=lazy } [Suicune](../pokemon/245.md)</span> | <span class="type type-water">Water</span> | 10% |
+| <span class="mon">![](../img/icons/251.png){ .icon loading=lazy } [Celebi](../pokemon/251.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-grass">Grass</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/492.png){ .icon loading=lazy } [Shaymin](../pokemon/492.md)</span> | <span class="type type-grass">Grass</span> | 10% |
+| <span class="mon">![](../img/icons/638.png){ .icon loading=lazy } [Cobalion](../pokemon/638.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/639.png){ .icon loading=lazy } [Terrakion](../pokemon/639.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/640.png){ .icon loading=lazy } [Virizion](../pokemon/640.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/647.png){ .icon loading=lazy } [Keldeo](../pokemon/647.md)</span> | <span class="type type-water">Water</span> <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/648.png){ .icon loading=lazy } [Meloetta](../pokemon/648.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/716.png){ .icon loading=lazy } [Xerneas](../pokemon/716.md)</span> | <span class="type type-fairy">Fairy</span> | <span class="rare">5%</span> |
 
 ## Rock Smash — Lv. 60
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md) | <span class="type type-normal">Normal</span> | — |
+| <span class="mon">![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md)</span> | <span class="type type-normal">Normal</span> | — |
 
 
 ---

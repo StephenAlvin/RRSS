@@ -10,11 +10,11 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 151 | **Swimmer Kara** | ![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md) Lv. 54, ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 54, ![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 54 |
-| 138 | **Swimmer Herman** | ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 54, ![](../img/icons/395.png){ .icon loading=lazy } [Empoleon](../pokemon/395.md) Lv. 54, ![](../img/icons/55.png){ .icon loading=lazy } [Golduck](../pokemon/055.md) Lv. 54 |
-| 150 | **Swimmer Susie** | ![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) Lv. 54, ![](../img/icons/134.png){ .icon loading=lazy } [Vaporeon](../pokemon/134.md) Lv. 54, ![](../img/icons/87.png){ .icon loading=lazy } [Dewgong](../pokemon/087.md) Lv. 54 |
-| 137 | **Swimmer Richard** | ![](../img/icons/224.png){ .icon loading=lazy } [Octillery](../pokemon/224.md) Lv. 54, ![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md) Lv. 54, ![](../img/icons/91.png){ .icon loading=lazy } [Cloyster](../pokemon/091.md) Lv. 54 |
-| 544 | **Sis & Bro Rell & Ian** | ![](../img/icons/80.png){ .icon loading=lazy } [Slowbro](../pokemon/080.md) Lv. 56, ![](../img/icons/199.png){ .icon loading=lazy } [Slowking](../pokemon/199.md) Lv. 57 |
+| 151 | **Swimmer Kara** | <span class="mon">![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md) Lv. 54</span>, <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 54</span>, <span class="mon">![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 54</span> |
+| 138 | **Swimmer Herman** | <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) Lv. 54</span>, <span class="mon">![](../img/icons/395.png){ .icon loading=lazy } [Empoleon](../pokemon/395.md) Lv. 54</span>, <span class="mon">![](../img/icons/55.png){ .icon loading=lazy } [Golduck](../pokemon/055.md) Lv. 54</span> |
+| 150 | **Swimmer Susie** | <span class="mon">![](../img/icons/222.png){ .icon loading=lazy } [Corsola](../pokemon/222.md) Lv. 54</span>, <span class="mon">![](../img/icons/134.png){ .icon loading=lazy } [Vaporeon](../pokemon/134.md) Lv. 54</span>, <span class="mon">![](../img/icons/87.png){ .icon loading=lazy } [Dewgong](../pokemon/087.md) Lv. 54</span> |
+| 137 | **Swimmer Richard** | <span class="mon">![](../img/icons/224.png){ .icon loading=lazy } [Octillery](../pokemon/224.md) Lv. 54</span>, <span class="mon">![](../img/icons/689.png){ .icon loading=lazy } [Barbaracle](../pokemon/689.md) Lv. 54</span>, <span class="mon">![](../img/icons/91.png){ .icon loading=lazy } [Cloyster](../pokemon/091.md) Lv. 54</span> |
+| 544 | **Sis & Bro Rell & Ian** | <span class="mon">![](../img/icons/80.png){ .icon loading=lazy } [Slowbro](../pokemon/080.md) Lv. 56</span>, <span class="mon">![](../img/icons/199.png){ .icon loading=lazy } [Slowking](../pokemon/199.md) Lv. 57</span> |
 
 
 ---

@@ -10,35 +10,35 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/594.png){ .icon loading=lazy } [Alomomola](../pokemon/594.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Surfing — Lv. 40 - 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/321.png){ .icon loading=lazy } [Wailord](../pokemon/321.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/321.png){ .icon loading=lazy } [Wailord](../pokemon/321.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/369.png){ .icon loading=lazy } [Relicanth](../pokemon/369.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | — |
 
 
 ---

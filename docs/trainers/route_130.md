@@ -10,9 +10,9 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 149 | **Swimmer Katie** | ![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md) Lv. 54, ![](../img/icons/226.png){ .icon loading=lazy } [Mantine](../pokemon/226.md) Lv. 55 |
-| 719 | **Triathlete Karsen** | ![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md) Lv. 56 |
-| 136 | **Swimmer Rodney** | ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 54, ![](../img/icons/565.png){ .icon loading=lazy } [Carracosta](../pokemon/565.md) Lv. 54, ![](../img/icons/342.png){ .icon loading=lazy } [Crawdaunt](../pokemon/342.md) Lv. 54 |
+| 149 | **Swimmer Katie** | <span class="mon">![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md) Lv. 54</span>, <span class="mon">![](../img/icons/226.png){ .icon loading=lazy } [Mantine](../pokemon/226.md) Lv. 55</span> |
+| 719 | **Triathlete Karsen** | <span class="mon">![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md) Lv. 56</span> |
+| 136 | **Swimmer Rodney** | <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 54</span>, <span class="mon">![](../img/icons/565.png){ .icon loading=lazy } [Carracosta](../pokemon/565.md) Lv. 54</span>, <span class="mon">![](../img/icons/342.png){ .icon loading=lazy } [Crawdaunt](../pokemon/342.md) Lv. 54</span> |
 
 
 ---

@@ -10,17 +10,17 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 016 | **Youngster Billy** | ![](../img/icons/32.png){ .icon loading=lazy } [Nidoran♂](../pokemon/032.md) Lv. 10, ![](../img/icons/79.png){ .icon loading=lazy } [Slowpoke](../pokemon/079.md) Lv. 10 |
-| 639 | **Rich Boy Winston** | ![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md) Lv. 10, ![](../img/icons/506.png){ .icon loading=lazy } [Lillipup](../pokemon/506.md) Lv. 10 |
+| 016 | **Youngster Billy** | <span class="mon">![](../img/icons/32.png){ .icon loading=lazy } [Nidoran♂](../pokemon/032.md) Lv. 10</span>, <span class="mon">![](../img/icons/79.png){ .icon loading=lazy } [Slowpoke](../pokemon/079.md) Lv. 10</span> |
+| 639 | **Rich Boy Winston** | <span class="mon">![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md) Lv. 10</span>, <span class="mon">![](../img/icons/506.png){ .icon loading=lazy } [Lillipup](../pokemon/506.md) Lv. 10</span> |
 
 ## Rematches
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 658 | **Rich Boy Winston** <span class="tag" title="Rematch roster unlocked with 1 badge">1</span> | ![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md) Lv. 13, ![](../img/icons/506.png){ .icon loading=lazy } [Lillipup](../pokemon/506.md) Lv. 13, ![](../img/icons/133.png){ .icon loading=lazy } [Eevee](../pokemon/133.md) Lv. 13 |
-| 659 | **Rich Boy Winston** <span class="tag" title="Rematch roster unlocked with 3 badges">3</span> | ![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md) Lv. 25, ![](../img/icons/507.png){ .icon loading=lazy } [Herdier](../pokemon/507.md) Lv. 25, ![](../img/icons/136.png){ .icon loading=lazy } [Flareon](../pokemon/136.md) Lv. 25 |
-| 660 | **Rich Boy Winston** <span class="tag" title="Rematch roster unlocked with 5 badges">5</span> | ![](../img/icons/59.png){ .icon loading=lazy } [Arcanine](../pokemon/059.md) Lv. 39, ![](../img/icons/508.png){ .icon loading=lazy } [Stoutland](../pokemon/508.md) Lv. 39, ![](../img/icons/136.png){ .icon loading=lazy } [Flareon](../pokemon/136.md) Lv. 39, ![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md) Lv. 39 |
-| 560 | **Rich Boy Winston** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | ![](../img/icons/59.png){ .icon loading=lazy } [Arcanine](../pokemon/059.md) Lv. 75, ![](../img/icons/508.png){ .icon loading=lazy } [Stoutland](../pokemon/508.md) Lv. 75, ![](../img/icons/136.png){ .icon loading=lazy } [Flareon](../pokemon/136.md) Lv. 75, ![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md) Lv. 75 |
+| 658 | **Rich Boy Winston** <span class="tag" title="Rematch roster unlocked with 1 badge">1</span> | <span class="mon">![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md) Lv. 13</span>, <span class="mon">![](../img/icons/506.png){ .icon loading=lazy } [Lillipup](../pokemon/506.md) Lv. 13</span>, <span class="mon">![](../img/icons/133.png){ .icon loading=lazy } [Eevee](../pokemon/133.md) Lv. 13</span> |
+| 659 | **Rich Boy Winston** <span class="tag" title="Rematch roster unlocked with 3 badges">3</span> | <span class="mon">![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md) Lv. 25</span>, <span class="mon">![](../img/icons/507.png){ .icon loading=lazy } [Herdier](../pokemon/507.md) Lv. 25</span>, <span class="mon">![](../img/icons/136.png){ .icon loading=lazy } [Flareon](../pokemon/136.md) Lv. 25</span> |
+| 660 | **Rich Boy Winston** <span class="tag" title="Rematch roster unlocked with 5 badges">5</span> | <span class="mon">![](../img/icons/59.png){ .icon loading=lazy } [Arcanine](../pokemon/059.md) Lv. 39</span>, <span class="mon">![](../img/icons/508.png){ .icon loading=lazy } [Stoutland](../pokemon/508.md) Lv. 39</span>, <span class="mon">![](../img/icons/136.png){ .icon loading=lazy } [Flareon](../pokemon/136.md) Lv. 39</span>, <span class="mon">![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md) Lv. 39</span> |
+| 560 | **Rich Boy Winston** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | <span class="mon">![](../img/icons/59.png){ .icon loading=lazy } [Arcanine](../pokemon/059.md) Lv. 75</span>, <span class="mon">![](../img/icons/508.png){ .icon loading=lazy } [Stoutland](../pokemon/508.md) Lv. 75</span>, <span class="mon">![](../img/icons/136.png){ .icon loading=lazy } [Flareon](../pokemon/136.md) Lv. 75</span>, <span class="mon">![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md) Lv. 75</span> |
 
 
 ---

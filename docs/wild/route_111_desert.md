@@ -14,29 +14,29 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/28.png){ .icon loading=lazy } [Sandslash](../pokemon/028.md) | <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/328.png){ .icon loading=lazy } [Trapinch](../pokemon/328.md) | <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/331.png){ .icon loading=lazy } [Cacnea](../pokemon/331.md) | <span class="type type-grass">Grass</span> | 10% |
-| ![](../img/icons/343.png){ .icon loading=lazy } [Baltoy](../pokemon/343.md) | <span class="type type-ground">Ground</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/443.png){ .icon loading=lazy } [Gible](../pokemon/443.md) | <span class="type type-dragon">Dragon</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/449.png){ .icon loading=lazy } [Hippopotas](../pokemon/449.md) | <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/551.png){ .icon loading=lazy } [Sandile](../pokemon/551.md) | <span class="type type-ground">Ground</span> <span class="type type-dark">Dark</span> | 10% |
-| ![](../img/icons/554.png){ .icon loading=lazy } [Darumaka](../pokemon/554.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/556.png){ .icon loading=lazy } [Maractus](../pokemon/556.md) | <span class="type type-grass">Grass</span> | <span class="rare">5%</span> |
-| ![](../img/icons/561.png){ .icon loading=lazy } [Sigilyph](../pokemon/561.md) | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | <span class="rare">5%</span> |
-| ![](../img/icons/694.png){ .icon loading=lazy } [Helioptile](../pokemon/694.md) | <span class="type type-electric">Electric</span> <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/28.png){ .icon loading=lazy } [Sandslash](../pokemon/028.md)</span> | <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/328.png){ .icon loading=lazy } [Trapinch](../pokemon/328.md)</span> | <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/331.png){ .icon loading=lazy } [Cacnea](../pokemon/331.md)</span> | <span class="type type-grass">Grass</span> | 10% |
+| <span class="mon">![](../img/icons/343.png){ .icon loading=lazy } [Baltoy](../pokemon/343.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/443.png){ .icon loading=lazy } [Gible](../pokemon/443.md)</span> | <span class="type type-dragon">Dragon</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/449.png){ .icon loading=lazy } [Hippopotas](../pokemon/449.md)</span> | <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/551.png){ .icon loading=lazy } [Sandile](../pokemon/551.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-dark">Dark</span> | 10% |
+| <span class="mon">![](../img/icons/554.png){ .icon loading=lazy } [Darumaka](../pokemon/554.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/556.png){ .icon loading=lazy } [Maractus](../pokemon/556.md)</span> | <span class="type type-grass">Grass</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/561.png){ .icon loading=lazy } [Sigilyph](../pokemon/561.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/694.png){ .icon loading=lazy } [Helioptile](../pokemon/694.md)</span> | <span class="type type-electric">Electric</span> <span class="type type-normal">Normal</span> | 10% |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/329.png){ .icon loading=lazy } [Vibrava](../pokemon/329.md) | <span class="type type-ground">Ground</span> <span class="type type-dragon">Dragon</span> | — |
+| <span class="mon">![](../img/icons/329.png){ .icon loading=lazy } [Vibrava](../pokemon/329.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-dragon">Dragon</span> | — |
 
 ## Horde — Lv. 18
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/27.png){ .icon loading=lazy } [Sandshrew](../pokemon/027.md) | <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/27.png){ .icon loading=lazy } [Sandshrew](../pokemon/027.md)</span> | <span class="type type-ground">Ground</span> | — |
 
 
 ---

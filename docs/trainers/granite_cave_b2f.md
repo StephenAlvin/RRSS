@@ -10,8 +10,8 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 787 | **Ruin Maniac Omari** | ![](../img/icons/27.png){ .icon loading=lazy } [Sandshrew](../pokemon/027.md) Lv. 22, ![](../img/icons/343.png){ .icon loading=lazy } [Baltoy](../pokemon/343.md) Lv. 22, ![](../img/icons/436.png){ .icon loading=lazy } [Bronzor](../pokemon/436.md) Lv. 22 |
-| 788 | **Hiker Davian** | ![](../img/icons/95.png){ .icon loading=lazy } [Onix](../pokemon/095.md) Lv. 23, ![](../img/icons/185.png){ .icon loading=lazy } [Sudowoodo](../pokemon/185.md) Lv. 23 |
+| 787 | **Ruin Maniac Omari** | <span class="mon">![](../img/icons/27.png){ .icon loading=lazy } [Sandshrew](../pokemon/027.md) Lv. 22</span>, <span class="mon">![](../img/icons/343.png){ .icon loading=lazy } [Baltoy](../pokemon/343.md) Lv. 22</span>, <span class="mon">![](../img/icons/436.png){ .icon loading=lazy } [Bronzor](../pokemon/436.md) Lv. 22</span> |
+| 788 | **Hiker Davian** | <span class="mon">![](../img/icons/95.png){ .icon loading=lazy } [Onix](../pokemon/095.md) Lv. 23</span>, <span class="mon">![](../img/icons/185.png){ .icon loading=lazy } [Sudowoodo](../pokemon/185.md) Lv. 23</span> |
 
 
 ---

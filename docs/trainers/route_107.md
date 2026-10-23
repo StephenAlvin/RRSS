@@ -10,19 +10,19 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 039 | **Swimmer Beth** | ![](../img/icons/581.png){ .icon loading=lazy } [Swanna](../pokemon/581.md) Lv. 36, ![](../img/icons/159.png){ .icon loading=lazy } [Croconaw](../pokemon/159.md) Lv. 36, ![](../img/icons/226.png){ .icon loading=lazy } [Mantine](../pokemon/226.md) Lv. 36 |
-| 038 | **Swimmer Denise** | ![](../img/icons/657.png){ .icon loading=lazy } [Frogadier](../pokemon/657.md) Lv. 37, ![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 37 |
-| 036 | **Swimmer Darrin** | ![](../img/icons/259.png){ .icon loading=lazy } [Marshtomp](../pokemon/259.md) Lv. 37, ![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) Lv. 37 |
-| 550 | **Sis & Bro Lisa and Ray** | ![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 38, ![](../img/icons/342.png){ .icon loading=lazy } [Crawdaunt](../pokemon/342.md) Lv. 39 |
-| 037 | **Swimmer Tony** | ![](../img/icons/592.png){ .icon loading=lazy } [Frillish](../pokemon/592.md) Lv. 37, ![](../img/icons/592.png){ .icon loading=lazy } [Frillish](../pokemon/592.md) Lv. 37 |
+| 039 | **Swimmer Beth** | <span class="mon">![](../img/icons/581.png){ .icon loading=lazy } [Swanna](../pokemon/581.md) Lv. 36</span>, <span class="mon">![](../img/icons/159.png){ .icon loading=lazy } [Croconaw](../pokemon/159.md) Lv. 36</span>, <span class="mon">![](../img/icons/226.png){ .icon loading=lazy } [Mantine](../pokemon/226.md) Lv. 36</span> |
+| 038 | **Swimmer Denise** | <span class="mon">![](../img/icons/657.png){ .icon loading=lazy } [Frogadier](../pokemon/657.md) Lv. 37</span>, <span class="mon">![](../img/icons/368.png){ .icon loading=lazy } [Gorebyss](../pokemon/368.md) Lv. 37</span> |
+| 036 | **Swimmer Darrin** | <span class="mon">![](../img/icons/259.png){ .icon loading=lazy } [Marshtomp](../pokemon/259.md) Lv. 37</span>, <span class="mon">![](../img/icons/367.png){ .icon loading=lazy } [Huntail](../pokemon/367.md) Lv. 37</span> |
+| 550 | **Sis & Bro Lisa and Ray** | <span class="mon">![](../img/icons/99.png){ .icon loading=lazy } [Kingler](../pokemon/099.md) Lv. 38</span>, <span class="mon">![](../img/icons/342.png){ .icon loading=lazy } [Crawdaunt](../pokemon/342.md) Lv. 39</span> |
+| 037 | **Swimmer Tony** | <span class="mon">![](../img/icons/592.png){ .icon loading=lazy } [Frillish](../pokemon/592.md) Lv. 37</span>, <span class="mon">![](../img/icons/592.png){ .icon loading=lazy } [Frillish](../pokemon/592.md) Lv. 37</span> |
 
 ## Rematches
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 511 | **Swimmer Tony** <span class="tag" title="Rematch roster unlocked with 6 badges">6</span> | ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 47, ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 47, ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 47 |
-| 512 | **Swimmer Tony** <span class="tag" title="Rematch roster unlocked with 7 badges">7</span> | ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 59, ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 59, ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 59, ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 59 |
-| 513 | **Swimmer Tony** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 64, ![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 64, ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 64, ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 64 |
+| 511 | **Swimmer Tony** <span class="tag" title="Rematch roster unlocked with 6 badges">6</span> | <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 47</span>, <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 47</span>, <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 47</span> |
+| 512 | **Swimmer Tony** <span class="tag" title="Rematch roster unlocked with 7 badges">7</span> | <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 59</span>, <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 59</span>, <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 59</span>, <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 59</span> |
+| 513 | **Swimmer Tony** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 64</span>, <span class="mon">![](../img/icons/593.png){ .icon loading=lazy } [Jellicent](../pokemon/593.md) Lv. 64</span>, <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 64</span>, <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) Lv. 64</span> |
 
 
 ---

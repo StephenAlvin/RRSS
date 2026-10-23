@@ -8,16 +8,16 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 898 | **Lorekeeper Zinnia** | ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 76, ![](../img/icons/697.png){ .icon loading=lazy } [Tyrantrum](../pokemon/697.md) Lv. 76, ![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md) Lv. 76, ![](../img/icons/373.png){ .icon loading=lazy } [Salamence](../pokemon/373.md) Lv. 78 |
+| 898 | **Lorekeeper Zinnia** | <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 76</span>, <span class="mon">![](../img/icons/697.png){ .icon loading=lazy } [Tyrantrum](../pokemon/697.md) Lv. 76</span>, <span class="mon">![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md) Lv. 76</span>, <span class="mon">![](../img/icons/373.png){ .icon loading=lazy } [Salamence](../pokemon/373.md) Lv. 78</span> |
 
 ## Special Battle - Zinnia
 
 | Pokémon | Lv. | Item | Ability | Moves |
 | --- | --- | --- | --- | --- |
-| ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) | 76 | ![](../img/items/lum-berry.png){ .item loading=lazy } Lum Berry | <abbr title="Cures any major status ailment upon switching out.">Natural Cure</abbr> | Draco Meteor, Flamethrower, Ice Beam, Moonblast |
-| ![](../img/icons/697.png){ .icon loading=lazy } [Tyrantrum](../pokemon/697.md) | 76 | ![](../img/items/haban-berry.png){ .item loading=lazy } Haban Berry | <abbr title="Strengthens biting moves to 1.5× their power.">Strong Jaw</abbr> | Head Smash, Crunch, Dragon Claw, Fire Fang |
-| ![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md) | 76 | ![](../img/items/yache-berry.png){ .item loading=lazy } Yache Berry | <abbr title="Bypasses Light Screen, Reflect, and Safeguard.">Infiltrator</abbr> | Draco Meteor, Hurricane, Focus Blast, Flamethrower |
-| ![](../img/icons/373.png){ .icon loading=lazy } [Salamence](../pokemon/373.md) | 78 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Lowers opponents' Attack one stage upon entering battle.">Intimidate</abbr> | Dragon Pulse, Fire Blast, Hydro Pump, Hyper Voice |
+| <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md)</span> | 76 | ![](../img/items/lum-berry.png){ .item loading=lazy } Lum Berry | <abbr title="Cures any major status ailment upon switching out.">Natural Cure</abbr> | Draco Meteor, Flamethrower, Ice Beam, Moonblast |
+| <span class="mon">![](../img/icons/697.png){ .icon loading=lazy } [Tyrantrum](../pokemon/697.md)</span> | 76 | ![](../img/items/haban-berry.png){ .item loading=lazy } Haban Berry | <abbr title="Strengthens biting moves to 1.5× their power.">Strong Jaw</abbr> | Head Smash, Crunch, Dragon Claw, Fire Fang |
+| <span class="mon">![](../img/icons/715.png){ .icon loading=lazy } [Noivern](../pokemon/715.md)</span> | 76 | ![](../img/items/yache-berry.png){ .item loading=lazy } Yache Berry | <abbr title="Bypasses Light Screen, Reflect, and Safeguard.">Infiltrator</abbr> | Draco Meteor, Hurricane, Focus Blast, Flamethrower |
+| <span class="mon">![](../img/icons/373.png){ .icon loading=lazy } [Salamence](../pokemon/373.md)</span> | 78 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Lowers opponents' Attack one stage upon entering battle.">Intimidate</abbr> | Dragon Pulse, Fire Blast, Hydro Pump, Hyper Voice |
 
 
 ---

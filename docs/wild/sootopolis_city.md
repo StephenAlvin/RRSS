@@ -6,29 +6,29 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md)</span> | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md)</span> | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md)</span> | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md)</span> | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
 
 
 ---

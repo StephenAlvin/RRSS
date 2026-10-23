@@ -10,29 +10,29 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md) | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md)</span> | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/60.png){ .icon loading=lazy } [Poliwag](../pokemon/060.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/60.png){ .icon loading=lazy } [Poliwag](../pokemon/060.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 
 ---

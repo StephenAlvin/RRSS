@@ -10,54 +10,54 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/39.png){ .icon loading=lazy } [Jigglypuff](../pokemon/039.md) | <span class="type type-normal">Normal</span> <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/114.png){ .icon loading=lazy } [Tangela](../pokemon/114.md) | <span class="type type-grass">Grass</span> | 10% |
-| ![](../img/icons/191.png){ .icon loading=lazy } [Sunkern](../pokemon/191.md) | <span class="type type-grass">Grass</span> | 10% |
-| ![](../img/icons/193.png){ .icon loading=lazy } [Yanma](../pokemon/193.md) | <span class="type type-bug">Bug</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/277.png){ .icon loading=lazy } [Swellow](../pokemon/277.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/517.png){ .icon loading=lazy } [Munna](../pokemon/517.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/531.png){ .icon loading=lazy } [Audino](../pokemon/531.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/670.png){ .icon loading=lazy } [Floette](../pokemon/670.md) | <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/701.png){ .icon loading=lazy } [Hawlucha](../pokemon/701.md) | <span class="type type-fighting">Fighting</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/39.png){ .icon loading=lazy } [Jigglypuff](../pokemon/039.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/114.png){ .icon loading=lazy } [Tangela](../pokemon/114.md)</span> | <span class="type type-grass">Grass</span> | 10% |
+| <span class="mon">![](../img/icons/191.png){ .icon loading=lazy } [Sunkern](../pokemon/191.md)</span> | <span class="type type-grass">Grass</span> | 10% |
+| <span class="mon">![](../img/icons/193.png){ .icon loading=lazy } [Yanma](../pokemon/193.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/277.png){ .icon loading=lazy } [Swellow](../pokemon/277.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/517.png){ .icon loading=lazy } [Munna](../pokemon/517.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/531.png){ .icon loading=lazy } [Audino](../pokemon/531.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/670.png){ .icon loading=lazy } [Floette](../pokemon/670.md)</span> | <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/701.png){ .icon loading=lazy } [Hawlucha](../pokemon/701.md)</span> | <span class="type type-fighting">Fighting</span> <span class="type type-flying">Flying</span> | 10% |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/469.png){ .icon loading=lazy } [Yanmega](../pokemon/469.md) | <span class="type type-bug">Bug</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/469.png){ .icon loading=lazy } [Yanmega](../pokemon/469.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-flying">Flying</span> | — |
 
 ## Horde — Lv. 22
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/174.png){ .icon loading=lazy } [Igglybuff](../pokemon/174.md) | <span class="type type-normal">Normal</span> <span class="type type-fairy">Fairy</span> | — |
-| ![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md) | <span class="type type-normal">Normal</span> | — |
+| <span class="mon">![](../img/icons/174.png){ .icon loading=lazy } [Igglybuff](../pokemon/174.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md)</span> | <span class="type type-normal">Normal</span> | — |
 
 ## Surfing — Lv. 25 - 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/72.png){ .icon loading=lazy } [Tentacool](../pokemon/072.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
-| ![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/72.png){ .icon loading=lazy } [Tentacool](../pokemon/072.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/73.png){ .icon loading=lazy } [Tentacruel](../pokemon/073.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/129.png){ .icon loading=lazy } [Magikarp](../pokemon/129.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md) | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/130.png){ .icon loading=lazy } [Gyarados](../pokemon/130.md)</span> | <span class="type type-water">Water</span> <span class="type type-flying">Flying</span> | — |
 
 
 ---

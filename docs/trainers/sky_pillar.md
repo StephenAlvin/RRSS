@@ -12,18 +12,18 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 713 | **Lorekeeper Zinnia** | ![](../img/icons/635.png){ .icon loading=lazy } [Hydreigon](../pokemon/635.md) Lv. 79, ![](../img/icons/706.png){ .icon loading=lazy } [Goodra](../pokemon/706.md) Lv. 79, ![](../img/icons/248.png){ .icon loading=lazy } [Tyranitar](../pokemon/248.md) Lv. 79, ![](../img/icons/149.png){ .icon loading=lazy } [Dragonite](../pokemon/149.md) Lv. 79, ![](../img/icons/445.png){ .icon loading=lazy } [Garchomp](../pokemon/445.md) Lv. 79, ![](../img/icons/373.png){ .icon loading=lazy } [Salamence](../pokemon/373.md) Lv. 81 |
+| 713 | **Lorekeeper Zinnia** | <span class="mon">![](../img/icons/635.png){ .icon loading=lazy } [Hydreigon](../pokemon/635.md) Lv. 79</span>, <span class="mon">![](../img/icons/706.png){ .icon loading=lazy } [Goodra](../pokemon/706.md) Lv. 79</span>, <span class="mon">![](../img/icons/248.png){ .icon loading=lazy } [Tyranitar](../pokemon/248.md) Lv. 79</span>, <span class="mon">![](../img/icons/149.png){ .icon loading=lazy } [Dragonite](../pokemon/149.md) Lv. 79</span>, <span class="mon">![](../img/icons/445.png){ .icon loading=lazy } [Garchomp](../pokemon/445.md) Lv. 79</span>, <span class="mon">![](../img/icons/373.png){ .icon loading=lazy } [Salamence](../pokemon/373.md) Lv. 81</span> |
 
 ## Special Battle - Zinnia
 
 | Pokémon | Lv. | Item | Ability | Moves |
 | --- | --- | --- | --- | --- |
-| ![](../img/icons/635.png){ .icon loading=lazy } [Hydreigon](../pokemon/635.md) | 79 | ![](../img/items/life-orb.png){ .item loading=lazy } Life Orb | <abbr title="Evades Ground moves.">Levitate</abbr> | Draco Meteor, Fire Blast, Dark Pulse, Focus Blast |
-| ![](../img/icons/706.png){ .icon loading=lazy } [Goodra](../pokemon/706.md) | 79 | ![](../img/items/assault-vest.png){ .item loading=lazy } Assault Vest | <abbr title="Lowers attacking Pokémon's Speed by one stage on contact.">Gooey</abbr> | Dragon Pulse, Ice Beam, Thunderbolt, Sludge Wave |
-| ![](../img/icons/248.png){ .icon loading=lazy } [Tyranitar](../pokemon/248.md) | 79 | ![](../img/items/expert-belt.png){ .item loading=lazy } Expert Belt | <abbr title="Summons a sandstorm that lasts indefinitely upon entering battle.">Sand Stream</abbr> | Stone Edge, Crunch, Earthquake, Iron Tail |
-| ![](../img/icons/149.png){ .icon loading=lazy } [Dragonite](../pokemon/149.md) | 79 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Halves damage taken from full HP.">Multiscale</abbr> | Dragon Dance, Dragon Rush, Fire Blast, Iron Tail |
-| ![](../img/icons/445.png){ .icon loading=lazy } [Garchomp](../pokemon/445.md) | 79 | ![](../img/items/focus-sash.png){ .item loading=lazy } Focus Sash | <abbr title="Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.">Sand Veil</abbr> | Outrage, Earthquake, Stone Edge, Iron Tail |
-| ![](../img/icons/373.png){ .icon loading=lazy } [Salamence](../pokemon/373.md) | 81 | ![](../img/items/salamencite.png){ .item loading=lazy } Salamencite | <abbr title="Lowers opponents' Attack one stage upon entering battle.">Intimidate</abbr> | Double-Edge, Fire Blast, Earthquake, Outrage |
+| <span class="mon">![](../img/icons/635.png){ .icon loading=lazy } [Hydreigon](../pokemon/635.md)</span> | 79 | ![](../img/items/life-orb.png){ .item loading=lazy } Life Orb | <abbr title="Evades Ground moves.">Levitate</abbr> | Draco Meteor, Fire Blast, Dark Pulse, Focus Blast |
+| <span class="mon">![](../img/icons/706.png){ .icon loading=lazy } [Goodra](../pokemon/706.md)</span> | 79 | ![](../img/items/assault-vest.png){ .item loading=lazy } Assault Vest | <abbr title="Lowers attacking Pokémon's Speed by one stage on contact.">Gooey</abbr> | Dragon Pulse, Ice Beam, Thunderbolt, Sludge Wave |
+| <span class="mon">![](../img/icons/248.png){ .icon loading=lazy } [Tyranitar](../pokemon/248.md)</span> | 79 | ![](../img/items/expert-belt.png){ .item loading=lazy } Expert Belt | <abbr title="Summons a sandstorm that lasts indefinitely upon entering battle.">Sand Stream</abbr> | Stone Edge, Crunch, Earthquake, Iron Tail |
+| <span class="mon">![](../img/icons/149.png){ .icon loading=lazy } [Dragonite](../pokemon/149.md)</span> | 79 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Halves damage taken from full HP.">Multiscale</abbr> | Dragon Dance, Dragon Rush, Fire Blast, Iron Tail |
+| <span class="mon">![](../img/icons/445.png){ .icon loading=lazy } [Garchomp](../pokemon/445.md)</span> | 79 | ![](../img/items/focus-sash.png){ .item loading=lazy } Focus Sash | <abbr title="Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.">Sand Veil</abbr> | Outrage, Earthquake, Stone Edge, Iron Tail |
+| <span class="mon">![](../img/icons/373.png){ .icon loading=lazy } [Salamence](../pokemon/373.md)</span> | 81 | ![](../img/items/salamencite.png){ .item loading=lazy } Salamencite | <abbr title="Lowers opponents' Attack one stage upon entering battle.">Intimidate</abbr> | Double-Edge, Fire Blast, Earthquake, Outrage |
 
 
 ---

@@ -10,28 +10,28 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/138.png){ .icon loading=lazy } [Omanyte](../pokemon/138.md) | <span class="type type-rock">Rock</span> <span class="type type-water">Water</span> | 10% |
-| ![](../img/icons/140.png){ .icon loading=lazy } [Kabuto](../pokemon/140.md) | <span class="type type-rock">Rock</span> <span class="type type-water">Water</span> | 10% |
-| ![](../img/icons/347.png){ .icon loading=lazy } [Anorith](../pokemon/347.md) | <span class="type type-rock">Rock</span> <span class="type type-bug">Bug</span> | 10% |
-| ![](../img/icons/345.png){ .icon loading=lazy } [Lileep](../pokemon/345.md) | <span class="type type-rock">Rock</span> <span class="type type-grass">Grass</span> | 10% |
-| ![](../img/icons/408.png){ .icon loading=lazy } [Cranidos](../pokemon/408.md) | <span class="type type-rock">Rock</span> | 10% |
-| ![](../img/icons/410.png){ .icon loading=lazy } [Shieldon](../pokemon/410.md) | <span class="type type-rock">Rock</span> <span class="type type-steel">Steel</span> | 10% |
-| ![](../img/icons/564.png){ .icon loading=lazy } [Tirtouga](../pokemon/564.md) | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | 10% |
-| ![](../img/icons/566.png){ .icon loading=lazy } [Archen](../pokemon/566.md) | <span class="type type-rock">Rock</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/696.png){ .icon loading=lazy } [Tyrunt](../pokemon/696.md) | <span class="type type-rock">Rock</span> <span class="type type-dragon">Dragon</span> | 10% |
-| ![](../img/icons/698.png){ .icon loading=lazy } [Amaura](../pokemon/698.md) | <span class="type type-rock">Rock</span> <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/138.png){ .icon loading=lazy } [Omanyte](../pokemon/138.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-water">Water</span> | 10% |
+| <span class="mon">![](../img/icons/140.png){ .icon loading=lazy } [Kabuto](../pokemon/140.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-water">Water</span> | 10% |
+| <span class="mon">![](../img/icons/347.png){ .icon loading=lazy } [Anorith](../pokemon/347.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-bug">Bug</span> | 10% |
+| <span class="mon">![](../img/icons/345.png){ .icon loading=lazy } [Lileep](../pokemon/345.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-grass">Grass</span> | 10% |
+| <span class="mon">![](../img/icons/408.png){ .icon loading=lazy } [Cranidos](../pokemon/408.md)</span> | <span class="type type-rock">Rock</span> | 10% |
+| <span class="mon">![](../img/icons/410.png){ .icon loading=lazy } [Shieldon](../pokemon/410.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-steel">Steel</span> | 10% |
+| <span class="mon">![](../img/icons/564.png){ .icon loading=lazy } [Tirtouga](../pokemon/564.md)</span> | <span class="type type-water">Water</span> <span class="type type-rock">Rock</span> | 10% |
+| <span class="mon">![](../img/icons/566.png){ .icon loading=lazy } [Archen](../pokemon/566.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/696.png){ .icon loading=lazy } [Tyrunt](../pokemon/696.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/698.png){ .icon loading=lazy } [Amaura](../pokemon/698.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-ice">Ice</span> | 10% |
 
 ## Rock Smash — Lv. 44
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/213.png){ .icon loading=lazy } [Shuckle](../pokemon/213.md) | <span class="type type-bug">Bug</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/213.png){ .icon loading=lazy } [Shuckle](../pokemon/213.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-rock">Rock</span> | — |
 
 ## Horde — Lv. 30
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/41.png){ .icon loading=lazy } [Zubat](../pokemon/041.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/41.png){ .icon loading=lazy } [Zubat](../pokemon/041.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
 
 
 ---

@@ -6,47 +6,47 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/41.png){ .icon loading=lazy } [Zubat](../pokemon/041.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/95.png){ .icon loading=lazy } [Onix](../pokemon/095.md) | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/111.png){ .icon loading=lazy } [Rhyhorn](../pokemon/111.md) | <span class="type type-ground">Ground</span> <span class="type type-rock">Rock</span> | 10% |
-| ![](../img/icons/304.png){ .icon loading=lazy } [Aron](../pokemon/304.md) | <span class="type type-steel">Steel</span> <span class="type type-rock">Rock</span> | 10% |
-| ![](../img/icons/527.png){ .icon loading=lazy } [Woobat](../pokemon/527.md) | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/529.png){ .icon loading=lazy } [Drilbur](../pokemon/529.md) | <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/532.png){ .icon loading=lazy } [Timburr](../pokemon/532.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/610.png){ .icon loading=lazy } [Axew](../pokemon/610.md) | <span class="type type-dragon">Dragon</span> | 10% |
-| ![](../img/icons/636.png){ .icon loading=lazy } [Larvesta](../pokemon/636.md) | <span class="type type-bug">Bug</span> <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/714.png){ .icon loading=lazy } [Noibat](../pokemon/714.md) | <span class="type type-flying">Flying</span> <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/41.png){ .icon loading=lazy } [Zubat](../pokemon/041.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/95.png){ .icon loading=lazy } [Onix](../pokemon/095.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/111.png){ .icon loading=lazy } [Rhyhorn](../pokemon/111.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-rock">Rock</span> | 10% |
+| <span class="mon">![](../img/icons/304.png){ .icon loading=lazy } [Aron](../pokemon/304.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-rock">Rock</span> | 10% |
+| <span class="mon">![](../img/icons/527.png){ .icon loading=lazy } [Woobat](../pokemon/527.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/529.png){ .icon loading=lazy } [Drilbur](../pokemon/529.md)</span> | <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/532.png){ .icon loading=lazy } [Timburr](../pokemon/532.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/610.png){ .icon loading=lazy } [Axew](../pokemon/610.md)</span> | <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/636.png){ .icon loading=lazy } [Larvesta](../pokemon/636.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/714.png){ .icon loading=lazy } [Noibat](../pokemon/714.md)</span> | <span class="type type-flying">Flying</span> <span class="type type-dragon">Dragon</span> | 10% |
 
 ## Horde — Lv. 25
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/41.png){ .icon loading=lazy } [Zubat](../pokemon/041.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/41.png){ .icon loading=lazy } [Zubat](../pokemon/041.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
 
 ## Surfing — Lv. 30 - 40
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/41.png){ .icon loading=lazy } [Zubat](../pokemon/041.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/41.png){ .icon loading=lazy } [Zubat](../pokemon/041.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/60.png){ .icon loading=lazy } [Poliwag](../pokemon/060.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/60.png){ .icon loading=lazy } [Poliwag](../pokemon/060.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/60.png){ .icon loading=lazy } [Poliwag](../pokemon/060.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/60.png){ .icon loading=lazy } [Poliwag](../pokemon/060.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md)</span> | <span class="type type-water">Water</span> | — |
 
 
 ---

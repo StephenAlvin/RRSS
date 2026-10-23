@@ -10,60 +10,60 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/96.png){ .icon loading=lazy } [Drowzee](../pokemon/096.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/108.png){ .icon loading=lazy } [Lickitung](../pokemon/108.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/200.png){ .icon loading=lazy } [Misdreavus](../pokemon/200.md) | <span class="type type-ghost">Ghost</span> <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/333.png){ .icon loading=lazy } [Swablu](../pokemon/333.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/335.png){ .icon loading=lazy } [Zangoose](../pokemon/335.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/336.png){ .icon loading=lazy } [Seviper](../pokemon/336.md) | <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/451.png){ .icon loading=lazy } [Skorupi](../pokemon/451.md) | <span class="type type-poison">Poison</span> <span class="type type-bug">Bug</span> | 10% |
-| ![](../img/icons/582.png){ .icon loading=lazy } [Vanillite](../pokemon/582.md) | <span class="type type-ice">Ice</span> | 10% |
-| ![](../img/icons/588.png){ .icon loading=lazy } [Karrablast](../pokemon/588.md) | <span class="type type-bug">Bug</span> | 10% |
-| ![](../img/icons/616.png){ .icon loading=lazy } [Shelmet](../pokemon/616.md) | <span class="type type-bug">Bug</span> | 10% |
+| <span class="mon">![](../img/icons/96.png){ .icon loading=lazy } [Drowzee](../pokemon/096.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/108.png){ .icon loading=lazy } [Lickitung](../pokemon/108.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/200.png){ .icon loading=lazy } [Misdreavus](../pokemon/200.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/333.png){ .icon loading=lazy } [Swablu](../pokemon/333.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/335.png){ .icon loading=lazy } [Zangoose](../pokemon/335.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/336.png){ .icon loading=lazy } [Seviper](../pokemon/336.md)</span> | <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/451.png){ .icon loading=lazy } [Skorupi](../pokemon/451.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-bug">Bug</span> | 10% |
+| <span class="mon">![](../img/icons/582.png){ .icon loading=lazy } [Vanillite](../pokemon/582.md)</span> | <span class="type type-ice">Ice</span> | 10% |
+| <span class="mon">![](../img/icons/588.png){ .icon loading=lazy } [Karrablast](../pokemon/588.md)</span> | <span class="type type-bug">Bug</span> | 10% |
+| <span class="mon">![](../img/icons/616.png){ .icon loading=lazy } [Shelmet](../pokemon/616.md)</span> | <span class="type type-bug">Bug</span> | 10% |
 
 ## Rock Smash — Lv. 25
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/75.png){ .icon loading=lazy } [Graveler](../pokemon/075.md) | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | — |
-| ![](../img/icons/525.png){ .icon loading=lazy } [Boldore](../pokemon/525.md) | <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/75.png){ .icon loading=lazy } [Graveler](../pokemon/075.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/525.png){ .icon loading=lazy } [Boldore](../pokemon/525.md)</span> | <span class="type type-rock">Rock</span> | — |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/463.png){ .icon loading=lazy } [Lickilicky](../pokemon/463.md) | <span class="type type-normal">Normal</span> | — |
+| <span class="mon">![](../img/icons/463.png){ .icon loading=lazy } [Lickilicky](../pokemon/463.md)</span> | <span class="type type-normal">Normal</span> | — |
 
 ## Horde — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/582.png){ .icon loading=lazy } [Vanillite](../pokemon/582.md) | <span class="type type-ice">Ice</span> | — |
+| <span class="mon">![](../img/icons/582.png){ .icon loading=lazy } [Vanillite](../pokemon/582.md)</span> | <span class="type type-ice">Ice</span> | — |
 
 ## Surfing — Lv. 25 - 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/187.png){ .icon loading=lazy } [Hoppip](../pokemon/187.md) | <span class="type type-grass">Grass</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/188.png){ .icon loading=lazy } [Skiploom](../pokemon/188.md) | <span class="type type-grass">Grass</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/187.png){ .icon loading=lazy } [Hoppip](../pokemon/187.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/188.png){ .icon loading=lazy } [Skiploom](../pokemon/188.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-flying">Flying</span> | — |
 
 ## Old Rod — Lv. 25
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/211.png){ .icon loading=lazy } [Qwilfish](../pokemon/211.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/211.png){ .icon loading=lazy } [Qwilfish](../pokemon/211.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/211.png){ .icon loading=lazy } [Qwilfish](../pokemon/211.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/211.png){ .icon loading=lazy } [Qwilfish](../pokemon/211.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/211.png){ .icon loading=lazy } [Qwilfish](../pokemon/211.md) | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/211.png){ .icon loading=lazy } [Qwilfish](../pokemon/211.md)</span> | <span class="type type-water">Water</span> <span class="type type-poison">Poison</span> | — |
 
 
 ---

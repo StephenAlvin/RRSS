@@ -10,9 +10,9 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 781 | **Mysterious Sisters Elle & Aya** | ![](../img/icons/671.png){ .icon loading=lazy } [Florges](../pokemon/671.md) Lv. 51, ![](../img/icons/711.png){ .icon loading=lazy } [Gourgeist](../pokemon/711.md) Lv. 52 |
-| 331 | **Hex Maniac Tasha** | ![](../img/icons/709.png){ .icon loading=lazy } [Trevenant](../pokemon/709.md) Lv. 50, ![](../img/icons/609.png){ .icon loading=lazy } [Chandelure](../pokemon/609.md) Lv. 50 |
-| 723 | **Backpacker Darnell** | ![](../img/icons/51.png){ .icon loading=lazy } [Dugtrio](../pokemon/051.md) Lv. 49, ![](../img/icons/460.png){ .icon loading=lazy } [Abomasnow](../pokemon/460.md) Lv. 49, ![](../img/icons/203.png){ .icon loading=lazy } [Girafarig](../pokemon/203.md) Lv. 49 |
+| 781 | **Mysterious Sisters Elle & Aya** | <span class="mon">![](../img/icons/671.png){ .icon loading=lazy } [Florges](../pokemon/671.md) Lv. 51</span>, <span class="mon">![](../img/icons/711.png){ .icon loading=lazy } [Gourgeist](../pokemon/711.md) Lv. 52</span> |
+| 331 | **Hex Maniac Tasha** | <span class="mon">![](../img/icons/709.png){ .icon loading=lazy } [Trevenant](../pokemon/709.md) Lv. 50</span>, <span class="mon">![](../img/icons/609.png){ .icon loading=lazy } [Chandelure](../pokemon/609.md) Lv. 50</span> |
+| 723 | **Backpacker Darnell** | <span class="mon">![](../img/icons/51.png){ .icon loading=lazy } [Dugtrio](../pokemon/051.md) Lv. 49</span>, <span class="mon">![](../img/icons/460.png){ .icon loading=lazy } [Abomasnow](../pokemon/460.md) Lv. 49</span>, <span class="mon">![](../img/icons/203.png){ .icon loading=lazy } [Girafarig](../pokemon/203.md) Lv. 49</span> |
 
 
 ---

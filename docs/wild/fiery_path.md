@@ -6,28 +6,28 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/50.png){ .icon loading=lazy } [Diglett](../pokemon/050.md) | <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/88.png){ .icon loading=lazy } [Grimer](../pokemon/088.md) | <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/109.png){ .icon loading=lazy } [Koffing](../pokemon/109.md) | <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/206.png){ .icon loading=lazy } [Dunsparce](../pokemon/206.md) | <span class="type type-normal">Normal</span> <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/218.png){ .icon loading=lazy } [Slugma](../pokemon/218.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/322.png){ .icon loading=lazy } [Numel](../pokemon/322.md) | <span class="type type-fire">Fire</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/324.png){ .icon loading=lazy } [Torkoal](../pokemon/324.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/353.png){ .icon loading=lazy } [Shuppet](../pokemon/353.md) | <span class="type type-ghost">Ghost</span> | 10% |
-| ![](../img/icons/355.png){ .icon loading=lazy } [Duskull](../pokemon/355.md) | <span class="type type-ghost">Ghost</span> | 10% |
-| ![](../img/icons/607.png){ .icon loading=lazy } [Litwick](../pokemon/607.md) | <span class="type type-ghost">Ghost</span> <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/50.png){ .icon loading=lazy } [Diglett](../pokemon/050.md)</span> | <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/88.png){ .icon loading=lazy } [Grimer](../pokemon/088.md)</span> | <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/109.png){ .icon loading=lazy } [Koffing](../pokemon/109.md)</span> | <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/206.png){ .icon loading=lazy } [Dunsparce](../pokemon/206.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/218.png){ .icon loading=lazy } [Slugma](../pokemon/218.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/322.png){ .icon loading=lazy } [Numel](../pokemon/322.md)</span> | <span class="type type-fire">Fire</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/324.png){ .icon loading=lazy } [Torkoal](../pokemon/324.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/353.png){ .icon loading=lazy } [Shuppet](../pokemon/353.md)</span> | <span class="type type-ghost">Ghost</span> | 10% |
+| <span class="mon">![](../img/icons/355.png){ .icon loading=lazy } [Duskull](../pokemon/355.md)</span> | <span class="type type-ghost">Ghost</span> | 10% |
+| <span class="mon">![](../img/icons/607.png){ .icon loading=lazy } [Litwick](../pokemon/607.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-fire">Fire</span> | 10% |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/219.png){ .icon loading=lazy } [Magcargo](../pokemon/219.md) | <span class="type type-fire">Fire</span> <span class="type type-rock">Rock</span> | — |
+| <span class="mon">![](../img/icons/219.png){ .icon loading=lazy } [Magcargo](../pokemon/219.md)</span> | <span class="type type-fire">Fire</span> <span class="type type-rock">Rock</span> | — |
 
 ## Horde — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/206.png){ .icon loading=lazy } [Dunsparce](../pokemon/206.md) | <span class="type type-normal">Normal</span> <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/206.png){ .icon loading=lazy } [Dunsparce](../pokemon/206.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-fairy">Fairy</span> | — |
 
 
 ---

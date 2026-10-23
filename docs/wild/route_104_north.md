@@ -10,54 +10,54 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/165.png){ .icon loading=lazy } [Ledyba](../pokemon/165.md) | <span class="type type-bug">Bug</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/175.png){ .icon loading=lazy } [Togepi](../pokemon/175.md) | <span class="type type-fairy">Fairy</span> | <span class="rare">5%</span> |
-| ![](../img/icons/187.png){ .icon loading=lazy } [Hoppip](../pokemon/187.md) | <span class="type type-grass">Grass</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/209.png){ .icon loading=lazy } [Snubbull](../pokemon/209.md) | <span class="type type-fairy">Fairy</span> | <span class="rare">5%</span> |
-| ![](../img/icons/401.png){ .icon loading=lazy } [Kricketot](../pokemon/401.md) | <span class="type type-bug">Bug</span> | 10% |
-| ![](../img/icons/406.png){ .icon loading=lazy } [Budew](../pokemon/406.md) | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/412.png){ .icon loading=lazy } [Burmy](../pokemon/412.md) | <span class="type type-bug">Bug</span> | 10% |
-| ![](../img/icons/415.png){ .icon loading=lazy } [Combee](../pokemon/415.md) | <span class="type type-bug">Bug</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/427.png){ .icon loading=lazy } [Buneary](../pokemon/427.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/664.png){ .icon loading=lazy } [Scatterbug](../pokemon/664.md) | <span class="type type-bug">Bug</span> | 10% |
-| ![](../img/icons/669.png){ .icon loading=lazy } [Flabébé](../pokemon/669.md) | <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/165.png){ .icon loading=lazy } [Ledyba](../pokemon/165.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/175.png){ .icon loading=lazy } [Togepi](../pokemon/175.md)</span> | <span class="type type-fairy">Fairy</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/187.png){ .icon loading=lazy } [Hoppip](../pokemon/187.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/209.png){ .icon loading=lazy } [Snubbull](../pokemon/209.md)</span> | <span class="type type-fairy">Fairy</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/401.png){ .icon loading=lazy } [Kricketot](../pokemon/401.md)</span> | <span class="type type-bug">Bug</span> | 10% |
+| <span class="mon">![](../img/icons/406.png){ .icon loading=lazy } [Budew](../pokemon/406.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/412.png){ .icon loading=lazy } [Burmy](../pokemon/412.md)</span> | <span class="type type-bug">Bug</span> | 10% |
+| <span class="mon">![](../img/icons/415.png){ .icon loading=lazy } [Combee](../pokemon/415.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/427.png){ .icon loading=lazy } [Buneary](../pokemon/427.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/664.png){ .icon loading=lazy } [Scatterbug](../pokemon/664.md)</span> | <span class="type type-bug">Bug</span> | 10% |
+| <span class="mon">![](../img/icons/669.png){ .icon loading=lazy } [Flabébé](../pokemon/669.md)</span> | <span class="type type-fairy">Fairy</span> | 10% |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/416.png){ .icon loading=lazy } [Vespiquen](../pokemon/416.md) | <span class="type type-bug">Bug</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/416.png){ .icon loading=lazy } [Vespiquen](../pokemon/416.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-flying">Flying</span> | — |
 
 ## Horde — Lv. 10
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/387.png){ .icon loading=lazy } [Turtwig](../pokemon/387.md) | <span class="type type-grass">Grass</span> | — |
-| ![](../img/icons/656.png){ .icon loading=lazy } [Froakie](../pokemon/656.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/387.png){ .icon loading=lazy } [Turtwig](../pokemon/387.md)</span> | <span class="type type-grass">Grass</span> | — |
+| <span class="mon">![](../img/icons/656.png){ .icon loading=lazy } [Froakie](../pokemon/656.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Surfing — Lv. 25 - 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 
 ---

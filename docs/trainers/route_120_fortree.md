@@ -11,17 +11,17 @@
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
 | xxx | **Interviewers Gabby & Ty** | <em>See Route 111</em> |
-| 324 | **Parasol Lady Clarissa** | ![](../img/icons/351.png){ .icon loading=lazy } [Castform](../pokemon/351.md) Lv. 46 |
-| 120 | **Bird Keeper Robert** | ![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md) Lv. 46 |
-| 119 | **Bird Keeper Colin** | ![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md) Lv. 46 |
+| 324 | **Parasol Lady Clarissa** | <span class="mon">![](../img/icons/351.png){ .icon loading=lazy } [Castform](../pokemon/351.md) Lv. 46</span> |
+| 120 | **Bird Keeper Robert** | <span class="mon">![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md) Lv. 46</span> |
+| 119 | **Bird Keeper Colin** | <span class="mon">![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md) Lv. 46</span> |
 
 ## Rematches
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 437 | **Bird Keeper Robert** <span class="tag" title="Rematch roster unlocked with 7 badges">7</span> | ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 59, ![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md) Lv. 59, ![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md) Lv. 59 |
-| 438 | **Bird Keeper Robert** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 64, ![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md) Lv. 64, ![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md) Lv. 64, ![](../img/icons/22.png){ .icon loading=lazy } [Fearow](../pokemon/022.md) Lv. 64 |
-| 439 | **Bird Keeper Robert** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 75, ![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md) Lv. 75, ![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md) Lv. 75, ![](../img/icons/22.png){ .icon loading=lazy } [Fearow](../pokemon/022.md) Lv. 75 |
+| 437 | **Bird Keeper Robert** <span class="tag" title="Rematch roster unlocked with 7 badges">7</span> | <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 59</span>, <span class="mon">![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md) Lv. 59</span>, <span class="mon">![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md) Lv. 59</span> |
+| 438 | **Bird Keeper Robert** <span class="tag" title="Rematch roster unlocked with 8 badges">8</span> | <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 64</span>, <span class="mon">![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md) Lv. 64</span>, <span class="mon">![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md) Lv. 64</span>, <span class="mon">![](../img/icons/22.png){ .icon loading=lazy } [Fearow](../pokemon/022.md) Lv. 64</span> |
+| 439 | **Bird Keeper Robert** <span class="tag" title="Rematch roster unlocked with after the Champion">C</span> | <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 75</span>, <span class="mon">![](../img/icons/18.png){ .icon loading=lazy } [Pidgeot](../pokemon/018.md) Lv. 75</span>, <span class="mon">![](../img/icons/398.png){ .icon loading=lazy } [Staraptor](../pokemon/398.md) Lv. 75</span>, <span class="mon">![](../img/icons/22.png){ .icon loading=lazy } [Fearow](../pokemon/022.md) Lv. 75</span> |
 
 
 ---

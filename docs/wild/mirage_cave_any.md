@@ -12,23 +12,23 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/150.png){ .icon loading=lazy } [Mewtwo](../pokemon/150.md) | <span class="type type-psychic">Psychic</span> | <span class="rare">5%</span> |
-| ![](../img/icons/382.png){ .icon loading=lazy } [Kyogre](../pokemon/382.md) | <span class="type type-water">Water</span> | 10% |
-| ![](../img/icons/383.png){ .icon loading=lazy } [Groudon](../pokemon/383.md) | <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/385.png){ .icon loading=lazy } [Jirachi](../pokemon/385.md) | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/480.png){ .icon loading=lazy } [Uxie](../pokemon/480.md) | <span class="type type-psychic">Psychic</span> <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/481.png){ .icon loading=lazy } [Mesprit](../pokemon/481.md) | <span class="type type-psychic">Psychic</span> <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/482.png){ .icon loading=lazy } [Azelf](../pokemon/482.md) | <span class="type type-psychic">Psychic</span> <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/649.png){ .icon loading=lazy } [Genesect](../pokemon/649.md) | <span class="type type-bug">Bug</span> <span class="type type-steel">Steel</span> | 10% |
-| ![](../img/icons/718.png){ .icon loading=lazy } [Zygarde](../pokemon/718.md) | <span class="type type-dragon">Dragon</span> <span class="type type-ground">Ground</span> | <span class="rare">5%</span> |
-| ![](../img/icons/719.png){ .icon loading=lazy } [Diancie](../pokemon/719.md) | <span class="type type-rock">Rock</span> <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/721.png){ .icon loading=lazy } [Volcanion](../pokemon/721.md) | <span class="type type-fire">Fire</span> <span class="type type-water">Water</span> | 10% |
+| <span class="mon">![](../img/icons/150.png){ .icon loading=lazy } [Mewtwo](../pokemon/150.md)</span> | <span class="type type-psychic">Psychic</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/382.png){ .icon loading=lazy } [Kyogre](../pokemon/382.md)</span> | <span class="type type-water">Water</span> | 10% |
+| <span class="mon">![](../img/icons/383.png){ .icon loading=lazy } [Groudon](../pokemon/383.md)</span> | <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/385.png){ .icon loading=lazy } [Jirachi](../pokemon/385.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/480.png){ .icon loading=lazy } [Uxie](../pokemon/480.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/481.png){ .icon loading=lazy } [Mesprit](../pokemon/481.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/482.png){ .icon loading=lazy } [Azelf](../pokemon/482.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/649.png){ .icon loading=lazy } [Genesect](../pokemon/649.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-steel">Steel</span> | 10% |
+| <span class="mon">![](../img/icons/718.png){ .icon loading=lazy } [Zygarde](../pokemon/718.md)</span> | <span class="type type-dragon">Dragon</span> <span class="type type-ground">Ground</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/719.png){ .icon loading=lazy } [Diancie](../pokemon/719.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/721.png){ .icon loading=lazy } [Volcanion](../pokemon/721.md)</span> | <span class="type type-fire">Fire</span> <span class="type type-water">Water</span> | 10% |
 
 ## Rock Smash — Lv. 60
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md) | <span class="type type-normal">Normal</span> | — |
+| <span class="mon">![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md)</span> | <span class="type type-normal">Normal</span> | — |
 
 
 ---

@@ -10,31 +10,31 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/86.png){ .icon loading=lazy } [Seel](../pokemon/086.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/363.png){ .icon loading=lazy } [Spheal](../pokemon/363.md) | <span class="type type-ice">Ice</span> <span class="type type-water">Water</span> | — |
-| ![](../img/icons/87.png){ .icon loading=lazy } [Dewgong](../pokemon/087.md) | <span class="type type-water">Water</span> <span class="type type-ice">Ice</span> | — |
-| ![](../img/icons/131.png){ .icon loading=lazy } [Lapras](../pokemon/131.md) | <span class="type type-water">Water</span> <span class="type type-ice">Ice</span> | — |
+| <span class="mon">![](../img/icons/86.png){ .icon loading=lazy } [Seel](../pokemon/086.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/363.png){ .icon loading=lazy } [Spheal](../pokemon/363.md)</span> | <span class="type type-ice">Ice</span> <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/87.png){ .icon loading=lazy } [Dewgong](../pokemon/087.md)</span> | <span class="type type-water">Water</span> <span class="type type-ice">Ice</span> | — |
+| <span class="mon">![](../img/icons/131.png){ .icon loading=lazy } [Lapras](../pokemon/131.md)</span> | <span class="type type-water">Water</span> <span class="type type-ice">Ice</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/90.png){ .icon loading=lazy } [Shellder](../pokemon/090.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/320.png){ .icon loading=lazy } [Wailmer](../pokemon/320.md)</span> | <span class="type type-water">Water</span> | — |
 
 
 ---

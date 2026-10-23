@@ -10,51 +10,51 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/64.png){ .icon loading=lazy } [Kadabra](../pokemon/064.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/67.png){ .icon loading=lazy } [Machoke](../pokemon/067.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md) | <span class="type type-ghost">Ghost</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/294.png){ .icon loading=lazy } [Loudred](../pokemon/294.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/297.png){ .icon loading=lazy } [Hariyama](../pokemon/297.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/302.png){ .icon loading=lazy } [Sableye](../pokemon/302.md) | <span class="type type-dark">Dark</span> <span class="type type-ghost">Ghost</span> | <span class="rare">5%</span> |
-| ![](../img/icons/303.png){ .icon loading=lazy } [Mawile](../pokemon/303.md) | <span class="type type-steel">Steel</span> <span class="type type-fairy">Fairy</span> | <span class="rare">5%</span> |
-| ![](../img/icons/308.png){ .icon loading=lazy } [Medicham](../pokemon/308.md) | <span class="type type-fighting">Fighting</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/444.png){ .icon loading=lazy } [Gabite](../pokemon/444.md) | <span class="type type-dragon">Dragon</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/533.png){ .icon loading=lazy } [Gurdurr](../pokemon/533.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/596.png){ .icon loading=lazy } [Galvantula](../pokemon/596.md) | <span class="type type-bug">Bug</span> <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/64.png){ .icon loading=lazy } [Kadabra](../pokemon/064.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/67.png){ .icon loading=lazy } [Machoke](../pokemon/067.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/294.png){ .icon loading=lazy } [Loudred](../pokemon/294.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/297.png){ .icon loading=lazy } [Hariyama](../pokemon/297.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/302.png){ .icon loading=lazy } [Sableye](../pokemon/302.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-ghost">Ghost</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/303.png){ .icon loading=lazy } [Mawile](../pokemon/303.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-fairy">Fairy</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/308.png){ .icon loading=lazy } [Medicham](../pokemon/308.md)</span> | <span class="type type-fighting">Fighting</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/444.png){ .icon loading=lazy } [Gabite](../pokemon/444.md)</span> | <span class="type type-dragon">Dragon</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/533.png){ .icon loading=lazy } [Gurdurr](../pokemon/533.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/596.png){ .icon loading=lazy } [Galvantula](../pokemon/596.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-electric">Electric</span> | 10% |
 
 ## Horde — Lv. 37
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/596.png){ .icon loading=lazy } [Galvantula](../pokemon/596.md) | <span class="type type-bug">Bug</span> <span class="type type-electric">Electric</span> | — |
+| <span class="mon">![](../img/icons/596.png){ .icon loading=lazy } [Galvantula](../pokemon/596.md)</span> | <span class="type type-bug">Bug</span> <span class="type type-electric">Electric</span> | — |
 
 ## Surfing — Lv. 55 - 65
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md) | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md)</span> | <span class="type type-water">Water</span> <span class="type type-fairy">Fairy</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/60.png){ .icon loading=lazy } [Poliwag](../pokemon/060.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/60.png){ .icon loading=lazy } [Poliwag](../pokemon/060.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/61.png){ .icon loading=lazy } [Poliwhirl](../pokemon/061.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/550.png){ .icon loading=lazy } [Basculin](../pokemon/550.md)</span> | <span class="type type-water">Water</span> | — |
 
 
 ---

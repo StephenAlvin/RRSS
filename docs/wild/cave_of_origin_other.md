@@ -6,13 +6,13 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/201.png){ .icon loading=lazy } [Unown](../pokemon/201.md) | <span class="type type-psychic">Psychic</span> | — |
+| <span class="mon">![](../img/icons/201.png){ .icon loading=lazy } [Unown](../pokemon/201.md)</span> | <span class="type type-psychic">Psychic</span> | — |
 
 ## Horde — Lv. 5 - 75
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/201.png){ .icon loading=lazy } [Unown](../pokemon/201.md) | <span class="type type-psychic">Psychic</span> | — |
+| <span class="mon">![](../img/icons/201.png){ .icon loading=lazy } [Unown](../pokemon/201.md)</span> | <span class="type type-psychic">Psychic</span> | — |
 
 
 ---

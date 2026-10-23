@@ -6,16 +6,16 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 518 | **PKMN Trainer Wally** | ![](../img/icons/662.png){ .icon loading=lazy } [Fletchinder](../pokemon/662.md) Lv. 23, ![](../img/icons/443.png){ .icon loading=lazy } [Gible](../pokemon/443.md) Lv. 23, ![](../img/icons/183.png){ .icon loading=lazy } [Marill](../pokemon/183.md) Lv. 23, ![](../img/icons/281.png){ .icon loading=lazy } [Kirlia](../pokemon/281.md) Lv. 25 |
+| 518 | **PKMN Trainer Wally** | <span class="mon">![](../img/icons/662.png){ .icon loading=lazy } [Fletchinder](../pokemon/662.md) Lv. 23</span>, <span class="mon">![](../img/icons/443.png){ .icon loading=lazy } [Gible](../pokemon/443.md) Lv. 23</span>, <span class="mon">![](../img/icons/183.png){ .icon loading=lazy } [Marill](../pokemon/183.md) Lv. 23</span>, <span class="mon">![](../img/icons/281.png){ .icon loading=lazy } [Kirlia](../pokemon/281.md) Lv. 25</span> |
 
 ## Special Battle - Wally
 
 | Pokémon | Lv. | Item | Ability | Moves |
 | --- | --- | --- | --- | --- |
-| ![](../img/icons/662.png){ .icon loading=lazy } [Fletchinder](../pokemon/662.md) | 23 | ![](../img/items/flying-gem.png){ .item loading=lazy } Flying Gem | <abbr title="Raises Flying moves' priority by one stage.">Gale Wings</abbr> | Flame Charge, Acrobatics, Roost, Return |
-| ![](../img/icons/443.png){ .icon loading=lazy } [Gible](../pokemon/443.md) | 23 | ![](../img/items/rocky-helmet.png){ .item loading=lazy } Rocky Helmet | <abbr title="Damages attacking Pokémon for 1/8 their max HP on contact.">Rough Skin</abbr> | Dragon Rage, Slash, Dig, Shadow Claw |
-| ![](../img/icons/183.png){ .icon loading=lazy } [Marill](../pokemon/183.md) | 23 | ![](../img/items/leftovers.png){ .item loading=lazy } Leftovers | <abbr title="Doubles Attack in battle.">Huge Power</abbr> | Aqua Tail, Play Rough, Aqua Ring, Sing |
-| ![](../img/icons/281.png){ .icon loading=lazy } [Kirlia](../pokemon/281.md) | 25 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Copies an opponent's ability upon entering battle.">Trace</abbr> | Psychic, [Draining Kiss](../changes/moves.md#draining-kiss) <span class="chg" title="This move was modified in RR/SS">changed</span>, Magical Leaf, Shadow Sneak |
+| <span class="mon">![](../img/icons/662.png){ .icon loading=lazy } [Fletchinder](../pokemon/662.md)</span> | 23 | ![](../img/items/flying-gem.png){ .item loading=lazy } Flying Gem | <abbr title="Raises Flying moves' priority by one stage.">Gale Wings</abbr> | Flame Charge, Acrobatics, Roost, Return |
+| <span class="mon">![](../img/icons/443.png){ .icon loading=lazy } [Gible](../pokemon/443.md)</span> | 23 | ![](../img/items/rocky-helmet.png){ .item loading=lazy } Rocky Helmet | <abbr title="Damages attacking Pokémon for 1/8 their max HP on contact.">Rough Skin</abbr> | Dragon Rage, Slash, Dig, Shadow Claw |
+| <span class="mon">![](../img/icons/183.png){ .icon loading=lazy } [Marill](../pokemon/183.md)</span> | 23 | ![](../img/items/leftovers.png){ .item loading=lazy } Leftovers | <abbr title="Doubles Attack in battle.">Huge Power</abbr> | Aqua Tail, Play Rough, Aqua Ring, Sing |
+| <span class="mon">![](../img/icons/281.png){ .icon loading=lazy } [Kirlia](../pokemon/281.md)</span> | 25 | ![](../img/items/sitrus-berry.png){ .item loading=lazy } Sitrus Berry | <abbr title="Copies an opponent's ability upon entering battle.">Trace</abbr> | Psychic, [Draining Kiss](../changes/moves.md#draining-kiss) <span class="chg" title="This move was modified in RR/SS">changed</span>, Magical Leaf, Shadow Sneak |
 
 
 ---

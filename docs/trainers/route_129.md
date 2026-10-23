@@ -10,12 +10,12 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 778 | **Fisherman Fisk** | ![](../img/icons/691.png){ .icon loading=lazy } [Dragalge](../pokemon/691.md) Lv. 56 |
-| 777 | **Fisherman Sheaffer** | ![](../img/icons/211.png){ .icon loading=lazy } [Qwilfish](../pokemon/211.md) Lv. 56 |
-| 541 | **Swimmer Reed** | ![](../img/icons/537.png){ .icon loading=lazy } [Seismitoad](../pokemon/537.md) Lv. 54, ![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md) Lv. 54, ![](../img/icons/195.png){ .icon loading=lazy } [Quagsire](../pokemon/195.md) Lv. 54 |
-| 818 | **Ace Trainer Honor** | ![](../img/icons/584.png){ .icon loading=lazy } [Vanilluxe](../pokemon/584.md) Lv. 55, ![](../img/icons/526.png){ .icon loading=lazy } [Gigalith](../pokemon/526.md) Lv. 55, ![](../img/icons/512.png){ .icon loading=lazy } [Simisage](../pokemon/512.md) Lv. 55, ![](../img/icons/139.png){ .icon loading=lazy } [Omastar](../pokemon/139.md) Lv. 55 |
-| 542 | **Swimmer Tisha** | ![](../img/icons/186.png){ .icon loading=lazy } [Politoed](../pokemon/186.md) Lv. 55, ![](../img/icons/516.png){ .icon loading=lazy } [Simipour](../pokemon/516.md) Lv. 55 |
-| 167 | **Triathlete Chase** | ![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 56 |
+| 778 | **Fisherman Fisk** | <span class="mon">![](../img/icons/691.png){ .icon loading=lazy } [Dragalge](../pokemon/691.md) Lv. 56</span> |
+| 777 | **Fisherman Sheaffer** | <span class="mon">![](../img/icons/211.png){ .icon loading=lazy } [Qwilfish](../pokemon/211.md) Lv. 56</span> |
+| 541 | **Swimmer Reed** | <span class="mon">![](../img/icons/537.png){ .icon loading=lazy } [Seismitoad](../pokemon/537.md) Lv. 54</span>, <span class="mon">![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md) Lv. 54</span>, <span class="mon">![](../img/icons/195.png){ .icon loading=lazy } [Quagsire](../pokemon/195.md) Lv. 54</span> |
+| 818 | **Ace Trainer Honor** | <span class="mon">![](../img/icons/584.png){ .icon loading=lazy } [Vanilluxe](../pokemon/584.md) Lv. 55</span>, <span class="mon">![](../img/icons/526.png){ .icon loading=lazy } [Gigalith](../pokemon/526.md) Lv. 55</span>, <span class="mon">![](../img/icons/512.png){ .icon loading=lazy } [Simisage](../pokemon/512.md) Lv. 55</span>, <span class="mon">![](../img/icons/139.png){ .icon loading=lazy } [Omastar](../pokemon/139.md) Lv. 55</span> |
+| 542 | **Swimmer Tisha** | <span class="mon">![](../img/icons/186.png){ .icon loading=lazy } [Politoed](../pokemon/186.md) Lv. 55</span>, <span class="mon">![](../img/icons/516.png){ .icon loading=lazy } [Simipour](../pokemon/516.md) Lv. 55</span> |
+| 167 | **Triathlete Chase** | <span class="mon">![](../img/icons/230.png){ .icon loading=lazy } [Kingdra](../pokemon/230.md) Lv. 56</span> |
 
 
 ---

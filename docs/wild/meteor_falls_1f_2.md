@@ -10,54 +10,54 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/35.png){ .icon loading=lazy } [Clefairy](../pokemon/035.md) | <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/247.png){ .icon loading=lazy } [Pupitar](../pokemon/247.md) | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/337.png){ .icon loading=lazy } [Lunatone](../pokemon/337.md) | <span class="type type-rock">Rock</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/338.png){ .icon loading=lazy } [Solrock](../pokemon/338.md) | <span class="type type-rock">Rock</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/372.png){ .icon loading=lazy } [Shelgon](../pokemon/372.md) | <span class="type type-dragon">Dragon</span> | 10% |
-| ![](../img/icons/375.png){ .icon loading=lazy } [Metang](../pokemon/375.md) | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/598.png){ .icon loading=lazy } [Ferrothorn](../pokemon/598.md) | <span class="type type-grass">Grass</span> <span class="type type-steel">Steel</span> | 10% |
-| ![](../img/icons/621.png){ .icon loading=lazy } [Druddigon](../pokemon/621.md) | <span class="type type-dragon">Dragon</span> | <span class="rare">5%</span> |
-| ![](../img/icons/634.png){ .icon loading=lazy } [Zweilous](../pokemon/634.md) | <span class="type type-dark">Dark</span> <span class="type type-dragon">Dragon</span> | 10% |
-| ![](../img/icons/703.png){ .icon loading=lazy } [Carbink](../pokemon/703.md) | <span class="type type-rock">Rock</span> <span class="type type-fairy">Fairy</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/35.png){ .icon loading=lazy } [Clefairy](../pokemon/035.md)</span> | <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/247.png){ .icon loading=lazy } [Pupitar](../pokemon/247.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/337.png){ .icon loading=lazy } [Lunatone](../pokemon/337.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/338.png){ .icon loading=lazy } [Solrock](../pokemon/338.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/372.png){ .icon loading=lazy } [Shelgon](../pokemon/372.md)</span> | <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/375.png){ .icon loading=lazy } [Metang](../pokemon/375.md)</span> | <span class="type type-steel">Steel</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/598.png){ .icon loading=lazy } [Ferrothorn](../pokemon/598.md)</span> | <span class="type type-grass">Grass</span> <span class="type type-steel">Steel</span> | 10% |
+| <span class="mon">![](../img/icons/621.png){ .icon loading=lazy } [Druddigon](../pokemon/621.md)</span> | <span class="type type-dragon">Dragon</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/634.png){ .icon loading=lazy } [Zweilous](../pokemon/634.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-dragon">Dragon</span> | 10% |
+| <span class="mon">![](../img/icons/703.png){ .icon loading=lazy } [Carbink](../pokemon/703.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-fairy">Fairy</span> | <span class="rare">5%</span> |
 
 ## DexNav — Lv. 60
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/36.png){ .icon loading=lazy } [Clefable](../pokemon/036.md) | <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/36.png){ .icon loading=lazy } [Clefable](../pokemon/036.md)</span> | <span class="type type-fairy">Fairy</span> | — |
 
 ## Horde — Lv. 37
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/35.png){ .icon loading=lazy } [Clefairy](../pokemon/035.md) | <span class="type type-fairy">Fairy</span> | — |
+| <span class="mon">![](../img/icons/35.png){ .icon loading=lazy } [Clefairy](../pokemon/035.md)</span> | <span class="type type-fairy">Fairy</span> | — |
 
 ## Surfing — Lv. 55 - 65
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
-| ![](../img/icons/338.png){ .icon loading=lazy } [Solrock](../pokemon/338.md) | <span class="type type-rock">Rock</span> <span class="type type-psychic">Psychic</span> | — |
+| <span class="mon">![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | — |
+| <span class="mon">![](../img/icons/338.png){ .icon loading=lazy } [Solrock](../pokemon/338.md)</span> | <span class="type type-rock">Rock</span> <span class="type type-psychic">Psychic</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/147.png){ .icon loading=lazy } [Dratini](../pokemon/147.md) | <span class="type type-dragon">Dragon</span> | — |
+| <span class="mon">![](../img/icons/147.png){ .icon loading=lazy } [Dratini](../pokemon/147.md)</span> | <span class="type type-dragon">Dragon</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/147.png){ .icon loading=lazy } [Dratini](../pokemon/147.md) | <span class="type type-dragon">Dragon</span> | — |
+| <span class="mon">![](../img/icons/147.png){ .icon loading=lazy } [Dratini](../pokemon/147.md)</span> | <span class="type type-dragon">Dragon</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/148.png){ .icon loading=lazy } [Dragonair](../pokemon/148.md) | <span class="type type-dragon">Dragon</span> | — |
+| <span class="mon">![](../img/icons/148.png){ .icon loading=lazy } [Dragonair](../pokemon/148.md)</span> | <span class="type type-dragon">Dragon</span> | — |
 
 
 ---

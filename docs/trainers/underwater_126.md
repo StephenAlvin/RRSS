@@ -10,9 +10,9 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 741 | **Scuba Diver Tristan** | ![](../img/icons/693.png){ .icon loading=lazy } [Clawitzer](../pokemon/693.md) Lv. 60 |
-| 740 | **Scuba Diver Yukata** | ![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md) Lv. 60 |
-| 753 | **Free Diver Jillian** | ![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md) Lv. 60 |
+| 741 | **Scuba Diver Tristan** | <span class="mon">![](../img/icons/693.png){ .icon loading=lazy } [Clawitzer](../pokemon/693.md) Lv. 60</span> |
+| 740 | **Scuba Diver Yukata** | <span class="mon">![](../img/icons/279.png){ .icon loading=lazy } [Pelipper](../pokemon/279.md) Lv. 60</span> |
+| 753 | **Free Diver Jillian** | <span class="mon">![](../img/icons/184.png){ .icon loading=lazy } [Azumarill](../pokemon/184.md) Lv. 60</span> |
 
 
 ---

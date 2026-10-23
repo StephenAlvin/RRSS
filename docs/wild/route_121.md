@@ -10,43 +10,43 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/52.png){ .icon loading=lazy } [Meowth](../pokemon/052.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/77.png){ .icon loading=lazy } [Ponyta](../pokemon/077.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/84.png){ .icon loading=lazy } [Doduo](../pokemon/084.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/96.png){ .icon loading=lazy } [Drowzee](../pokemon/096.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/180.png){ .icon loading=lazy } [Flaaffy](../pokemon/180.md) | <span class="type type-electric">Electric</span> | 10% |
-| ![](../img/icons/262.png){ .icon loading=lazy } [Mightyena](../pokemon/262.md) | <span class="type type-dark">Dark</span> | 10% |
-| ![](../img/icons/353.png){ .icon loading=lazy } [Shuppet](../pokemon/353.md) | <span class="type type-ghost">Ghost</span> | 10% |
-| ![](../img/icons/507.png){ .icon loading=lazy } [Herdier](../pokemon/507.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/522.png){ .icon loading=lazy } [Blitzle](../pokemon/522.md) | <span class="type type-electric">Electric</span> | 10% |
-| ![](../img/icons/660.png){ .icon loading=lazy } [Diggersby](../pokemon/660.md) | <span class="type type-normal">Normal</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/52.png){ .icon loading=lazy } [Meowth](../pokemon/052.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/77.png){ .icon loading=lazy } [Ponyta](../pokemon/077.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/84.png){ .icon loading=lazy } [Doduo](../pokemon/084.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/96.png){ .icon loading=lazy } [Drowzee](../pokemon/096.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/180.png){ .icon loading=lazy } [Flaaffy](../pokemon/180.md)</span> | <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/262.png){ .icon loading=lazy } [Mightyena](../pokemon/262.md)</span> | <span class="type type-dark">Dark</span> | 10% |
+| <span class="mon">![](../img/icons/353.png){ .icon loading=lazy } [Shuppet](../pokemon/353.md)</span> | <span class="type type-ghost">Ghost</span> | 10% |
+| <span class="mon">![](../img/icons/507.png){ .icon loading=lazy } [Herdier](../pokemon/507.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/522.png){ .icon loading=lazy } [Blitzle](../pokemon/522.md)</span> | <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/660.png){ .icon loading=lazy } [Diggersby](../pokemon/660.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-ground">Ground</span> | 10% |
 
 ## Tall Grass — Lv. 44
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/53.png){ .icon loading=lazy } [Persian](../pokemon/053.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/85.png){ .icon loading=lazy } [Dodrio](../pokemon/085.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/97.png){ .icon loading=lazy } [Hypno](../pokemon/097.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/180.png){ .icon loading=lazy } [Flaaffy](../pokemon/180.md) | <span class="type type-electric">Electric</span> | 10% |
-| ![](../img/icons/262.png){ .icon loading=lazy } [Mightyena](../pokemon/262.md) | <span class="type type-dark">Dark</span> | 10% |
-| ![](../img/icons/354.png){ .icon loading=lazy } [Banette](../pokemon/354.md) | <span class="type type-ghost">Ghost</span> | 10% |
-| ![](../img/icons/507.png){ .icon loading=lazy } [Herdier](../pokemon/507.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/523.png){ .icon loading=lazy } [Zebstrika](../pokemon/523.md) | <span class="type type-electric">Electric</span> | 10% |
-| ![](../img/icons/660.png){ .icon loading=lazy } [Diggersby](../pokemon/660.md) | <span class="type type-normal">Normal</span> <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/53.png){ .icon loading=lazy } [Persian](../pokemon/053.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/78.png){ .icon loading=lazy } [Rapidash](../pokemon/078.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/85.png){ .icon loading=lazy } [Dodrio](../pokemon/085.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/97.png){ .icon loading=lazy } [Hypno](../pokemon/097.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/180.png){ .icon loading=lazy } [Flaaffy](../pokemon/180.md)</span> | <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/262.png){ .icon loading=lazy } [Mightyena](../pokemon/262.md)</span> | <span class="type type-dark">Dark</span> | 10% |
+| <span class="mon">![](../img/icons/354.png){ .icon loading=lazy } [Banette](../pokemon/354.md)</span> | <span class="type type-ghost">Ghost</span> | 10% |
+| <span class="mon">![](../img/icons/507.png){ .icon loading=lazy } [Herdier](../pokemon/507.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/523.png){ .icon loading=lazy } [Zebstrika](../pokemon/523.md)</span> | <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/660.png){ .icon loading=lazy } [Diggersby](../pokemon/660.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-ground">Ground</span> | 10% |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/508.png){ .icon loading=lazy } [Stoutland](../pokemon/508.md) | <span class="type type-normal">Normal</span> | — |
+| <span class="mon">![](../img/icons/508.png){ .icon loading=lazy } [Stoutland](../pokemon/508.md)</span> | <span class="type type-normal">Normal</span> | — |
 
 ## Horde — Lv. 26
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/96.png){ .icon loading=lazy } [Drowzee](../pokemon/096.md) | <span class="type type-psychic">Psychic</span> | — |
+| <span class="mon">![](../img/icons/96.png){ .icon loading=lazy } [Drowzee](../pokemon/096.md)</span> | <span class="type type-psychic">Psychic</span> | — |
 
 
 ---

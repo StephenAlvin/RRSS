@@ -10,22 +10,22 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md) | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md) | <span class="type type-ghost">Ghost</span> <span class="type type-poison">Poison</span> | 10% |
-| ![](../img/icons/281.png){ .icon loading=lazy } [Kirlia](../pokemon/281.md) | <span class="type type-psychic">Psychic</span> <span class="type type-fairy">Fairy</span> | 10% |
-| ![](../img/icons/354.png){ .icon loading=lazy } [Banette](../pokemon/354.md) | <span class="type type-ghost">Ghost</span> | 10% |
-| ![](../img/icons/356.png){ .icon loading=lazy } [Dusclops](../pokemon/356.md) | <span class="type type-ghost">Ghost</span> | 10% |
-| ![](../img/icons/575.png){ .icon loading=lazy } [Gothorita](../pokemon/575.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/578.png){ .icon loading=lazy } [Duosion](../pokemon/578.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/563.png){ .icon loading=lazy } [Cofagrigus](../pokemon/563.md) | <span class="type type-ghost">Ghost</span> | 10% |
-| ![](../img/icons/606.png){ .icon loading=lazy } [Beheeyem](../pokemon/606.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/608.png){ .icon loading=lazy } [Lampent](../pokemon/608.md) | <span class="type type-ghost">Ghost</span> <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/42.png){ .icon loading=lazy } [Golbat](../pokemon/042.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-poison">Poison</span> | 10% |
+| <span class="mon">![](../img/icons/281.png){ .icon loading=lazy } [Kirlia](../pokemon/281.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-fairy">Fairy</span> | 10% |
+| <span class="mon">![](../img/icons/354.png){ .icon loading=lazy } [Banette](../pokemon/354.md)</span> | <span class="type type-ghost">Ghost</span> | 10% |
+| <span class="mon">![](../img/icons/356.png){ .icon loading=lazy } [Dusclops](../pokemon/356.md)</span> | <span class="type type-ghost">Ghost</span> | 10% |
+| <span class="mon">![](../img/icons/575.png){ .icon loading=lazy } [Gothorita](../pokemon/575.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/578.png){ .icon loading=lazy } [Duosion](../pokemon/578.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/563.png){ .icon loading=lazy } [Cofagrigus](../pokemon/563.md)</span> | <span class="type type-ghost">Ghost</span> | 10% |
+| <span class="mon">![](../img/icons/606.png){ .icon loading=lazy } [Beheeyem](../pokemon/606.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/608.png){ .icon loading=lazy } [Lampent](../pokemon/608.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-fire">Fire</span> | 10% |
 
 ## Horde — Lv. 30
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md) | <span class="type type-ghost">Ghost</span> <span class="type type-poison">Poison</span> | — |
+| <span class="mon">![](../img/icons/93.png){ .icon loading=lazy } [Haunter](../pokemon/093.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-poison">Poison</span> | — |
 
 
 ---

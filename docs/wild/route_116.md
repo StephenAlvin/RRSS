@@ -10,29 +10,29 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md) | <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/84.png){ .icon loading=lazy } [Doduo](../pokemon/084.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/177.png){ .icon loading=lazy } [Natu](../pokemon/177.md) | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/179.png){ .icon loading=lazy } [Mareep](../pokemon/179.md) | <span class="type type-electric">Electric</span> | 10% |
-| ![](../img/icons/228.png){ .icon loading=lazy } [Houndour](../pokemon/228.md) | <span class="type type-dark">Dark</span> <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/231.png){ .icon loading=lazy } [Phanpy](../pokemon/231.md) | <span class="type type-ground">Ground</span> | 10% |
-| ![](../img/icons/300.png){ .icon loading=lazy } [Skitty](../pokemon/300.md) | <span class="type type-normal">Normal</span> | <span class="rare">5%</span> |
-| ![](../img/icons/403.png){ .icon loading=lazy } [Shinx](../pokemon/403.md) | <span class="type type-electric">Electric</span> | 10% |
-| ![](../img/icons/667.png){ .icon loading=lazy } [Litleo](../pokemon/667.md) | <span class="type type-fire">Fire</span> <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/674.png){ .icon loading=lazy } [Pancham](../pokemon/674.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/676.png){ .icon loading=lazy } [Furfrou](../pokemon/676.md) | <span class="type type-normal">Normal</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/58.png){ .icon loading=lazy } [Growlithe](../pokemon/058.md)</span> | <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/84.png){ .icon loading=lazy } [Doduo](../pokemon/084.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/177.png){ .icon loading=lazy } [Natu](../pokemon/177.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/179.png){ .icon loading=lazy } [Mareep](../pokemon/179.md)</span> | <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/228.png){ .icon loading=lazy } [Houndour](../pokemon/228.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/231.png){ .icon loading=lazy } [Phanpy](../pokemon/231.md)</span> | <span class="type type-ground">Ground</span> | 10% |
+| <span class="mon">![](../img/icons/300.png){ .icon loading=lazy } [Skitty](../pokemon/300.md)</span> | <span class="type type-normal">Normal</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/403.png){ .icon loading=lazy } [Shinx](../pokemon/403.md)</span> | <span class="type type-electric">Electric</span> | 10% |
+| <span class="mon">![](../img/icons/667.png){ .icon loading=lazy } [Litleo](../pokemon/667.md)</span> | <span class="type type-fire">Fire</span> <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/674.png){ .icon loading=lazy } [Pancham](../pokemon/674.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/676.png){ .icon loading=lazy } [Furfrou](../pokemon/676.md)</span> | <span class="type type-normal">Normal</span> | <span class="rare">5%</span> |
 
 ## DexNav — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/301.png){ .icon loading=lazy } [Delcatty](../pokemon/301.md) | <span class="type type-normal">Normal</span> | — |
+| <span class="mon">![](../img/icons/301.png){ .icon loading=lazy } [Delcatty](../pokemon/301.md)</span> | <span class="type type-normal">Normal</span> | — |
 
 ## Horde — Lv. 10
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/133.png){ .icon loading=lazy } [Eevee](../pokemon/133.md) | <span class="type type-normal">Normal</span> | — |
+| <span class="mon">![](../img/icons/133.png){ .icon loading=lazy } [Eevee](../pokemon/133.md)</span> | <span class="type type-normal">Normal</span> | — |
 
 
 ---

@@ -12,23 +12,23 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/151.png){ .icon loading=lazy } [Mew](../pokemon/151.md) | <span class="type type-psychic">Psychic</span> | <span class="rare">5%</span> |
-| ![](../img/icons/380.png){ .icon loading=lazy } [Latias](../pokemon/380.md) | <span class="type type-dragon">Dragon</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/381.png){ .icon loading=lazy } [Latios](../pokemon/381.md) | <span class="type type-dragon">Dragon</span> <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/490.png){ .icon loading=lazy } [Manaphy](../pokemon/490.md) | <span class="type type-water">Water</span> | 10% |
-| ![](../img/icons/488.png){ .icon loading=lazy } [Cresselia](../pokemon/488.md) | <span class="type type-psychic">Psychic</span> | 10% |
-| ![](../img/icons/491.png){ .icon loading=lazy } [Darkrai](../pokemon/491.md) | <span class="type type-dark">Dark</span> | 10% |
-| ![](../img/icons/494.png){ .icon loading=lazy } [Victini](../pokemon/494.md) | <span class="type type-psychic">Psychic</span> <span class="type type-fire">Fire</span> | 10% |
-| ![](../img/icons/641.png){ .icon loading=lazy } [Tornadus](../pokemon/641.md) | <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/642.png){ .icon loading=lazy } [Thundurus](../pokemon/642.md) | <span class="type type-electric">Electric</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/645.png){ .icon loading=lazy } [Landorus](../pokemon/645.md) | <span class="type type-ground">Ground</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/720.png){ .icon loading=lazy } [Hoopa](../pokemon/720.md) | <span class="type type-psychic">Psychic</span> <span class="type type-ghost">Ghost</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/151.png){ .icon loading=lazy } [Mew](../pokemon/151.md)</span> | <span class="type type-psychic">Psychic</span> | <span class="rare">5%</span> |
+| <span class="mon">![](../img/icons/380.png){ .icon loading=lazy } [Latias](../pokemon/380.md)</span> | <span class="type type-dragon">Dragon</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/381.png){ .icon loading=lazy } [Latios](../pokemon/381.md)</span> | <span class="type type-dragon">Dragon</span> <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/490.png){ .icon loading=lazy } [Manaphy](../pokemon/490.md)</span> | <span class="type type-water">Water</span> | 10% |
+| <span class="mon">![](../img/icons/488.png){ .icon loading=lazy } [Cresselia](../pokemon/488.md)</span> | <span class="type type-psychic">Psychic</span> | 10% |
+| <span class="mon">![](../img/icons/491.png){ .icon loading=lazy } [Darkrai](../pokemon/491.md)</span> | <span class="type type-dark">Dark</span> | 10% |
+| <span class="mon">![](../img/icons/494.png){ .icon loading=lazy } [Victini](../pokemon/494.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-fire">Fire</span> | 10% |
+| <span class="mon">![](../img/icons/641.png){ .icon loading=lazy } [Tornadus](../pokemon/641.md)</span> | <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/642.png){ .icon loading=lazy } [Thundurus](../pokemon/642.md)</span> | <span class="type type-electric">Electric</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/645.png){ .icon loading=lazy } [Landorus](../pokemon/645.md)</span> | <span class="type type-ground">Ground</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/720.png){ .icon loading=lazy } [Hoopa](../pokemon/720.md)</span> | <span class="type type-psychic">Psychic</span> <span class="type type-ghost">Ghost</span> | <span class="rare">5%</span> |
 
 ## Rock Smash — Lv. 50
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md) | <span class="type type-normal">Normal</span> | — |
+| <span class="mon">![](../img/icons/132.png){ .icon loading=lazy } [Ditto](../pokemon/132.md)</span> | <span class="type type-normal">Normal</span> | — |
 
 
 ---

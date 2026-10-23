@@ -10,8 +10,8 @@
 
 | ID | Trainer | Pokémon |
 | --- | --- | --- |
-| 729 | **Battle Girl Tess** | ![](../img/icons/106.png){ .icon loading=lazy } [Hitmonlee](../pokemon/106.md) Lv. 65, ![](../img/icons/57.png){ .icon loading=lazy } [Primeape](../pokemon/057.md) Lv. 65, ![](../img/icons/286.png){ .icon loading=lazy } [Breloom](../pokemon/286.md) Lv. 65, ![](../img/icons/454.png){ .icon loading=lazy } [Toxicroak](../pokemon/454.md) Lv. 65, ![](../img/icons/214.png){ .icon loading=lazy } [Heracross](../pokemon/214.md) Lv. 65 |
-| 763 | **Dragon Tamer Dray** | ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 65, ![](../img/icons/497.png){ .icon loading=lazy } [Serperior](../pokemon/497.md) Lv. 65, ![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) Lv. 65, ![](../img/icons/706.png){ .icon loading=lazy } [Goodra](../pokemon/706.md) Lv. 65, ![](../img/icons/181.png){ .icon loading=lazy } [Ampharos](../pokemon/181.md) Lv. 65 |
+| 729 | **Battle Girl Tess** | <span class="mon">![](../img/icons/106.png){ .icon loading=lazy } [Hitmonlee](../pokemon/106.md) Lv. 65</span>, <span class="mon">![](../img/icons/57.png){ .icon loading=lazy } [Primeape](../pokemon/057.md) Lv. 65</span>, <span class="mon">![](../img/icons/286.png){ .icon loading=lazy } [Breloom](../pokemon/286.md) Lv. 65</span>, <span class="mon">![](../img/icons/454.png){ .icon loading=lazy } [Toxicroak](../pokemon/454.md) Lv. 65</span>, <span class="mon">![](../img/icons/214.png){ .icon loading=lazy } [Heracross](../pokemon/214.md) Lv. 65</span> |
+| 763 | **Dragon Tamer Dray** | <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) Lv. 65</span>, <span class="mon">![](../img/icons/497.png){ .icon loading=lazy } [Serperior](../pokemon/497.md) Lv. 65</span>, <span class="mon">![](../img/icons/350.png){ .icon loading=lazy } [Milotic](../pokemon/350.md) Lv. 65</span>, <span class="mon">![](../img/icons/706.png){ .icon loading=lazy } [Goodra](../pokemon/706.md) Lv. 65</span>, <span class="mon">![](../img/icons/181.png){ .icon loading=lazy } [Ampharos](../pokemon/181.md) Lv. 65</span> |
 
 
 ---

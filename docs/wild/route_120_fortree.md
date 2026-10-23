@@ -10,47 +10,47 @@
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md) | <span class="type type-dragon">Dragon</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/359.png){ .icon loading=lazy } [Absol](../pokemon/359.md) | <span class="type type-dark">Dark</span> | 10% |
-| ![](../img/icons/426.png){ .icon loading=lazy } [Drifblim](../pokemon/426.md) | <span class="type type-ghost">Ghost</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/432.png){ .icon loading=lazy } [Purugly](../pokemon/432.md) | <span class="type type-normal">Normal</span> | 10% |
-| ![](../img/icons/435.png){ .icon loading=lazy } [Skuntank](../pokemon/435.md) | <span class="type type-poison">Poison</span> <span class="type type-dark">Dark</span> | 10% |
-| ![](../img/icons/560.png){ .icon loading=lazy } [Scrafty](../pokemon/560.md) | <span class="type type-dark">Dark</span> <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/620.png){ .icon loading=lazy } [Mienshao](../pokemon/620.md) | <span class="type type-fighting">Fighting</span> | 10% |
-| ![](../img/icons/625.png){ .icon loading=lazy } [Bisharp](../pokemon/625.md) | <span class="type type-dark">Dark</span> <span class="type type-steel">Steel</span> | 10% |
-| ![](../img/icons/627.png){ .icon loading=lazy } [Rufflet](../pokemon/627.md) | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
-| ![](../img/icons/629.png){ .icon loading=lazy } [Vullaby](../pokemon/629.md) | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/334.png){ .icon loading=lazy } [Altaria](../pokemon/334.md)</span> | <span class="type type-dragon">Dragon</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/359.png){ .icon loading=lazy } [Absol](../pokemon/359.md)</span> | <span class="type type-dark">Dark</span> | 10% |
+| <span class="mon">![](../img/icons/426.png){ .icon loading=lazy } [Drifblim](../pokemon/426.md)</span> | <span class="type type-ghost">Ghost</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/432.png){ .icon loading=lazy } [Purugly](../pokemon/432.md)</span> | <span class="type type-normal">Normal</span> | 10% |
+| <span class="mon">![](../img/icons/435.png){ .icon loading=lazy } [Skuntank](../pokemon/435.md)</span> | <span class="type type-poison">Poison</span> <span class="type type-dark">Dark</span> | 10% |
+| <span class="mon">![](../img/icons/560.png){ .icon loading=lazy } [Scrafty](../pokemon/560.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/620.png){ .icon loading=lazy } [Mienshao](../pokemon/620.md)</span> | <span class="type type-fighting">Fighting</span> | 10% |
+| <span class="mon">![](../img/icons/625.png){ .icon loading=lazy } [Bisharp](../pokemon/625.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-steel">Steel</span> | 10% |
+| <span class="mon">![](../img/icons/627.png){ .icon loading=lazy } [Rufflet](../pokemon/627.md)</span> | <span class="type type-normal">Normal</span> <span class="type type-flying">Flying</span> | 10% |
+| <span class="mon">![](../img/icons/629.png){ .icon loading=lazy } [Vullaby](../pokemon/629.md)</span> | <span class="type type-dark">Dark</span> <span class="type type-flying">Flying</span> | 10% |
 
 ## Horde — Lv. 30
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/256.png){ .icon loading=lazy } [Combusken](../pokemon/256.md) | <span class="type type-fire">Fire</span> <span class="type type-fighting">Fighting</span> | — |
+| <span class="mon">![](../img/icons/256.png){ .icon loading=lazy } [Combusken](../pokemon/256.md)</span> | <span class="type type-fire">Fire</span> <span class="type type-fighting">Fighting</span> | — |
 
 ## Surfing — Lv. 30 - 40
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/418.png){ .icon loading=lazy } [Buizel](../pokemon/418.md) | <span class="type type-water">Water</span> | — |
-| ![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md) | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/418.png){ .icon loading=lazy } [Buizel](../pokemon/418.md)</span> | <span class="type type-water">Water</span> | — |
+| <span class="mon">![](../img/icons/419.png){ .icon loading=lazy } [Floatzel](../pokemon/419.md)</span> | <span class="type type-water">Water</span> | — |
 
 ## Old Rod — Lv. 15
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md) | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md)</span> | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
 
 ## Good Rod — Lv. 35
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md) | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/339.png){ .icon loading=lazy } [Barboach](../pokemon/339.md)</span> | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
 
 ## Super Rod — Lv. 55
 
 | Pokémon | Type | Rate |
 | --- | --- | --- |
-| ![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md) | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
+| <span class="mon">![](../img/icons/340.png){ .icon loading=lazy } [Whiscash](../pokemon/340.md)</span> | <span class="type type-water">Water</span> <span class="type type-ground">Ground</span> | — |
 
 
 ---
