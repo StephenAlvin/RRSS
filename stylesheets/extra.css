@@ -1,0 +1,258 @@
+/* Rising Ruby / Sinking Sapphire wiki styles */
+:root {
+  --rrss-ruby: #c0392b;
+  --rrss-sapphire: #2e6fb5;
+}
+
+/* Type badges */
+.type {
+  display: inline-block;
+  min-width: 4.2em;
+  padding: 0.05em 0.5em;
+  border-radius: 0.3em;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.35);
+  white-space: nowrap;
+  vertical-align: middle;
+}
+.type-normal { background: #a8a77a; }
+.type-fire { background: #ee8130; }
+.type-water { background: #6390f0; }
+.type-electric { background: #f7d02c; color: #333; text-shadow: none; }
+.type-grass { background: #7ac74c; }
+.type-ice { background: #96d9d6; color: #1f3d3c; text-shadow: none; }
+.type-fighting { background: #c22e28; }
+.type-poison { background: #a33ea1; }
+.type-ground { background: #e2bf65; color: #3f3310; text-shadow: none; }
+.type-flying { background: #a98ff3; }
+.type-psychic { background: #f95587; }
+.type-bug { background: #a6b91a; }
+.type-rock { background: #b6a136; }
+.type-ghost { background: #735797; }
+.type-dragon { background: #6f35fc; }
+.type-dark { background: #705746; }
+.type-steel { background: #b7b7ce; color: #2b2b3a; text-shadow: none; }
+.type-fairy { background: #d685ad; }
+
+/* Damage class */
+.cat {
+  display: inline-block;
+  padding: 0.05em 0.45em;
+  border-radius: 0.3em;
+  font-size: 0.72em;
+  font-weight: 700;
+  white-space: nowrap;
+  color: #fff;
+}
+.cat-physical { background: #c92112; }
+.cat-special { background: #4f5870; }
+.cat-status { background: #8c888c; }
+
+/* Change markers */
+.chg, .new, .tag {
+  display: inline-block;
+  padding: 0 0.45em;
+  border-radius: 0.3em;
+  font-size: 0.7em;
+  font-weight: 700;
+  text-transform: uppercase;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.chg { background: var(--rrss-ruby); color: #fff; }
+.new { background: #2a9d8f; color: #fff; }
+.tag { background: var(--rrss-sapphire); color: #fff; }
+.mark { font-weight: 700; cursor: help; }
+.mark-1 { color: #e67e22; }
+.mark-2 { color: var(--rrss-ruby); }
+.changed { font-weight: 700; color: var(--rrss-ruby); }
+.was { color: var(--md-default-fg-color--light); font-size: 0.75em; white-space: nowrap; }
+.rare { color: #e67e22; font-weight: 700; }
+
+/* Sprites */
+.sprite, .sprite-sm, .sprite-lg, .icon, .item { vertical-align: middle; image-rendering: pixelated; }
+.sprite-lg { width: 120px; height: 120px; }
+.sprite { width: 64px; height: 64px; }
+.sprite-sm { width: 40px; height: 40px; }
+.icon { width: 32px; height: 32px; margin: -6px 0; }
+.item { width: 24px; height: 24px; }
+
+.mon-header { display: flex; align-items: center; gap: 1.5rem; margin: 0 0 1rem 0; flex-wrap: wrap; }
+.mon-header .sprite-lg {
+  flex: 0 0 auto;
+  background: var(--md-code-bg-color);
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+.mon-meta p { margin: 0.3rem 0; }
+
+/* Stat bars */
+.statv { display: inline-block; min-width: 2.2em; font-variant-numeric: tabular-nums; }
+.bar {
+  display: inline-block;
+  width: 70px;
+  height: 0.6em;
+  margin-left: 0.4em;
+  background: var(--md-default-fg-color--lightest);
+  border-radius: 0.3em;
+  overflow: hidden;
+  vertical-align: middle;
+}
+.bar-fill { display: block; height: 100%; border-radius: 0.3em; }
+
+/* Layout: give wide tables more room */
+.md-grid { max-width: 1500px; }
+
+/* Tables */
+.md-typeset table:not([class]) { font-size: 0.72rem; }
+.md-typeset table:not([class]) th { white-space: nowrap; }
+.md-typeset table:not([class]) td { vertical-align: middle; white-space: nowrap; }
+.md-typeset table:not([class]) td .effect,
+.md-typeset table:not([class]) td abbr { white-space: normal; display: inline-block; min-width: 16em; max-width: 28em; line-height: 1.3; }
+.md-typeset table:not([class]) td abbr { min-width: 0; }
+.md-typeset .admonition table:not([class]) td,
+.md-typeset details table:not([class]) td { white-space: normal; }
+.md-typeset table:not([class]) td:has(.icon) { white-space: normal; }
+.md-typeset th[role="columnheader"] { cursor: pointer; }
+/* A Pokémon icon and its name are one unit: a line never breaks between them, while cells that
+   list several Pokémon still wrap between the units. */
+.md-typeset .mon { white-space: nowrap; }
+
+/* Long and wide tables. javascripts/table-scrollbar.js puts each table in a .table-scroll box with
+   a scrollbar copy after it, and sets --table-head-top and --table-travel on the box. */
+.md-typeset .table-scroll { --table-gutter: 0.8rem; } /* Material's side padding around tables */
+.md-typeset .admonition .table-scroll,
+.md-typeset details .table-scroll { --table-gutter: 0.6rem; }
+
+/* Sticky header row. Material's sideways-scrolling table box stops position: sticky from working, so
+   the header cells follow the page with a scroll-driven animation instead (it runs off the main
+   thread, and the cells still scroll sideways with the table). Browsers without scroll-driven
+   animations keep a normal header. */
+@supports (animation-timeline: view()) {
+  .md-typeset .table-scroll {
+    view-timeline: --table-scroll block;
+    view-timeline-inset: 2.4rem 0; /* stick right below the site header */
+  }
+  .md-typeset .table-scroll thead th {
+    position: relative;
+    z-index: 1;
+    background-color: var(--md-default-bg-color);
+    box-shadow: inset 0 -0.05rem 0 var(--md-typeset-table-color); /* the line under the header travels with it */
+    animation: table-head-follow linear both;
+    animation-timeline: --table-scroll;
+    animation-range: exit-crossing var(--table-head-top, 0px) exit-crossing calc(var(--table-head-top, 0px) + var(--table-travel, 0px));
+  }
+  .md-typeset .table-scroll tbody > tr:first-child > td { border-top-color: transparent; }
+  .md-typeset .table-scroll--restart thead th { animation-name: none; }
+  @keyframes table-head-follow { to { transform: translateY(var(--table-travel, 0px)); } }
+}
+
+/* Sticky horizontal scrollbar: a copy of the table's scrollbar stays at the bottom of the window
+   while a wide table is on screen and settles under the last row at the end. The table's own
+   scrollbar is hidden so only one shows. Touch screens keep the native swipe. */
+.md-typeset .table-scrollbar { display: none; }
+@media (hover: hover) and (pointer: fine) {
+  .md-typeset .table-scroll--wide > .md-typeset__scrollwrap { margin-bottom: 0; scrollbar-width: none; }
+  .md-typeset .table-scroll--wide > .md-typeset__scrollwrap::-webkit-scrollbar { display: none; }
+  .md-typeset .table-scroll--wide > .table-scrollbar {
+    display: block;
+    position: sticky;
+    bottom: 0;
+    z-index: 2;
+    /* As wide as the table's scroll area; the side borders keep the track in line with the text column,
+       and the top and bottom borders are the breathing space around it. */
+    margin: 0 calc(-1 * var(--table-gutter)) 1em;
+    border: 0.35rem solid var(--md-default-bg-color);
+    border-left-width: var(--table-gutter);
+    border-right-width: var(--table-gutter);
+    overflow-x: auto;
+    overflow-y: hidden;
+    background-color: var(--md-default-bg-color);
+  }
+  .md-typeset .table-scrollbar > div { height: 1px; }
+  /* Custom WebKit/Blink scrollbars are always drawn, even where macOS would hide an overlay scrollbar. */
+  .md-typeset .table-scrollbar::-webkit-scrollbar { height: 0.6rem; }
+  .md-typeset .table-scrollbar::-webkit-scrollbar-track { background-color: var(--md-default-fg-color--lightest); border-radius: 0.3rem; }
+  .md-typeset .table-scrollbar::-webkit-scrollbar-thumb {
+    background-color: var(--md-default-fg-color--lighter);
+    background-clip: padding-box;
+    border: 0.1rem solid transparent;
+    border-radius: 0.3rem;
+  }
+  .md-typeset .table-scrollbar::-webkit-scrollbar-thumb:hover,
+  .md-typeset .table-scrollbar::-webkit-scrollbar-thumb:active { background-color: var(--md-default-fg-color--light); }
+  @supports not selector(::-webkit-scrollbar) {
+    .md-typeset .table-scrollbar { scrollbar-color: var(--md-default-fg-color--lighter) var(--md-default-fg-color--lightest); }
+  }
+  /* A line above the bar while it floats over the rows; it fades out as the bar settles under the table. */
+  @supports (animation-timeline: view()) {
+    .md-typeset .table-scroll--wide > .table-scrollbar {
+      animation: table-scrollbar-settle linear both;
+      animation-timeline: --table-scroll;
+      animation-range: entry-crossing calc(100% - 0.6rem) entry-crossing 100%;
+    }
+    @keyframes table-scrollbar-settle {
+      from { box-shadow: 0 -0.05rem 0 var(--md-typeset-table-color); }
+      to { box-shadow: 0 -0.05rem 0 transparent; }
+    }
+  }
+}
+.table-filter {
+  width: 100%;
+  max-width: 24rem;
+  margin: 0 0 0.6rem 0;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 0.3rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  font-size: 0.75rem;
+}
+
+/* Header: same colour as the page background in both light and dark mode */
+.md-header {
+  --md-primary-fg-color: var(--md-default-bg-color);
+  --md-primary-bg-color: var(--md-default-fg-color);
+  --md-primary-bg-color--light: var(--md-default-fg-color--light);
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+}
+.md-header, .md-header--shadow { box-shadow: none; }
+.md-search__form { background-color: var(--md-default-fg-color--lightest); }
+.md-search__input::placeholder { color: var(--md-default-fg-color--light); }
+
+/* Hide the site title at the top of the left menu (desktop only; on mobile it is the drawer header) */
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary > .md-nav__title { display: none; }
+}
+
+/* Headings that must exist for the page title but should not be displayed */
+.md-typeset .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); margin: 0; }
+
+/* Home page */
+.hero { text-align: center; margin: 0 0 1.5rem 0; }
+.hero img { max-width: 320px; width: 45%; margin: 0.5rem 1rem; }
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.md-typeset .cards .card {
+  display: block;
+  padding: 1rem 1.2rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  background: var(--md-code-bg-color);
+  color: inherit;
+  text-decoration: none;
+}
+.md-typeset .cards .card:hover { border-color: var(--md-accent-fg-color); }
+.md-typeset .cards .card strong { display: block; margin-bottom: 0.3rem; font-size: 0.95rem; }
+.md-typeset .cards .card span { display: block; color: var(--md-default-fg-color--light); font-size: 0.78rem; line-height: 1.4; }
